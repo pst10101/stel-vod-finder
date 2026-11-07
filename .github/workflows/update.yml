@@ -1,6 +1,6 @@
 # 다시보기 목록 자동 갱신
 # 사이트는 Cloudflare Pages가 이 저장소의 docs 폴더를 보고 자동으로 배포한다.
-# (GitHub Pages로 배포하고 싶으면 저장소 변수 GITHUB_PAGES 를 true 로)
+# (GitHub Pages로 배포하고 싶으면 저장소 변수 USE_GITHUB_PAGES 를 true 로)
 name: update
 
 on:
@@ -81,18 +81,18 @@ jobs:
           git pull --rebase
           git push
 
-      # ---- GitHub Pages로 배포할 때만 (저장소 변수 GITHUB_PAGES = true) ----
-      - if: vars.GITHUB_PAGES == 'true'
+      # ---- GitHub Pages로 배포할 때만 (저장소 변수 USE_GITHUB_PAGES = true) ----
+      - if: vars.USE_GITHUB_PAGES == 'true'
         uses: actions/configure-pages@v5
 
-      - if: vars.GITHUB_PAGES == 'true'
+      - if: vars.USE_GITHUB_PAGES == 'true'
         uses: actions/upload-pages-artifact@v3
         with:
           path: docs
 
   deploy:
     needs: update
-    if: vars.GITHUB_PAGES == 'true'
+    if: vars.USE_GITHUB_PAGES == 'true'
     runs-on: ubuntu-latest
     environment:
       name: github-pages

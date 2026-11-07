@@ -50,7 +50,7 @@ Cloudflare Pages는 비공개 저장소도 연결된다. 코드와 GitHub 아이
 
 ### GitHub Pages로 띄우고 싶으면
 Cloudflare 대신 GitHub Pages를 쓰려면: Settings → Pages → Source를 **GitHub Actions**로 하고,
-Settings → Secrets and variables → Actions → Variables에 `GITHUB_PAGES` = `true` 를 추가한다.
+Settings → Secrets and variables → Actions → Variables에 `USE_GITHUB_PAGES` = `true` 를 추가한다.
 주소는 `아이디.github.io/저장소이름`. 공개 저장소에서만 무료, 한 달 트래픽 100GB 권장.
 
 ## 멤버 채널 ID (`members.json`)
