@@ -1,6 +1,5 @@
-# 다시보기 목록 자동 갱신
-# 사이트는 Cloudflare Pages가 이 저장소의 docs 폴더를 보고 자동으로 배포한다.
-# (GitHub Pages로 배포하고 싶으면 저장소 변수 USE_GITHUB_PAGES 를 true 로)
+# 다시보기 목록 자동 갱신 → docs 폴더를 GitHub Pages로 배포
+# (저장소 변수 USE_GITHUB_PAGES 가 true 일 때만 배포 단계가 돈다)
 name: update
 
 on:

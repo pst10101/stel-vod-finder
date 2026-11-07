@@ -179,7 +179,7 @@ function render() {
 
   if (!DATA.items.length) {
     count.textContent = '';
-    listEl.innerHTML = `<div class="empty"><p>아직 수집된 방송이 없어요.</p><p>저장소의 Actions 탭에서 update를 한 번 실행하면 채워져요.</p></div>`;
+    listEl.innerHTML = `<div class="empty"><p>아직 수집된 방송이 없어요.</p><p>잠시 후 다시 확인해 주세요.</p></div>`;
     more.hidden = true;
     return;
   }
