@@ -316,6 +316,9 @@ details.all-parts summary { cursor: pointer; color: var(--ink-2); font-weight: 6
 .empty p { margin: 0; }
 .empty p + p { margin-top: 6px; color: var(--ink-2); font-size: 14px; }
 
+/* display를 직접 준 요소도 hidden 속성이면 확실히 숨김 */
+[hidden] { display: none !important; }
+
 .more {
   display: block;
   width: 100%;
