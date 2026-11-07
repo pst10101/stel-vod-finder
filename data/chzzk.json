@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794066718560,
+ "updatedAt": 1794069197700,
  "members": {
   "gangzi": {
    "channelId": "b5ed5db484d04faf4d150aedd362f34b",
@@ -1724,6 +1724,7 @@
   "hina": {
    "channelId": "b044e3a3b9259246bc92e863e7d3f3b8",
    "videos": [
+    {"no":16072354,"title":"토아 메리 씨랑 인사하는 날","type":"REPLAY","cat":"talk","pub":1794068737734,"open":null,"dur":17823},
     {"no":16055829,"title":"호랑이 잡자","type":"REPLAY","cat":"talk","pub":1793983948733,"open":null,"dur":25009},
     {"no":16022835,"title":"요즘 버튜버? 이런 거 유행한다는데 한 번 해볼게요 ;;;;","type":"REPLAY","cat":"talk","pub":1793810583159,"open":null,"dur":20196},
     {"no":16003345,"title":"나 에 이 징 커 브 아 니 라 고","type":"REPLAY","cat":"talk","pub":1793716212215,"open":null,"dur":15232},
