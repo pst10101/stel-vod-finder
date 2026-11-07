@@ -22,8 +22,8 @@ function validDate(y, mo, d, refMs) {
 export function parseTitleDate(title, refMs = Date.now()) {
   const t = String(title || '');
   let m;
-  // 2024.03.12 / 2024-3-12 / 2024년 3월 12일
-  if ((m = /(20\d{2})\s*[.\-/년]\s*(\d{1,2})\s*[.\-/월]\s*(\d{1,2})/.exec(t))) {
+  // 2024.03.12 / 2024-3-12 / 2024년 3월 12일 / 2024 03 12
+  if ((m = /(?<!\d)(20\d{2})(?:\s*[.\-/년]\s*|\s+)(\d{1,2})(?:\s*[.\-/월]\s*|\s+)(\d{1,2})(?!\d)/.exec(t))) {
     const r = validDate(+m[1], +m[2], +m[3], refMs);
     if (r) return r;
   }
@@ -32,8 +32,8 @@ export function parseTitleDate(title, refMs = Date.now()) {
     const r = validDate(+m[1], +m[2], +m[3], refMs);
     if (r) return r;
   }
-  // 24.03.12
-  if ((m = /(?<!\d)(\d{2})[.\-/](\d{1,2})[.\-/](\d{1,2})(?!\d)/.exec(t))) {
+  // 24.03.12 / 24. 3. 12
+  if ((m = /(?<!\d)(\d{2})\s*[.\-/]\s*(\d{1,2})\s*[.\-/]\s*(\d{1,2})(?!\d)/.exec(t))) {
     const r = validDate(2000 + +m[1], +m[2], +m[3], refMs);
     if (r) return r;
   }
