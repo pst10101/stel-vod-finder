@@ -49,7 +49,8 @@ async function resolveChannelId(member, idCache) {
 function allowed(v) {
   if (v.adult) return false; // 연령 제한
   if (v.blindType) return false; // 블라인드 처리
-  if (v.exposure === false) return false; // 비공개
+  if (v.paidProductId) return false; // 유료·구독자 전용
+  // 참고: exposure는 공개 다시보기도 false로 와서 공개 여부 판단에 쓰면 안 됨
   return true;
 }
 
