@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>스텔 다시보기 찾기</title>
+  <meta name="description" content="스텔라이브 멤버가 한 게임으로 치지직·유튜브 다시보기를 찾는 비공식 팬사이트">
+  <meta name="theme-color" content="#EEF0F6" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#151830" media="(prefers-color-scheme: dark)">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='2' y='13' width='9' height='6' rx='3' fill='%23B3B7DD'/%3E%3Crect x='12' y='13' width='9' height='6' rx='3' fill='%23F5A623'/%3E%3Crect x='22' y='13' width='8' height='6' rx='3' fill='%23B3B7DD'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <h1 class="wordmark">스텔 다시보기 찾기</h1>
+    <p class="updated" id="updated"></p>
+  </header>
+
+  <main>
+    <section class="finder" aria-label="검색">
+      <label class="sr-only" for="q">게임 이름</label>
+      <input id="q" class="q" type="search" autocomplete="off" enterkeyhint="search"
+             placeholder="어떤 게임 찾아? (마크, 발로란트…)">
+      <p class="hint">찾는 게임을 한 구간은 노란색으로 표시돼요.</p>
+
+      <div class="members" id="members" role="group" aria-label="멤버"></div>
+
+      <div class="filters">
+        <div class="seg" role="group" aria-label="플랫폼" id="platform">
+          <button type="button" data-v="all" aria-pressed="true">모든 영상</button>
+          <button type="button" data-v="chzzk" aria-pressed="false">치지직</button>
+          <button type="button" data-v="youtube" aria-pressed="false">유튜브</button>
+        </div>
+        <div class="selects">
+        <label class="select">
+          <span class="sr-only">연도</span>
+          <select id="year"><option value="">모든 연도</option></select>
+        </label>
+        <label class="select">
+          <span class="sr-only">정렬</span>
+          <select id="sort">
+            <option value="new">최신순</option>
+            <option value="old">오래된순</option>
+          </select>
+        </label>
+        </div>
+      </div>
+    </section>
+
+    <p class="count" id="count" aria-live="polite">방송 목록을 불러오는 중…</p>
+    <div id="list"></div>
+    <button type="button" class="more" id="more" hidden>더 보기</button>
+  </main>
+
+  <footer class="foot">
+    <p>팬이 만든 비공식 사이트예요. 스텔라이브, 치지직, YouTube와 관계없어요.</p>
+    <p>영상과 썸네일은 저장하지 않고, 각 플랫폼의 원본 다시보기로 연결해요.</p>
+    <p id="contact-line" hidden>내려야 할 내용이 있으면 <a id="contact" href="#" target="_blank" rel="noopener">여기</a>로 알려주세요.</p>
+  </footer>
+
+  <script src="app.js" type="module"></script>
+</body>
+</html>

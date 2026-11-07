@@ -1,0 +1,102 @@
+# 다시보기 목록 자동 갱신
+# 사이트는 Cloudflare Pages가 이 저장소의 docs 폴더를 보고 자동으로 배포한다.
+# (GitHub Pages로 배포하고 싶으면 저장소 변수 GITHUB_PAGES 를 true 로)
+name: update
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'   # 6시간마다 새 다시보기만 수집 (UTC 기준)
+    - cron: '43 19 * * 6'    # 매주 일요일 04:43 (한국 시간) 전체 새로고침
+  workflow_dispatch:
+    inputs:
+      full:
+        description: '전체 다시 수집 (처음 한 번은 체크)'
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths: ['docs/**', 'scripts/build.mjs', 'members.json']
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: data-commit
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: 수집 방식 정하기
+        id: mode
+        run: |
+          if [ "${{ github.event_name }}" = "push" ]; then
+            echo "fetch=no" >> "$GITHUB_OUTPUT"
+          else
+            echo "fetch=yes" >> "$GITHUB_OUTPUT"
+          fi
+          if [ "${{ inputs.full }}" = "true" ] || [ "${{ github.event.schedule }}" = "43 19 * * 6" ]; then
+            echo "flag=--full" >> "$GITHUB_OUTPUT"
+          else
+            echo "flag=" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: 치지직 다시보기 수집
+        if: steps.mode.outputs.fetch == 'yes'
+        continue-on-error: true
+        run: node scripts/fetch-chzzk.mjs ${{ steps.mode.outputs.flag }}
+
+      - name: 유튜브 다시보기 수집
+        if: steps.mode.outputs.fetch == 'yes'
+        continue-on-error: true
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: node scripts/fetch-youtube.mjs ${{ steps.mode.outputs.flag }}
+
+      - name: 사이트 데이터 만들기
+        env:
+          CONTACT_URL: ${{ vars.CONTACT_URL }}
+        run: node scripts/build.mjs
+
+      - name: 바뀐 데이터 저장
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data docs/data
+          if git diff --cached --quiet; then
+            echo "바뀐 데이터 없음"
+            exit 0
+          fi
+          git commit -m "data: 다시보기 목록 갱신"
+          git pull --rebase
+          git push
+
+      # ---- GitHub Pages로 배포할 때만 (저장소 변수 GITHUB_PAGES = true) ----
+      - if: vars.GITHUB_PAGES == 'true'
+        uses: actions/configure-pages@v5
+
+      - if: vars.GITHUB_PAGES == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    needs: update
+    if: vars.GITHUB_PAGES == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

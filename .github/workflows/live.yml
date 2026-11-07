@@ -1,0 +1,43 @@
+# (2단계) 방송 중 카테고리 변경 기록 — 한 방송에서 여러 게임 한 걸 "몇 분부터"로 찾게 해줌
+# 처음엔 Actions 탭에서 손으로 한 번 실행해서 에러 없는지 보고,
+# 괜찮으면 아래 schedule 두 줄의 # 을 지워서 켜면 됨.
+name: live
+
+on:
+  workflow_dispatch:
+  # schedule:
+  #   - cron: '*/10 * * * *'   # 10분마다 (GitHub 사정으로 늦어질 수 있음)
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-commit
+  cancel-in-progress: false
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: 방송 중인 멤버 카테고리 확인
+        run: node scripts/track-live.mjs
+
+      - name: 바뀐 기록 저장
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/segments.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "바뀐 기록 없음"
+            exit 0
+          fi
+          git commit -m "data: 방송 구간 기록"
+          git pull --rebase
+          git push
