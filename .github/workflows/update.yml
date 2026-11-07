@@ -31,7 +31,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 60
     steps:
+      # 대기열에서 기다렸다 도는 실행도 "지금" 최신 main에서 시작해야 앞 실행이 올린 데이터와 안 부딪힘
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - uses: actions/setup-node@v4
         with:
@@ -78,8 +81,12 @@ jobs:
             exit 0
           fi
           git commit -m "data: 다시보기 목록 갱신"
-          git pull --rebase
-          git push
+          for i in 1 2 3; do
+            git pull --rebase && git push && exit 0
+            git rebase --abort 2>/dev/null || true
+            sleep 5
+          done
+          exit 1
 
       # ---- GitHub Pages로 배포할 때만 (저장소 변수 USE_GITHUB_PAGES = true) ----
       - if: vars.USE_GITHUB_PAGES == 'true'
