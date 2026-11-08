@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794117573492,
+ "updatedAt": 1794144266961,
  "members": {
   "gangzi": {
    "channelId": "b5ed5db484d04faf4d150aedd362f34b",
@@ -6045,6 +6045,7 @@
   "nana": {
    "channelId": "4d812b586ff63f8a2946e64fa860bbf5",
    "videos": [
+    {"no":16081722,"title":"KEL 결승 파트너 스트리머 아닙니다 오암응원방","type":"REPLAY","cat":"이터널 리턴","pub":1794131809391,"open":null,"dur":16635},
     {"no":16071231,"title":"짧게여","type":"REPLAY","cat":"마인크래프트","pub":1794065937831,"open":null,"dur":11096},
     {"no":16064676,"title":"수다 마크의 날","type":"REPLAY","cat":"마인크래프트","pub":1794043891095,"open":null,"dur":12346},
     {"no":16049497,"title":"간만에 마크?","type":"REPLAY","cat":"마인크래프트","pub":1793969285307,"open":null,"dur":24114},
@@ -7353,6 +7354,7 @@
   "mary": {
    "channelId": "792acf9ca28b42918710327e14b06b68",
    "videos": [
+    {"no":16075382,"title":"스텔 마크 재밌게따!!!","type":"REPLAY","cat":"마인크래프트","pub":1794117735227,"open":null,"dur":29274},
     {"no":16033520,"title":"잔잔하게..? 노래를 해볼까요오","type":"REPLAY","cat":"음악/노래","pub":1793884133583,"open":null,"dur":11514},
     {"no":16004932,"title":"오늘 무려 7부를 했습니닷","type":"REPLAY","cat":"종합 게임","pub":1793722131923,"open":null,"dur":22512},
     {"no":15982156,"title":"오늘은 잠깐 와써요오","type":"REPLAY","cat":"talk","pub":1793605248736,"open":null,"dur":4691},
