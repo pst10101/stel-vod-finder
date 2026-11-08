@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794092797161,
+ "updatedAt": 1794117573492,
  "members": {
   "gangzi": {
    "channelId": "b5ed5db484d04faf4d150aedd362f34b",
@@ -5437,7 +5437,7 @@
   "rin": {
    "channelId": "516937b5f85cbf2249ce31b0ad046b0f",
    "videos": [
-    {"no":16074893,"title":"저 3기생입니다","type":"REPLAY","cat":"마인크래프트","pub":1794076376506,"open":null,"dur":26781},
+    {"no":16074893,"title":"저 3기생입니다","type":"REPLAY","cat":"마인크래프트","pub":1794076376506,"open":null,"dur":26780},
     {"no":16021664,"title":"발헤임 지고쿠지고쿠","type":"REPLAY","cat":"발헤임","pub":1793807592632,"open":null,"dur":18290},
     {"no":16007653,"title":"워든을 보러가요 w. 리코, 타비","type":"REPLAY","cat":"마인크래프트","pub":1793726514025,"open":null,"dur":22960},
     {"no":15991667,"title":"스텔마크 잠깐 대공사","type":"REPLAY","cat":"마인크래프트","pub":1793637659697,"open":null,"dur":19949},
@@ -7285,6 +7285,7 @@
   "toa": {
    "channelId": "2299fad4bebb504b0978e1ec08b2f7d3",
    "videos": [
+    {"no":16076347,"title":"스텔 마크다 !!!!!","type":"REPLAY","cat":"마인크래프트","pub":1794114451952,"open":null,"dur":35119},
     {"no":16048556,"title":"찌르기","type":"REPLAY","cat":"talk","pub":1793972418193,"open":null,"dur":12096},
     {"no":16032418,"title":"감사의 잠깐 찌르기","type":"REPLAY","cat":"talk","pub":1793881370894,"open":null,"dur":4396},
     {"no":15974442,"title":"3주차 신입","type":"REPLAY","cat":"그림자 복도","pub":1793546925696,"open":null,"dur":29651},
@@ -7304,7 +7305,7 @@
   "rang": {
    "channelId": "c657aa3592260a2b59669a72ec151936",
    "videos": [
-    {"no":16075708,"title":"[속보] 스텔마크서버 호랑이 출몰..","type":"REPLAY","cat":"마인크래프트","pub":1794080930790,"open":null,"dur":28675},
+    {"no":16075708,"title":"[속보] 스텔마크서버 호랑이 출몰..","type":"REPLAY","cat":"마인크래프트","pub":1794080930790,"open":null,"dur":28673},
     {"no":16060237,"title":"[랑이TV] 안녕하세요 여러분 오늘은요~!","type":"REPLAY","cat":"마인크래프트","pub":1794010109894,"open":null,"dur":58415},
     {"no":16014773,"title":"너 누구양","type":"REPLAY","cat":"talk","pub":1793788725924,"open":null,"dur":15349},
     {"no":16002955,"title":"호랭이 와찌이이","type":"REPLAY","cat":"talk","pub":1793717138778,"open":null,"dur":22772},
