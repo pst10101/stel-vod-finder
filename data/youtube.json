@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794144272727,
+ "updatedAt": 1794175464554,
  "channels": {
   "UC2Ki6__sICXPyHPCyFxIgbw": {
    "videos": [
@@ -2358,6 +2358,7 @@
   },
   "@hinareplay": {
    "videos": [
+    {"id":"PnxotsAkwKE","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"호랑이 잡자 [26. 11.6]","pub":1794168292000,"liveStart":null,"liveEnd":null,"dur":24711,"titleDate":"2026-11-06","chapters":[]},
     {"id":"BUcMUM2i9_g","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"요즘 버튜버? 이런 거 유행한다는데 한 번 해볼게요 ;;;; [26. 11.4]","pub":1793855849000,"liveStart":null,"liveEnd":null,"dur":20200,"titleDate":"2026-11-04","chapters":[]},
     {"id":"3lp0qV-LIv8","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"나 에 이 징 커 브 아 니 라 고 [26. 11.3]","pub":1793786028000,"liveStart":null,"liveEnd":null,"dur":14943,"titleDate":"2026-11-03","chapters":[]},
     {"id":"sjzFlbDJFys","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"#난안죽어 #너나죽어 #같이죽어 [26. 11.2]","pub":1793673027000,"liveStart":null,"liveEnd":null,"dur":38559,"titleDate":"2026-11-02","chapters":[]},
@@ -5769,6 +5770,7 @@
   },
   "@shibukireplay": {
    "videos": [
+    {"id":"8Gzg7iFtL18","ch":"UCfoPMrULJvdKN8GlBZJwqHg","m":"shibuki","title":"감자 벗기기 [포테이토 플리즈+롤][2026.11.05]","pub":1794166427000,"liveStart":null,"liveEnd":null,"dur":25991,"titleDate":"2026-11-05","chapters":[[0,"저스트 채팅"],[4285,"포테이토 플리즈"],[21191,"리그오브레전드"]]},
     {"id":"g2xYOBT5nDQ","ch":"UCfoPMrULJvdKN8GlBZJwqHg","m":"shibuki","title":"감자 벗기기 [포테이토 플리즈+롤][2026.11.05]","pub":1794049191000,"liveStart":null,"liveEnd":null,"dur":26691,"titleDate":"2026-11-05","chapters":[[0,"저스트 채팅"],[4964,"포테이토 플리즈"],[21894,"리그오브레전드"]]},
     {"id":"bhHHXIyE2B8","ch":"UCfoPMrULJvdKN8GlBZJwqHg","m":"shibuki","title":"든든한 방패들과 함께하는 왁자지껄 7인합방 [발헤임 w.후야,시로,타비,린,나나,리코][2026.11.04]","pub":1793966645000,"liveStart":null,"liveEnd":null,"dur":25017,"titleDate":"2026-11-04","chapters":[[0,"저스트 채팅"],[1947,"발헤임"]]},
     {"id":"WohALFaKD9o","ch":"UCfoPMrULJvdKN8GlBZJwqHg","m":"shibuki","title":"아니 분명 보물상자였는데ㅠㅠ [에이징커브 테스트+다크소울3 dlc#2+스텔마크][2026.11.03]","pub":1793877383000,"liveStart":null,"liveEnd":null,"dur":27091,"titleDate":"2026-11-03","chapters":[[0,"저스트 채팅"],[1524,"에이징커브 테스트"],[6234,"다크소울 3"],[24011,"스텔마크"]]},
@@ -7042,6 +7044,7 @@
   },
   "@nana_replay": {
    "videos": [
+    {"id":"Q_VRNR76g60","ch":"UCmmzr9DL0_t5ui1TAZjv-nA","m":"nana","title":"[ 2026/11/8 ] 그래도 씻고 봐서 다행이다! [마크 스텔서버] | 나나 다시보기","pub":1794157230000,"liveStart":null,"liveEnd":null,"dur":14546,"titleDate":"2026-11-08","chapters":[]},
     {"id":"pYgFVdCLY1g","ch":"UCmmzr9DL0_t5ui1TAZjv-nA","m":"nana","title":"[ 2026/11/7 ] 후배들한테는 젠틀하게, 선배한테는 사랑의 회초리 맞기❤️ [마크 스텔서버] | 나나 다시보기","pub":1794081615000,"liveStart":null,"liveEnd":null,"dur":11101,"titleDate":"2026-11-07","chapters":[]},
     {"id":"KJbPOOe81F0","ch":"UCmmzr9DL0_t5ui1TAZjv-nA","m":"nana","title":"[ 2026/11/7 ] 곰한테 또!!!!!!! 죽어써!!!!!!!! [마크 스텔서버] | 나나 다시보기","pub":1794054561000,"liveStart":null,"liveEnd":null,"dur":12351,"titleDate":"2026-11-07","chapters":[]},
     {"id":"cjeSjBZmn44","ch":"UCmmzr9DL0_t5ui1TAZjv-nA","m":"nana","title":"[ 2026/11/6 ] 선배들이 기강을 다지시려 하네요, 당해주죠? [버튜버로 살아가기 / 마크 스텔서버] | 나나 다시보기","pub":1793980800000,"liveStart":null,"liveEnd":null,"dur":24119,"titleDate":"2026-11-06","chapters":[]},
