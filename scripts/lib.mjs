@@ -92,7 +92,7 @@ export const normName = (s) => String(s || '').replace(/\s+/g, '').toLowerCase()
 
 export async function loadMembers() {
   const { members } = await readJSON(path('members.json'));
-  return members.filter((m) => m.enabled !== false);
+  return members.filter((m) => m.enabled !== false && !m.noFetch);
 }
 
 export const log = (...a) => console.log(new Date().toISOString().slice(11, 19), ...a);

@@ -101,7 +101,7 @@ function classify(v, mode) {
 
 function channelRefs(cfg) {
   const refs = [];
-  for (const m of cfg.members.filter((m) => m.enabled !== false)) {
+  for (const m of cfg.members.filter((m) => m.enabled !== false && !m.noFetch)) {
     for (const r of m.youtube || []) {
       const o = typeof r === 'string' ? { channel: r } : r;
       refs.push({ ...o, member: m.key });
@@ -120,7 +120,7 @@ async function main() {
     return;
   }
   const cfg = await readJSON(path('members.json'));
-  const members = cfg.members.filter((m) => m.enabled !== false);
+  const members = cfg.members.filter((m) => m.enabled !== false && !m.noFetch);
   const cachePath = path('data', 'youtube.json');
   const cache = await readJSON(cachePath, { updatedAt: null, channels: {} });
   const refs = channelRefs(cfg);

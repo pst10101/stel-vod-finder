@@ -28,9 +28,14 @@ async function main() {
   }
 
   const items = [];
+  // 졸업·매니저처럼 자기 채널 방송이 없는 멤버: 다른 멤버 방송 제목에 이름이 있으면 함께한 방송(w)으로 연결
+  const esc = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
   const alumni = members
-    .filter((m) => m.graduated)
-    .map((m) => ({ key: m.key, words: [m.name, ...(m.short || [])].map((s) => s.toLowerCase()) }));
+    .filter((m) => m.graduated || m.collab)
+    .map((m) => ({
+      key: m.key,
+      res: (m.match?.length ? m.match : [m.name, ...(m.short || [])].map(esc)).map((src) => new RegExp(src, 'iu')),
+    }));
   const stats = { chzzk: 0, youtube: 0, matched: 0, ytOnly: 0, segments: 0 };
 
   for (const m of members) {
@@ -100,8 +105,8 @@ async function main() {
 
     for (const b of bcs) {
       // 졸업 멤버가 자기 채널 방송은 없어도, 다른 멤버 방송 제목에 이름이 있으면 합방으로 연결 (w = 함께한 졸업 멤버)
-      const titles = [b.t, ...(b.y || []).map((y) => y.t)].join(' ').toLowerCase();
-      const w = alumni.filter((a) => a.key !== b.m && a.words.some((s) => titles.includes(s))).map((a) => a.key);
+      const titles = [b.t, ...(b.y || []).map((y) => y.t)].join(' ');
+      const w = alumni.filter((a) => a.key !== b.m && a.res.some((re) => re.test(titles))).map((a) => a.key);
       if (w.length) b.w = w;
       b.d = b._d || kstDate(b.s);
       delete b._c;
@@ -121,7 +126,7 @@ async function main() {
   const out = {
     updatedAt: Math.max(chzzk.updatedAt || 0, youtube.updatedAt || 0) || Date.now(),
     contact,
-    members: members.map(({ key, name, unit, graduated, short }) => ({ key, name, unit, ...(graduated ? { graduated, short: short || [] } : {}) })),
+    members: members.map(({ key, name, unit, graduated, collab, short }) => ({ key, name, unit, ...(graduated ? { graduated } : {}), ...(graduated || collab ? { collab: true, short: short || [] } : {}) })),
     items,
   };
   await writeJSON(path('docs', 'data', 'broadcasts.json'), out, { compact: true });

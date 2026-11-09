@@ -227,25 +227,28 @@ function writeHash() {
   history.replaceState(null, '', h ? `#${h}` : location.pathname + location.search);
 }
 
-// 졸업한 멤버를 고르면 졸업 일자를 알려줌 (합방이 있으면 그 설명도)
+// 졸업한 멤버는 졸업 일자를, 자기 방송이 없는 멤버(졸업·매니저)는 함께한 방송 찾는 방식을 알려줌
 function renderGraduated() {
   const el = $('#grad');
-  const picked = DATA.members.filter((m) => m.graduated && state.members.has(m.key));
+  const picked = DATA.members.filter((m) => (m.graduated || m.collab) && state.members.has(m.key));
   el.replaceChildren();
   for (const m of picked) {
-    const [y, mo, d] = m.graduated.split('-').map(Number);
-    const main = document.createElement('span');
-    main.className = 'grad-main';
-    main.textContent = (state.members.size > 1 ? `${m.name}: ` : '') + `${y}년 ${mo}월 ${d}일에 졸업하였습니다.`;
-    el.append(main);
+    const label = (state.members.size > 1 ? `${m.name}: ` : '');
+    if (m.graduated) {
+      const [y, mo, d] = m.graduated.split('-').map(Number);
+      const main = document.createElement('span');
+      main.className = 'grad-main';
+      main.textContent = `${label}${y}년 ${mo}월 ${d}일에 졸업하였습니다.`;
+      el.append(main);
+    }
     if (DATA.items.some((it) => it.w && it.w.includes(m.key))) {
       const sub = document.createElement('span');
-      sub.className = 'grad-sub';
-      sub.textContent = `다른 멤버 방송 중 제목에 “${(m.short && m.short[0]) || m.name}” 표기가 있는 합방을 같이 보여줘요. 제목에 이름이 없는 합방은 찾지 못해요.`;
+      sub.className = m.graduated ? 'grad-sub' : 'grad-main';
+      sub.textContent = `${m.graduated ? '' : label}다른 멤버 방송 중 제목에 “${(m.short && m.short[0]) || m.name}” 표기가 있는 방송을 같이 보여줘요. 제목에 이름이 없는 방송은 찾지 못해요.`;
       el.append(sub);
     }
   }
-  el.hidden = picked.length === 0;
+  el.hidden = el.childNodes.length === 0;
 }
 
 function syncControls() {
