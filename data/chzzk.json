@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794175458471,
+ "updatedAt": 1794205543903,
  "members": {
   "gangzi": {
    "channelId": "b5ed5db484d04faf4d150aedd362f34b",
@@ -6650,7 +6650,7 @@
   "riko": {
    "channelId": "8fd39bb8de623317de90654718638b10",
    "videos": [
-    {"no":16091300,"title":"마지막 후배님, 그리고 트리","type":"REPLAY","cat":"마인크래프트","pub":1794162192157,"open":null,"dur":36845},
+    {"no":16091300,"title":"마지막 후배님, 그리고 트리","type":"REPLAY","cat":"마인크래프트","pub":1794162192157,"open":null,"dur":36844},
     {"no":16074249,"title":"💚새로운 아타시💜","type":"REPLAY","cat":"마인크래프트","pub":1794074188401,"open":null,"dur":24793},
     {"no":16065681,"title":"💚유즈하 리코, 신의상 공개 방송💜","type":"REPLAY","cat":"talk","pub":1794048823837,"open":null,"dur":5085},
     {"no":16055833,"title":"스텔 마크서버","type":"REPLAY","cat":"마인크래프트","pub":1793984046636,"open":null,"dur":31481},
@@ -7297,7 +7297,7 @@
   "toa": {
    "channelId": "2299fad4bebb504b0978e1ec08b2f7d3",
    "videos": [
-    {"no":16092287,"title":"스텔 마크 2일차 !!!!!","type":"REPLAY","cat":"마인크래프트","pub":1794169623844,"open":null,"dur":45942},
+    {"no":16092287,"title":"스텔 마크 2일차 !!!!!","type":"REPLAY","cat":"마인크래프트","pub":1794169623844,"open":null,"dur":45941},
     {"no":16076347,"title":"스텔 마크다 !!!!!","type":"REPLAY","cat":"마인크래프트","pub":1794114451952,"open":null,"dur":35119},
     {"no":16048556,"title":"찌르기","type":"REPLAY","cat":"talk","pub":1793972418193,"open":null,"dur":12096},
     {"no":16032418,"title":"감사의 잠깐 찌르기","type":"REPLAY","cat":"talk","pub":1793881370894,"open":null,"dur":4396},
@@ -7318,7 +7318,7 @@
   "rang": {
    "channelId": "c657aa3592260a2b59669a72ec151936",
    "videos": [
-    {"no":16092360,"title":"마크 조아 호랑이","type":"REPLAY","cat":"마인크래프트","pub":1794170390807,"open":null,"dur":26738},
+    {"no":16092360,"title":"마크 조아 호랑이","type":"REPLAY","cat":"마인크래프트","pub":1794170390807,"open":null,"dur":26737},
     {"no":16075708,"title":"[속보] 스텔마크서버 호랑이 출몰..","type":"REPLAY","cat":"마인크래프트","pub":1794080930790,"open":null,"dur":28673},
     {"no":16060237,"title":"[랑이TV] 안녕하세요 여러분 오늘은요~!","type":"REPLAY","cat":"마인크래프트","pub":1794010109894,"open":null,"dur":58415},
     {"no":16014773,"title":"너 누구양","type":"REPLAY","cat":"talk","pub":1793788725924,"open":null,"dur":15349},
@@ -7344,6 +7344,7 @@
   "hiyori": {
    "channelId": "49d2c3cf8f0b2843d934ec15e82bb54c",
    "videos": [
+    {"no":16092771,"title":"첫마인크래프트인데요 안녕하세요!!","type":"REPLAY","cat":"마인크래프트","pub":1794175838175,"open":null,"dur":37501},
     {"no":16057911,"title":"쩜프킹3시까지깰수있을지도몰라요","type":"REPLAY","cat":"점프 킹","pub":1793990082944,"open":null,"dur":16071},
     {"no":16042038,"title":"목요일도왔나요히요리","type":"REPLAY","cat":"종합 게임","pub":1793907477434,"open":null,"dur":27133},
     {"no":16024625,"title":"수요일도방송하나요히요리","type":"REPLAY","cat":"talk","pub":1793817425736,"open":null,"dur":23032},
@@ -7367,7 +7368,7 @@
   "mary": {
    "channelId": "792acf9ca28b42918710327e14b06b68",
    "videos": [
-    {"no":16091531,"title":"스텔 마크 2일차!!","type":"REPLAY","cat":"마인크래프트","pub":1794163750690,"open":null,"dur":37456},
+    {"no":16091531,"title":"스텔 마크 2일차!!","type":"REPLAY","cat":"마인크래프트","pub":1794163750690,"open":null,"dur":37455},
     {"no":16075382,"title":"스텔 마크 재밌게따!!!","type":"REPLAY","cat":"마인크래프트","pub":1794117735227,"open":null,"dur":29274},
     {"no":16033520,"title":"잔잔하게..? 노래를 해볼까요오","type":"REPLAY","cat":"음악/노래","pub":1793884133583,"open":null,"dur":11514},
     {"no":16004932,"title":"오늘 무려 7부를 했습니닷","type":"REPLAY","cat":"종합 게임","pub":1793722131923,"open":null,"dur":22512},
