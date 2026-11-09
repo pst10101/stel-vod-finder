@@ -88,7 +88,7 @@ function prepare(it) {
   for (const g of [it.c?.k, ...(it.g || []).map((x) => x[1])]) if (g && !games.includes(g)) games.push(g);
   it.games = games.map((g) => ({ label: CAT_LABEL[g] || g, n: norm(g) }));
   it.hay = norm(
-    [it.t, ...games, ...(it.y || []).flatMap((y) => [y.t, ...(y.ch || []).map((c) => c[1])]), memberName[it.m]].join(' '),
+    [it.t, ...games, ...(it.y || []).flatMap((y) => [y.t, ...(y.ch || []).map((c) => c[1])]), memberName[it.m], ...(it.w || []).map((k) => memberName[k])].join(' '),
   );
 }
 
@@ -107,7 +107,7 @@ function query() {
   const terms = state.q.split(/\s+/).map(termVariants).filter(Boolean);
   const out = [];
   for (const it of DATA.items) {
-    if (state.members.size && !state.members.has(it.m)) continue;
+    if (state.members.size && !state.members.has(it.m) && !(it.w && it.w.some((k) => state.members.has(k)))) continue;
     if (state.platform === 'chzzk' && !it.c) continue;
     if (state.platform === 'youtube' && !it.y) continue;
     if (state.year && !it.d.startsWith(state.year)) continue;
@@ -227,15 +227,24 @@ function writeHash() {
   history.replaceState(null, '', h ? `#${h}` : location.pathname + location.search);
 }
 
-// 졸업한 멤버를 고르면 졸업 일자를 알려줌
+// 졸업한 멤버를 고르면 졸업 일자를 알려줌 (합방이 있으면 그 설명도)
 function renderGraduated() {
   const el = $('#grad');
   const picked = DATA.members.filter((m) => m.graduated && state.members.has(m.key));
-  const text = (m) => {
+  el.replaceChildren();
+  for (const m of picked) {
     const [y, mo, d] = m.graduated.split('-').map(Number);
-    return `${y}년 ${mo}월 ${d}일에 졸업하였습니다.`;
-  };
-  el.textContent = picked.map((m) => (state.members.size > 1 ? `${m.name}: ` : '') + text(m)).join(' ');
+    const main = document.createElement('span');
+    main.className = 'grad-main';
+    main.textContent = (state.members.size > 1 ? `${m.name}: ` : '') + `${y}년 ${mo}월 ${d}일에 졸업하였습니다.`;
+    el.append(main);
+    if (DATA.items.some((it) => it.w && it.w.includes(m.key))) {
+      const sub = document.createElement('span');
+      sub.className = 'grad-sub';
+      sub.textContent = `다른 멤버 방송 중 제목에 “${(m.short && m.short[0]) || m.name}” 표기가 있는 합방을 같이 보여줘요. 제목에 이름이 없는 합방은 찾지 못해요.`;
+      el.append(sub);
+    }
+  }
   el.hidden = picked.length === 0;
 }
 
