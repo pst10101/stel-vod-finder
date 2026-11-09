@@ -227,7 +227,20 @@ function writeHash() {
   history.replaceState(null, '', h ? `#${h}` : location.pathname + location.search);
 }
 
+// 졸업한 멤버를 고르면 졸업 일자를 알려줌
+function renderGraduated() {
+  const el = $('#grad');
+  const picked = DATA.members.filter((m) => m.graduated && state.members.has(m.key));
+  const text = (m) => {
+    const [y, mo, d] = m.graduated.split('-').map(Number);
+    return `${y}년 ${mo}월 ${d}일에 졸업하였습니다.`;
+  };
+  el.textContent = picked.map((m) => (state.members.size > 1 ? `${m.name}: ` : '') + text(m)).join(' ');
+  el.hidden = picked.length === 0;
+}
+
 function syncControls() {
+  renderGraduated();
   $('#q').value = state.q;
   for (const b of document.querySelectorAll('#members .chip')) {
     const k = b.dataset.k;

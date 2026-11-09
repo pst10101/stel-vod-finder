@@ -114,7 +114,7 @@ async function main() {
   const out = {
     updatedAt: Math.max(chzzk.updatedAt || 0, youtube.updatedAt || 0) || Date.now(),
     contact,
-    members: members.map(({ key, name, unit }) => ({ key, name, unit })),
+    members: members.map(({ key, name, unit, graduated }) => ({ key, name, unit, ...(graduated ? { graduated } : {}) })),
     items,
   };
   await writeJSON(path('docs', 'data', 'broadcasts.json'), out, { compact: true });
