@@ -238,14 +238,14 @@ function renderGraduated() {
       const [y, mo, d] = m.graduated.split('-').map(Number);
       const main = document.createElement('span');
       main.className = 'grad-main';
-      main.textContent = `${label}${y}년 ${mo}월 ${d}일에 졸업하였습니다.`;
+      main.textContent = `${label}${y}년 ${mo}월 ${d}일에 졸업하였습니다......`;
       el.append(main);
     }
     if (m.left) {
       const [y, mo, d] = typeof m.left === 'string' ? m.left.split('-').map(Number) : [];
       const main = document.createElement('span');
       main.className = 'grad-main';
-      main.textContent = `${label}${y ? `${y}년 ${mo}월 ${d}일에 ` : ''}스텔라이브 ${m.unit}에서 퇴사하셨습니다.`;
+      main.textContent = `${label}${y ? `${y}년 ${mo}월 ${d}일에 ` : ''}스텔라이브 ${m.unit}에서 퇴사하셨습니다......`;
       el.append(main);
     }
     const head = m.graduated || m.left;
