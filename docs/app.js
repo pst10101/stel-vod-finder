@@ -230,7 +230,7 @@ function writeHash() {
 // 졸업한 멤버는 졸업 일자를, 자기 방송이 없는 멤버(졸업·매니저)는 함께한 방송 찾는 방식을 알려줌
 function renderGraduated() {
   const el = $('#grad');
-  const picked = DATA.members.filter((m) => (m.graduated || m.collab) && state.members.has(m.key));
+  const picked = DATA.members.filter((m) => (m.graduated || m.left || m.collab) && state.members.has(m.key));
   el.replaceChildren();
   for (const m of picked) {
     const label = (state.members.size > 1 ? `${m.name}: ` : '');
@@ -241,10 +241,18 @@ function renderGraduated() {
       main.textContent = `${label}${y}년 ${mo}월 ${d}일에 졸업하였습니다.`;
       el.append(main);
     }
+    if (m.left) {
+      const [y, mo, d] = typeof m.left === 'string' ? m.left.split('-').map(Number) : [];
+      const main = document.createElement('span');
+      main.className = 'grad-main';
+      main.textContent = `${label}${y ? `${y}년 ${mo}월 ${d}일에 ` : ''}스텔라이브 ${m.unit}에서 퇴사하셨습니다.`;
+      el.append(main);
+    }
+    const head = m.graduated || m.left;
     if (DATA.items.some((it) => it.w && it.w.includes(m.key))) {
       const sub = document.createElement('span');
-      sub.className = m.graduated ? 'grad-sub' : 'grad-main';
-      sub.textContent = `${m.graduated ? '' : label}다른 멤버 방송 중 제목에 “${(m.short && m.short[0]) || m.name}” 표기가 있는 방송을 같이 보여줘요. 제목에 이름이 없는 방송은 찾지 못해요.`;
+      sub.className = head ? 'grad-sub' : 'grad-main';
+      sub.textContent = `${head ? '' : label}다른 멤버 방송 중 제목에 “${(m.short && m.short[0]) || m.name}” 표기가 있는 방송을 같이 보여줘요. 제목에 이름이 없는 방송은 찾지 못해요.`;
       el.append(sub);
     }
   }

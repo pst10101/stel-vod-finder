@@ -1,5 +1,5 @@
 {
- "_help": "noFetch: true면 이 멤버 채널은 수집하지 않음(채널이 없는 매니저 등). collab: true면 다른 멤버 방송 제목에서 이름을 찾아 함께한 방송으로 보여줌(match에 정규식을 주면 그걸로 찾음). chzzk: 치지직 채널 주소 chzzk.naver.com/ 뒤 32자리. 비워두면 이름으로 검색해서 정확히 같은 이름의 채널만 자동으로 찾음. youtube: 이 멤버 전용 유튜브 다시보기 채널 (@핸들 또는 UC로 시작하는 채널 ID, 여러 개 가능). sharedYoutube: 여러 멤버 다시보기를 같이 올리는 채널 → 제목에 있는 멤버 이름(name 또는 short)으로 구분. 채널마다 {\"channel\": \"@핸들\", \"mode\": \"all\"}로 쓰면 짧은 영상도 포함. enabled: false면 수집 안 함.",
+ "_help": "left: true면 퇴사한 멤버(\"YYYY-MM-DD\"를 넣으면 날짜도 표시). noFetch: true면 이 멤버 채널은 수집하지 않음(채널이 없는 매니저 등). collab: true면 다른 멤버 방송 제목에서 이름을 찾아 함께한 방송으로 보여줌(match에 정규식을 주면 그걸로 찾음). chzzk: 치지직 채널 주소 chzzk.naver.com/ 뒤 32자리. 비워두면 이름으로 검색해서 정확히 같은 이름의 채널만 자동으로 찾음. youtube: 이 멤버 전용 유튜브 다시보기 채널 (@핸들 또는 UC로 시작하는 채널 ID, 여러 개 가능). sharedYoutube: 여러 멤버 다시보기를 같이 올리는 채널 → 제목에 있는 멤버 이름(name 또는 short)으로 구분. 채널마다 {\"channel\": \"@핸들\", \"mode\": \"all\"}로 쓰면 짧은 영상도 포함. enabled: false면 수집 안 함.",
  "members": [
   { "key": "gangzi", "name": "강지", "short": [], "unit": "대표", "chzzk": "", "youtube": ["UC2Ki6__sICXPyHPCyFxIgbw"], "enabled": true },
   { "key": "kanna", "name": "아이리 칸나", "short": ["칸나", "Kanna"], "unit": "졸업", "graduated": "2024-12-02", "collab": true, "chzzk": "", "youtube": [], "enabled": true },
@@ -17,7 +17,7 @@
   { "key": "rang", "name": "코가네 랑", "short": ["랑"], "unit": "4기 ABYSS", "chzzk": "", "youtube": ["@rangreplay"], "enabled": true },
   { "key": "hiyori", "name": "하나요 히요리", "short": ["히요리"], "unit": "4기 ABYSS", "chzzk": "", "youtube": ["@hiyorireplay"], "enabled": true },
   { "key": "mary", "name": "토키노 메리", "short": ["메리"], "unit": "4기 ABYSS", "chzzk": "", "youtube": ["@maryreplay"], "enabled": true },
-  { "key": "eve", "name": "이브", "short": ["이브"], "unit": "매니저", "noFetch": true, "collab": true, "match": ["(?<![가-힣A-Za-z0-9])(?<!(?:크리스마스|성탄절|연말|클마스|생일) )이브(?:님|와|랑|과|한테|\\s*매니저|(?=\\s*[,&+/)]))"], "chzzk": "", "youtube": [], "enabled": true }
+  { "key": "eve", "name": "이브", "short": ["이브"], "unit": "매니저", "left": true, "noFetch": true, "collab": true, "match": ["(?<![가-힣A-Za-z0-9])(?<!(?:크리스마스|성탄절|연말|클마스|생일) )이브(?:님|와|랑|과|한테|\\s*매니저|(?=\\s*[,&+/)]))"], "chzzk": "", "youtube": [], "enabled": true }
  ],
  "sharedYoutube": []
 }
