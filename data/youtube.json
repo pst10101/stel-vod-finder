@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794262887613,
+ "updatedAt": 1794295009099,
  "channels": {
   "UC2Ki6__sICXPyHPCyFxIgbw": {
    "videos": [
@@ -4796,6 +4796,7 @@
   },
   "@tabireplay": {
    "videos": [
+    {"id":"BX9lhRBxHjI","ch":"UCOAD3RLV7uC3uc39ok7NLyg","m":"tabi","title":"[2026.11.08] 파이널스 위크(w. 리코, 티뭉, 장마군) + 증강 윷놀이 + 스텔마크 히요리 후배님 첫 만남","pub":1794292507000,"liveStart":null,"liveEnd":null,"dur":35039,"titleDate":"2026-11-08","chapters":[[0,"Loading"],[349,"Just Chatting"],[4841,"스텔마크"],[13142,"파이널스 위크(w. 리코, 티뭉, 장마군)"],[21509,"후열 증강 윷놀이"],[25966,"스텔마크"],[34999,"방종"]]},
     {"id":"ezeqiUrKFaQ","ch":"UCOAD3RLV7uC3uc39ok7NLyg","m":"tabi","title":"[2026.10.31] 할로윈 마크 합방 컨텐츠(w. 유니버스, 린, 리코) + 후열 갈틱폰","pub":1794128404000,"liveStart":null,"liveEnd":null,"dur":36437,"titleDate":"2026-10-31","chapters":[[0,"Loading"],[310,"Just Chatting"],[6747,"포케봉크"],[13424,"문 스위퍼스(w. 강지, 시로)"],[19421,"마인크래프트 마녀를 찾아라!(w. 유니버스, 린, 리코)"],[29805,"후열 갈틱폰"],[33921,"명조 : 워더링 웨이브"],[36322,"방종"]]},
     {"id":"eXIIwjpbMQE","ch":"UCOAD3RLV7uC3uc39ok7NLyg","m":"tabi","title":"[2026.11.06] 스텔마끼 건축 + 랑 후배랑 인사하기","pub":1794127242000,"liveStart":null,"liveEnd":null,"dur":34125,"titleDate":"2026-11-06","chapters":[[0,"Loading"],[247,"Just Chatting"],[445,"스텔마크"],[34055,"방종"]]},
     {"id":"ihM6PlTjBbE","ch":"UCOAD3RLV7uC3uc39ok7NLyg","m":"tabi","title":"[2026.11.04] 버튜버 키우기 + 스텔라이브 발헤임 서버","pub":1794038727000,"liveStart":null,"liveEnd":null,"dur":27260,"titleDate":"2026-11-04","chapters":[[0,"Loading"],[343,"Just Chatting"],[1929,"버튜버로 살아가기"],[9869,"스텔라이브 발헤임 서버"],[27097,"방종"]]},
@@ -6466,6 +6467,8 @@
   },
   "@rinreplay": {
    "videos": [
+    {"id":"T1CxB8e2M3I","ch":"UCmw0eKk5uOv029SScRRRfqw","m":"rin","title":"[ 2026/11/09 | 스텔마크 ] - 린 다시보기","pub":1794286808000,"liveStart":null,"liveEnd":null,"dur":17883,"titleDate":"2026-11-09","chapters":[]},
+    {"id":"ZyAX15kNs78","ch":"UCmw0eKk5uOv029SScRRRfqw","m":"rin","title":"[ 2026/11/08 | 스텔마크 ] - 린 다시보기","pub":1794277823000,"liveStart":null,"liveEnd":null,"dur":24416,"titleDate":"2026-11-08","chapters":[]},
     {"id":"3a3Fvgrp5t8","ch":"UCmw0eKk5uOv029SScRRRfqw","m":"rin","title":"[ 2026/11/07 | 스텔마크 ] - 린 다시보기","pub":1794223811000,"liveStart":null,"liveEnd":null,"dur":26784,"titleDate":"2026-11-07","chapters":[]},
     {"id":"Kmy7NWmtnRk","ch":"UCmw0eKk5uOv029SScRRRfqw","m":"rin","title":"[ 2026/11/04 | 발헤임 + 카페탐방 ] - 린 다시보기","pub":1793851216000,"liveStart":null,"liveEnd":null,"dur":17649,"titleDate":"2026-11-04","chapters":[]},
     {"id":"b-gUj9LtS80","ch":"UCmw0eKk5uOv029SScRRRfqw","m":"rin","title":"[ 2026/11/03 | 카페탐방 + 스텔마크 ] - 린 다시보기","pub":1793791813000,"liveStart":null,"liveEnd":null,"dur":22224,"titleDate":"2026-11-03","chapters":[]},
@@ -7673,6 +7676,7 @@
   },
   "@rikoreplay": {
    "videos": [
+    {"id":"WkOIwtsoFS4","ch":"UCVZcw2SMyL6h5CfKSCs42_A","m":"riko","title":"스텔라이브에 호랑이가 나타났어요! [스텔 마크 서버] [2026.11.06]","pub":1794279758000,"liveStart":null,"liveEnd":null,"dur":30383,"titleDate":"2026-11-06","chapters":[[0,"용사 등장!"],[1587,"카페 탐방 (신의상 예측)"],[5663,"스텔라이브 마인크래프트 서버"],[30205,"토크"]]},
     {"id":"NocTYU_VsyM","ch":"UCVZcw2SMyL6h5CfKSCs42_A","m":"riko","title":"양배추가 감자가 되... [버튜버로 살아가기] [2026.11.05]","pub":1794188394000,"liveStart":null,"liveEnd":null,"dur":22772,"titleDate":"2026-11-05","chapters":[[0,"용사 등장!"],[4628,"버튜버로 살아가기"],[22086,"토크"]]},
     {"id":"3CA3pLeAE3M","ch":"UCVZcw2SMyL6h5CfKSCs42_A","m":"riko","title":"어디로 가라는 건지 모르겠으니 일단 한바퀴 돌게요 [발헤임 (w. 후야, 시로, 타비, 부키, 린, 나나)]  [2026.11.04]","pub":1794091529000,"liveStart":null,"liveEnd":null,"dur":14656,"titleDate":"2026-11-04","chapters":[[0,"시작"],[199,"용사 등장!"],[5517,"발헤임 (w. 후야, 시로, 타비, 부키, 린, 나나)"],[12894,"토크"]]},
     {"id":"EFfs3sYxcuQ","ch":"UCVZcw2SMyL6h5CfKSCs42_A","m":"riko","title":"새벽의 스텔마크 서버는 뜨겁다 [스텔 마크서버/그림 방송/나 아직 에이징 커브 아니야] [2026.11.03]","pub":1793916974000,"liveStart":null,"liveEnd":null,"dur":35072,"titleDate":"2026-11-03","chapters":[[0,"용사 등장!"],[2877,"카페 탐방"],[9233,"나 아직 에이징 커브 아니야"],[11706,"테트리스"],[13172,"스텔 치이카와 그리기"],[20257,"스텔라이브 마인크래프트 서버"],[34670,"토크"]]},
