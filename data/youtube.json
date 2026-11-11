@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794339861002,
+ "updatedAt": 1794377845764,
  "channels": {
   "UC2Ki6__sICXPyHPCyFxIgbw": {
    "videos": [
@@ -2081,6 +2081,8 @@
   },
   "@Sakihanereplay": {
    "videos": [
+    {"id":"2D-DXezrLBk","ch":"UCJz5aRHEMTL10zLfMj5hVmg","m":"huya","title":"마인크래프트 스텔라이브 서버 261109","pub":1794369603000,"liveStart":null,"liveEnd":null,"dur":29692,"titleDate":"2026-11-09","chapters":[[0,"시작"],[331,"등장"],[1557,"마인크래프트 플레이"]]},
+    {"id":"74COZOpKIEI","ch":"UCJz5aRHEMTL10zLfMj5hVmg","m":"huya","title":"마인크래프트 스텔라이브 서버 261108","pub":1794358826000,"liveStart":null,"liveEnd":null,"dur":23335,"titleDate":"2026-11-08","chapters":[[0,"시작"],[332,"등장"],[2381,"마인크래프트 플레이"]]},
     {"id":"zYjWljA4q6U","ch":"UCJz5aRHEMTL10zLfMj5hVmg","m":"huya","title":"젤다의 전설 : 시간의 오카리나, 마인크래프트 스텔라이브서버 261107","pub":1794217016000,"liveStart":null,"liveEnd":null,"dur":22472,"titleDate":"2026-11-07","chapters":[[0,"시작"],[314,"등장"],[1070,"젤다의 전설 플레이"],[20830,"마인크래프트 플레이"]]},
     {"id":"bMYeCpBQvXQ","ch":"UCJz5aRHEMTL10zLfMj5hVmg","m":"huya","title":"젤다의 전설 : 시간의 오카리나 261105","pub":1793967384000,"liveStart":null,"liveEnd":null,"dur":23563,"titleDate":"2026-11-05","chapters":[[0,"시작"],[105,"등장"],[4665,"젤다의 전설 플레이"]]},
     {"id":"ymSewj3J9e4","ch":"UCJz5aRHEMTL10zLfMj5hVmg","m":"huya","title":"스텔라이브 발헤임 서버 261104","pub":1793873486000,"liveStart":null,"liveEnd":null,"dur":23366,"titleDate":"2026-11-04","chapters":[[0,"시작"],[232,"등장"],[2405,"발헤임 플레이"]]},
@@ -2360,6 +2362,7 @@
   },
   "@hinareplay": {
    "videos": [
+    {"id":"PTr8-7gwP2A","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"나여 [26. 11.10]","pub":1794369635000,"liveStart":null,"liveEnd":null,"dur":23530,"titleDate":"2026-11-10","chapters":[]},
     {"id":"g3XBYfr8TJk","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"놀러옴 [26. 11.8]","pub":1794305594000,"liveStart":null,"liveEnd":null,"dur":7013,"titleDate":"2026-11-08","chapters":[]},
     {"id":"xXx9geUFmqQ","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"토아 메리 씨랑 인사하는 날 [26. 11.7]","pub":1794193216000,"liveStart":null,"liveEnd":null,"dur":19761,"titleDate":"2026-11-07","chapters":[]},
     {"id":"PnxotsAkwKE","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"호랑이 잡자 [26. 11.6]","pub":1794168292000,"liveStart":null,"liveEnd":null,"dur":24711,"titleDate":"2026-11-06","chapters":[]},
@@ -3995,6 +3998,7 @@
   },
   "@lizereplay": {
    "videos": [
+    {"id":"ulcS9Rq5JR0","ch":"UC5qsIJIixQI5k2FfkW1j1NQ","m":"lize","title":"A형 독감 걸린 청년💊 [저스트 채팅 | 2026.11.09]","pub":1794364226000,"liveStart":null,"liveEnd":null,"dur":3958,"titleDate":"2026-11-09","chapters":[[0,"인트로"],[262,"본녀 강림"]]},
     {"id":"9ag1FUsmS-g","ch":"UC5qsIJIixQI5k2FfkW1j1NQ","m":"lize","title":"버튜버 회사 사장의 삶✨ [버튜버로 살아가기 + 에이징 커브 테스트 | 2026.11.08]","pub":1794232265000,"liveStart":null,"liveEnd":null,"dur":18263,"titleDate":"2026-11-08","chapters":[[0,"인트로"],[283,"본녀 강림"],[2088,"버튜버로 살아가기"],[14006,"에이징 커브 테스트"],[15440,"후열 저챗"]]},
     {"id":"bEWHvT5q3kI","ch":"UC5qsIJIixQI5k2FfkW1j1NQ","m":"lize","title":"결국 시작되어버린 술래잡기[로스트원의 호곡 cover MV 같이보기 + 마인크래프트 스텔서버 | 2026.11.06]","pub":1794096000000,"liveStart":null,"liveEnd":null,"dur":20368,"titleDate":"2026-11-06","chapters":[[0,"인트로"],[299,"본녀 강림"],[2394,"로스트원의 호곡 MV 같이보기"],[7086,"마인크래프트 스텔서버"],[19879,"후열 저챗"]]},
     {"id":"s3QMuKuwHoM","ch":"UC5qsIJIixQI5k2FfkW1j1NQ","m":"lize","title":"저보고 헬기도 떨구고 드론도 탈취하고 장갑차도 운전하라고요?🪖 [콜 오브 듀티: 모던 워페어 4 | 2026.11.03]","pub":1793938239000,"liveStart":null,"liveEnd":null,"dur":30774,"titleDate":"2026-11-03","chapters":[[0,"인트로"],[371,"본녀강림"],[2902,"콜오브듀티: 모던 워페어 4"],[29069,"후열 저챗"]]},
@@ -4799,6 +4803,7 @@
   },
   "@tabireplay": {
    "videos": [
+    {"id":"Y9oCNjunkb4","ch":"UCOAD3RLV7uC3uc39ok7NLyg","m":"tabi","title":"[2026.11.09] 【자낳대26 : 로블록스】 팀 선정 + 로블록스 연습","pub":1794348014000,"liveStart":null,"liveEnd":null,"dur":33791,"titleDate":"2026-11-09","chapters":[[0,"Loading"],[564,"Just Chatting"],[9197,"【자낳대26 : 로블록스】 팀 선정"],[17762,"로블록스 연습"],[33735,"방종"]]},
     {"id":"BX9lhRBxHjI","ch":"UCOAD3RLV7uC3uc39ok7NLyg","m":"tabi","title":"[2026.11.08] 파이널스 위크(w. 리코, 티뭉, 장마군) + 증강 윷놀이 + 스텔마크 히요리 후배님 첫 만남","pub":1794292507000,"liveStart":null,"liveEnd":null,"dur":35039,"titleDate":"2026-11-08","chapters":[[0,"Loading"],[349,"Just Chatting"],[4841,"스텔마크"],[13142,"파이널스 위크(w. 리코, 티뭉, 장마군)"],[21509,"후열 증강 윷놀이"],[25966,"스텔마크"],[34999,"방종"]]},
     {"id":"ezeqiUrKFaQ","ch":"UCOAD3RLV7uC3uc39ok7NLyg","m":"tabi","title":"[2026.10.31] 할로윈 마크 합방 컨텐츠(w. 유니버스, 린, 리코) + 후열 갈틱폰","pub":1794128404000,"liveStart":null,"liveEnd":null,"dur":36437,"titleDate":"2026-10-31","chapters":[[0,"Loading"],[310,"Just Chatting"],[6747,"포케봉크"],[13424,"문 스위퍼스(w. 강지, 시로)"],[19421,"마인크래프트 마녀를 찾아라!(w. 유니버스, 린, 리코)"],[29805,"후열 갈틱폰"],[33921,"명조 : 워더링 웨이브"],[36322,"방종"]]},
     {"id":"eXIIwjpbMQE","ch":"UCOAD3RLV7uC3uc39ok7NLyg","m":"tabi","title":"[2026.11.06] 스텔마끼 건축 + 랑 후배랑 인사하기","pub":1794127242000,"liveStart":null,"liveEnd":null,"dur":34125,"titleDate":"2026-11-06","chapters":[[0,"Loading"],[247,"Just Chatting"],[445,"스텔마크"],[34055,"방종"]]},
@@ -8368,6 +8373,7 @@
   },
   "@hiyorireplay": {
    "videos": [
+    {"id":"Hu688CEbpYc","ch":"UCLqOqHMtSF4qV30nm2fQdYw","m":"hiyori","title":"배고픈 예술가 히요리, 그리고 호날두【파스파투+나는 아르바이트생이다!!+Fork Road】[2026.10.22.]","pub":1794374404000,"liveStart":null,"liveEnd":null,"dur":27219,"titleDate":"2026-10-22","chapters":[]},
     {"id":"LwxQNTSojZA","ch":"UCLqOqHMtSF4qV30nm2fQdYw","m":"hiyori","title":"어쨌든 눈물을 흘린 날🐶【마이리틀퍼피, 여동생 운전 가르치기+더 라멘 샵(공포게임)】[2026.10.20.]","pub":1794136629000,"liveStart":null,"liveEnd":null,"dur":38736,"titleDate":"2026-10-20","chapters":[]},
     {"id":"AjD8y3csvdo","ch":"UCLqOqHMtSF4qV30nm2fQdYw","m":"hiyori","title":"느려도🐌괜찮아👌덴탈클리닉🦷도그쌀롱🐶또까꾸요🤡【화이트데이+8번출구】[2026.10.19.]","pub":1793971185000,"liveStart":null,"liveEnd":null,"dur":26264,"titleDate":"2026-10-19","chapters":[]},
     {"id":"FFXkRx00lYc","ch":"UCLqOqHMtSF4qV30nm2fQdYw","m":"hiyori","title":"스텔라이브 4기생 어비스 첫 단체 합방! 🏫 [2026.10.18.]","pub":1793694332000,"liveStart":null,"liveEnd":null,"dur":4629,"titleDate":"2026-10-18","chapters":[]},
