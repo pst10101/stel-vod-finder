@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794444174762,
+ "updatedAt": 1794496433465,
  "members": {
   "gangzi": {
    "channelId": "b5ed5db484d04faf4d150aedd362f34b",
@@ -758,6 +758,7 @@
   "yuni": {
    "channelId": "45e71a76e949e16a34764deb962f9d9f",
    "videos": [
+    {"no":16145472,"title":"[죵쬐컵] 고구마유니 공식 스크림","type":"REPLAY","cat":"리그 오브 레전드","pub":1794486239528,"open":null,"dur":13056},
     {"no":16137426,"title":"[죵쬐컵] 팁 뽑기 하는날 !!!!","type":"REPLAY","cat":"리그 오브 레전드","pub":1794420344026,"open":null,"dur":33297},
     {"no":16120794,"title":"어 망아지야","type":"REPLAY","cat":"리그 오브 레전드","pub":1794333000384,"open":null,"dur":25875},
     {"no":16104682,"title":"유찰 원딜 고구마유니 감니다 !!!!!!!","type":"REPLAY","cat":"리그 오브 레전드","pub":1794243103433,"open":null,"dur":10309},
@@ -3313,6 +3314,7 @@
   "lize": {
    "channelId": "4325b1d5bbc321fad3042306646e2e50",
    "videos": [
+    {"no":16145625,"title":"병약독감바이러스 미소(?)녀 입니다 ㅎㅎ","type":"REPLAY","cat":"케이크 & 베이크","pub":1794486651736,"open":null,"dur":6390},
     {"no":16132502,"title":"이 독감이 다 낫는다면 스텔마크를 들어가겠어....","type":"REPLAY","cat":"talk","pub":1794408358617,"open":null,"dur":6153},
     {"no":16099897,"title":"A형독감 걸린청년 (처량함 주의)","type":"REPLAY","cat":"talk","pub":1794231658020,"open":null,"dur":3955},
     {"no":16090168,"title":"17살의 에이징커브 테스트😎","type":"REPLAY","cat":"talk","pub":1794157314249,"open":null,"dur":18258},
@@ -7345,7 +7347,7 @@
   "rang": {
    "channelId": "c657aa3592260a2b59669a72ec151936",
    "videos": [
-    {"no":16138428,"title":"오느른 가래떡데이!!! 떡하나주면 안잡아먹찌~~~","type":"REPLAY","cat":"마인크래프트","pub":1794425898221,"open":null,"dur":42283},
+    {"no":16138428,"title":"오느른 가래떡데이!!! 떡하나주면 안잡아먹찌~~~","type":"REPLAY","cat":"마인크래프트","pub":1794425898221,"open":null,"dur":42282},
     {"no":16095665,"title":"랑이와찌","type":"REPLAY","cat":"마인크래프트","pub":1794212897732,"open":null,"dur":5801},
     {"no":16092360,"title":"마크 조아 호랑이","type":"REPLAY","cat":"마인크래프트","pub":1794170390807,"open":null,"dur":26737},
     {"no":16075708,"title":"[속보] 스텔마크서버 호랑이 출몰..","type":"REPLAY","cat":"마인크래프트","pub":1794080930790,"open":null,"dur":28673},
@@ -7399,7 +7401,7 @@
   "mary": {
    "channelId": "792acf9ca28b42918710327e14b06b68",
    "videos": [
-    {"no":16138146,"title":"스텔 마크 4일차!! 오늘은 야무지겟","type":"REPLAY","cat":"마인크래프트","pub":1794423942861,"open":null,"dur":40736},
+    {"no":16138146,"title":"스텔 마크 4일차!! 오늘은 야무지겟","type":"REPLAY","cat":"마인크래프트","pub":1794423942861,"open":null,"dur":40735},
     {"no":16105077,"title":"스텔 마크 3일차! 오늘은 대단한 것을 해볼겁니다","type":"REPLAY","cat":"마인크래프트","pub":1794244578094,"open":null,"dur":31282},
     {"no":16091531,"title":"스텔 마크 2일차!!","type":"REPLAY","cat":"마인크래프트","pub":1794163750690,"open":null,"dur":37455},
     {"no":16075382,"title":"스텔 마크 재밌게따!!!","type":"REPLAY","cat":"마인크래프트","pub":1794117735227,"open":null,"dur":29274},
