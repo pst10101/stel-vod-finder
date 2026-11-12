@@ -14,7 +14,7 @@ on:
         default: false
   push:
     branches: [main]
-    paths: ['docs/**', 'scripts/build.mjs', 'members.json']
+    paths: ['docs/**', 'scripts/build.mjs', 'scripts/clips.mjs', 'members.json']
 
 permissions:
   contents: write
@@ -58,12 +58,21 @@ jobs:
         continue-on-error: true
         run: node scripts/fetch-chzzk.mjs ${{ steps.mode.outputs.flag }}
 
+      # 다시보기 목록이 최신이어야 클립을 방송에 맞출 수 있어서 치지직 다시보기 수집 다음에 돈다
+      - name: 치지직 클립 수집
+        if: steps.mode.outputs.fetch == 'yes'
+        continue-on-error: true
+        run: node scripts/fetch-clips.mjs ${{ steps.mode.outputs.flag }}
+
       - name: 유튜브 다시보기 수집
         if: steps.mode.outputs.fetch == 'yes'
         continue-on-error: true
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: node scripts/fetch-youtube.mjs ${{ steps.mode.outputs.flag }}
+
+      - name: 클립 위치 계산 테스트
+        run: node test/clips.test.mjs
 
       - name: 사이트 데이터 만들기
         env:

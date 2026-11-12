@@ -40,6 +40,8 @@ function dateLabel(d) {
 }
 
 const chzzkUrl = (n) => `https://chzzk.naver.com/video/${encodeURIComponent(n)}`;
+const chzzkAt = (n, sec) => `${chzzkUrl(n)}?currentTime=${Math.max(0, Math.floor(sec))}`; // 치지직 다시보기를 그 시간부터
+const clipUrl = (id) => `https://chzzk.naver.com/clips/${encodeURIComponent(id)}`;
 const ytUrl = (id, t) => `https://www.youtube.com/watch?v=${encodeURIComponent(id)}${t ? `&t=${Math.floor(t)}s` : ''}`;
 
 // ---------- 방송 구간 ----------
@@ -90,6 +92,48 @@ function prepare(it) {
   it.hay = norm(
     [it.t, ...games, ...(it.y || []).flatMap((y) => [y.t, ...(y.ch || []).map((c) => c[1])]), memberName[it.m], ...(it.w || []).map((k) => memberName[k])].join(' '),
   );
+}
+
+// ---------- 클립 ----------
+// 클립 내용은 달마다 나눈 파일(data/clips/2026-11.json)에 있고, 방송 카드에서 펼칠 때 처음 받아온다.
+const clipFiles = new Map();
+function loadClips(month) {
+  if (!clipFiles.has(month)) {
+    clipFiles.set(
+      month,
+      fetch(`data/clips/${month}.json`)
+        .then((r) => (r.ok ? r.json() : {}))
+        .catch(() => ({})),
+    );
+  }
+  return clipFiles.get(month);
+}
+
+// c = { n: 전체 개수, t: [[방송 시작 후 초, 클립 id, 길이, 조회수, 제목]], h: [[초, 개수]] }
+function clipsBody(no, c) {
+  if (!c || !c.t?.length) return `<p class="clips-note">클립 정보를 불러오지 못했어요. 잠시 뒤 다시 열어 주세요.</p>`;
+  const link = (off) => `<a href="${esc(chzzkAt(no, off))}" target="_blank" rel="noopener">${hms(off)}</a>`;
+  const hot = (c.h || []).map(([off, n]) => `<span class="hot-spot">${link(off)} <span class="src">${n}개</span></span>`).join('');
+  const rows = c.t
+    .map(
+      ([off, id, , views, title]) =>
+        `<li><span class="t">${link(off)}</span><span><a class="clip-title" href="${esc(clipUrl(id))}" target="_blank" rel="noopener">${esc(title || '제목 없는 클립')}</a> <span class="src">조회 ${Number(views || 0).toLocaleString('ko-KR')}</span></span></li>`,
+    )
+    .join('');
+  return (
+    (hot ? `<p class="clips-hot"><span class="clips-label">클립이 몰린 구간</span>${hot}</p>` : '') +
+    `<p class="clips-label">많이 본 클립${c.n > c.t.length ? ` (${c.n}개 중 ${c.t.length}개)` : ''}</p>` +
+    `<ul class="parts">${rows}</ul>` +
+    `<p class="clips-note">시간을 누르면 치지직 다시보기가 그 장면 조금 앞에서 열려요. 클립을 만든 시각으로 추정한 위치라 1~2분쯤 다를 수 있고, 방송이 끝난 뒤에 만든 클립은 빠져 있어요.</p>`
+  );
+}
+
+async function openClips(d) {
+  if (d.dataset.loaded) return;
+  d.dataset.loaded = '1';
+  const data = await loadClips(d.dataset.month);
+  const body = d.querySelector('.clips-body');
+  if (body) body.innerHTML = clipsBody(d.dataset.no, data[d.dataset.no]);
 }
 
 // ---------- 검색 ----------
@@ -149,6 +193,11 @@ function card(it, variants) {
     }
   }
 
+  const clipsHtml =
+    it.cl && it.c
+      ? `<details class="clips" data-no="${esc(it.c.n)}" data-month="${esc(it.d.slice(0, 7))}"><summary>클립 ${it.cl.toLocaleString('ko-KR')}개 · 장면 바로가기</summary><div class="clips-body"><p class="clips-note">불러오는 중…</p></div></details>`
+      : '';
+
   const links = [];
   if (it.c) links.push(`<a class="btn" href="${esc(chzzkUrl(it.c.n))}" target="_blank" rel="noopener"><span class="dot"></span>치지직 다시보기</a>`);
   (it.y || []).forEach((y, i, arr) => {
@@ -167,6 +216,7 @@ function card(it, variants) {
     ${it.games.length ? `<p class="bc-games">${it.games.map((g) => `<span class="${variants.some((v) => g.n.includes(v)) ? 'hit' : ''}">${esc(g.label)}</span>`).join('')}</p>` : ''}
     <div class="bar" role="img" aria-label="${esc(barLabel)}">${bar}</div>
     ${partsHtml}
+    ${clipsHtml}
     <div class="links">${links.join('')}</div>
   </article>`;
 }
@@ -317,6 +367,16 @@ function setupControls() {
   if ('IntersectionObserver' in window) {
     new IntersectionObserver((es) => { if (es.some((x) => x.isIntersecting) && !more.hidden) more.click(); }, { rootMargin: '600px' }).observe(more);
   }
+
+  // 클립 펼치기: toggle 이벤트는 위로 올라오지 않아서 캡처 단계에서 받는다
+  $('#list').addEventListener(
+    'toggle',
+    (e) => {
+      const d = e.target;
+      if (d instanceof HTMLDetailsElement && d.classList.contains('clips') && d.open) openClips(d);
+    },
+    true,
+  );
 
   window.addEventListener('hashchange', () => { readHash(); syncControls(); render(); });
 }

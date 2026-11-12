@@ -297,6 +297,22 @@ a { color: var(--accent); }
 details.all-parts { margin-top: 6px; font-size: 14px; }
 details.all-parts summary { cursor: pointer; color: var(--ink-2); font-weight: 600; padding: 4px 0; }
 
+/* 클립: 방송 카드 안에서 펼치는 "장면 바로가기" */
+details.clips { margin-top: 6px; font-size: 14px; }
+details.clips summary { cursor: pointer; color: var(--accent); font-weight: 650; padding: 4px 0; }
+.clips-body { padding-top: 2px; }
+.clips-label { margin: 8px 0 0; color: var(--ink-2); font-size: 12px; font-weight: 650; }
+.clips-hot { margin: 6px 0 0; display: flex; flex-wrap: wrap; gap: 4px 12px; align-items: baseline; }
+.clips-hot .clips-label { margin: 0; }
+.hot-spot { font-variant-numeric: tabular-nums; font-weight: 700; white-space: nowrap; }
+.hot-spot a { text-decoration: none; }
+.hot-spot a:hover { text-decoration: underline; }
+.hot-spot .src, .clips .parts .src { color: var(--ink-2); font-weight: 500; font-size: 12px; }
+.clips .parts { margin-top: 4px; }
+.clip-title { color: var(--ink); text-decoration: none; overflow-wrap: anywhere; }
+.clip-title:hover { text-decoration: underline; }
+.clips-note { margin: 8px 0 0; color: var(--ink-2); font-size: 12px; }
+
 .links {
   display: flex;
   flex-wrap: wrap;

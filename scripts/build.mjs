@@ -1,7 +1,9 @@
 // 수집한 데이터 → 사이트용 docs/data/broadcasts.json
 // 치지직 다시보기와 유튜브 다시보기를 "같은 멤버 + 같은 날짜/시각"으로 묶는다.
 //   node scripts/build.mjs
+import { readdir, rm } from 'node:fs/promises';
 import { path, readJSON, writeJSON, kstDate, log } from './lib.mjs';
+import { windowsFor, summariesFor, forSite } from './clips.mjs';
 
 const H = 3600 * 1000;
 const LIVE_MATCH_MS = 2 * H; // 유튜브 라이브 시작과 치지직 방송 시작 차이 허용
@@ -36,7 +38,7 @@ async function main() {
       key: m.key,
       res: (m.match?.length ? m.match : [m.name, ...(m.short || [])].map(esc)).map((src) => new RegExp(src, 'iu')),
     }));
-  const stats = { chzzk: 0, youtube: 0, matched: 0, ytOnly: 0, segments: 0 };
+  const stats = { chzzk: 0, youtube: 0, matched: 0, ytOnly: 0, segments: 0, clips: 0, clipBroadcasts: 0 };
 
   for (const m of members) {
     const cz = (chzzk.members[m.key]?.videos || []).filter((c) => c.pub);
@@ -118,6 +120,27 @@ async function main() {
   }
 
   items.sort((a, b) => b.s - a.s);
+
+  // 클립: 방송마다 개수(cl)만 목록에 넣고, 자세한 내용은 달마다 나눈 파일로 둔다 (펼칠 때만 받아오게)
+  const clipSums = {};
+  for (const m of members) {
+    const st = await readJSON(path('data', 'clips', `${m.key}.json`), null);
+    if (st) clipSums[m.key] = summariesFor(st, windowsFor(chzzk.members[m.key]?.videos));
+  }
+  const clipShards = {};
+  for (const b of items) {
+    const sum = b.c && clipSums[b.m]?.get(b.c.n);
+    if (!sum || !sum.n) continue;
+    b.cl = sum.n;
+    (clipShards[b.d.slice(0, 7)] ||= {})[b.c.n] = forSite(sum);
+    stats.clips += sum.n;
+    stats.clipBroadcasts += 1;
+  }
+  const clipDir = path('docs', 'data', 'clips');
+  for (const [month, shard] of Object.entries(clipShards)) await writeJSON(path('docs', 'data', 'clips', `${month}.json`), shard, { compact: true });
+  for (const f of await readdir(clipDir).catch(() => [])) {
+    if (f.endsWith('.json') && !clipShards[f.slice(0, -5)]) await rm(path('docs', 'data', 'clips', f)); // 클립이 없어진 달 파일 정리
+  }
   // 사이트 하단 "삭제 요청" 링크: CONTACT_URL 변수가 있으면 그것, 없으면 이 저장소의 이슈
   const contactEnv = (process.env.CONTACT_URL || '').trim();
   const repo = process.env.GITHUB_REPOSITORY;
@@ -131,7 +154,7 @@ async function main() {
   };
   await writeJSON(path('docs', 'data', 'broadcasts.json'), out, { compact: true });
   log(
-    `방송 ${items.length}개 — 치지직 ${stats.chzzk}, 유튜브 ${stats.youtube} (치지직과 매칭 ${stats.matched}, 유튜브만 ${stats.ytOnly}), 카테고리 기록 ${stats.segments}`,
+    `방송 ${items.length}개 — 치지직 ${stats.chzzk}, 유튜브 ${stats.youtube} (치지직과 매칭 ${stats.matched}, 유튜브만 ${stats.ytOnly}), 카테고리 기록 ${stats.segments}, 클립 ${stats.clips}개(방송 ${stats.clipBroadcasts}개)`,
   );
 }
 
