@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794526743211,
+ "updatedAt": 1794552250740,
  "channels": {
   "UC2Ki6__sICXPyHPCyFxIgbw": {
    "videos": [
@@ -1540,6 +1540,15 @@
   },
   "@Yunireplay": {
    "videos": [
+    {"id":"uoueFPz_zMA","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"스텔마크 4기생 첫 만남_2 [2026.11.08]","pub":1794530407000,"liveStart":null,"liveEnd":null,"dur":25293,"titleDate":"2026-11-08","chapters":[]},
+    {"id":"Va6cg1vr7rM","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"빙하기 끝 + 스텔 마크 4기생 첫 만남 [2026.11.08]","pub":1794530129000,"liveStart":null,"liveEnd":null,"dur":12976,"titleDate":"2026-11-08","chapters":[]},
+    {"id":"wBL2T97UCoo","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"빙하기 전 저챗 + 노래방 [2026.10.25]","pub":1794529832000,"liveStart":null,"liveEnd":null,"dur":8466,"titleDate":"2026-10-25","chapters":[]},
+    {"id":"r2iuAHB8fP0","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"저챗 + Don't drop the cake + 워독스 [2026.10.24]","pub":1794529523000,"liveStart":null,"liveEnd":null,"dur":30098,"titleDate":"2026-10-24","chapters":[]},
+    {"id":"21h0nDZdAJ4","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"저챗 + 아.아.아. + Find the needle + A weird game about sausage [2026.10.23]","pub":1794529209000,"liveStart":null,"liveEnd":null,"dur":34357,"titleDate":"2026-10-23","chapters":[]},
+    {"id":"jd0UcohBZNs","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"4기생 데뷔 같이 보기 [2026.10.22]","pub":1794528933000,"liveStart":null,"liveEnd":null,"dur":23755,"titleDate":"2026-10-22","chapters":[]},
+    {"id":"VUd24spI3Dk","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"러너리그5 스크림 [2026.10.17]","pub":1794528629000,"liveStart":null,"liveEnd":null,"dur":40897,"titleDate":"2026-10-17","chapters":[]},
+    {"id":"Y4R3h2SkIrw","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"러너리그5 오버워치 내전 [2026.10.14]","pub":1794528323000,"liveStart":null,"liveEnd":null,"dur":29355,"titleDate":"2026-10-14","chapters":[]},
+    {"id":"AW96104L4rk","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"오버워치 내전 [2026.10.12]","pub":1794528024000,"liveStart":null,"liveEnd":null,"dur":26759,"titleDate":"2026-10-12","chapters":[]},
     {"id":"NIArgqbm_8k","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"4기생 토크 + 오버워치 내전 [2026.10.10]","pub":1792579229000,"liveStart":null,"liveEnd":null,"dur":46320,"titleDate":"2026-10-10","chapters":[]},
     {"id":"2iWN3rLQIRE","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"민들레는 버틴다 + 아크레이더스 + 발음테스트 w. 히나 [2026.10.09]","pub":1792578928000,"liveStart":null,"liveEnd":null,"dur":25384,"titleDate":"2026-10-09","chapters":[]},
     {"id":"hxwNJzzMzzg","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"워독스 + 오버워치 내전 [2026.10.07]","pub":1792578602000,"liveStart":null,"liveEnd":null,"dur":22224,"titleDate":"2026-10-07","chapters":[]},
@@ -2082,6 +2091,7 @@
   },
   "@Sakihanereplay": {
    "videos": [
+    {"id":"_30Fo1nC4FA","ch":"UCJz5aRHEMTL10zLfMj5hVmg","m":"huya","title":"마인크래프트 스텔라이브 서버 261111","pub":1794531634000,"liveStart":null,"liveEnd":null,"dur":36581,"titleDate":"2026-11-11","chapters":[[0,"시작"],[89,"등장"],[5005,"마인크래프트 플레이"]]},
     {"id":"2D-DXezrLBk","ch":"UCJz5aRHEMTL10zLfMj5hVmg","m":"huya","title":"마인크래프트 스텔라이브 서버 261109","pub":1794369603000,"liveStart":null,"liveEnd":null,"dur":29692,"titleDate":"2026-11-09","chapters":[[0,"시작"],[331,"등장"],[1557,"마인크래프트 플레이"]]},
     {"id":"74COZOpKIEI","ch":"UCJz5aRHEMTL10zLfMj5hVmg","m":"huya","title":"마인크래프트 스텔라이브 서버 261108","pub":1794358826000,"liveStart":null,"liveEnd":null,"dur":23335,"titleDate":"2026-11-08","chapters":[[0,"시작"],[332,"등장"],[2381,"마인크래프트 플레이"]]},
     {"id":"zYjWljA4q6U","ch":"UCJz5aRHEMTL10zLfMj5hVmg","m":"huya","title":"젤다의 전설 : 시간의 오카리나, 마인크래프트 스텔라이브서버 261107","pub":1794217016000,"liveStart":null,"liveEnd":null,"dur":22472,"titleDate":"2026-11-07","chapters":[[0,"시작"],[314,"등장"],[1070,"젤다의 전설 플레이"],[20830,"마인크래프트 플레이"]]},
@@ -2363,6 +2373,7 @@
   },
   "@hinareplay": {
    "videos": [
+    {"id":"geoNAc2_n40","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"나는 범인이다. [26 11.12]","pub":1794538070000,"liveStart":null,"liveEnd":null,"dur":30414,"titleDate":null,"chapters":[]},
     {"id":"MMGL4Qh4JPc","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"빼빼로데이에 마크 염탐하기 [26. 11.11]","pub":1794478604000,"liveStart":null,"liveEnd":null,"dur":17909,"titleDate":"2026-11-11","chapters":[]},
     {"id":"PTr8-7gwP2A","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"나여 [26. 11.10]","pub":1794369635000,"liveStart":null,"liveEnd":null,"dur":23530,"titleDate":"2026-11-10","chapters":[]},
     {"id":"g3XBYfr8TJk","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"놀러옴 [26. 11.8]","pub":1794305594000,"liveStart":null,"liveEnd":null,"dur":7013,"titleDate":"2026-11-08","chapters":[]},
@@ -4806,6 +4817,8 @@
   },
   "@tabireplay": {
    "videos": [
+    {"id":"UPlXH4pBzPk","ch":"UCOAD3RLV7uC3uc39ok7NLyg","m":"tabi","title":"[2026.11.10] 로블록스 자낳대 연습","pub":1794531602000,"liveStart":null,"liveEnd":null,"dur":31947,"titleDate":"2026-11-10","chapters":[[0,"Loading"],[271,"Just Chatting"],[6227,"로블록스 연습"],[29943,"Just Chatting"],[31887,"방종"]]},
+    {"id":"50nMJZ_LJpY","ch":"UCOAD3RLV7uC3uc39ok7NLyg","m":"tabi","title":"[2026.11.07] 타타TV vs 부키TV 컨텐츠 + 스텔마크 + 메리, 토아 후배님이랑 인사하기 (키리누키 금지)","pub":1794531489000,"liveStart":null,"liveEnd":null,"dur":32890,"titleDate":"2026-11-07","chapters":[[0,"Loading"],[277,"Just Chatting"],[914,"로낳대 설명회 같이보기"],[3050,"로블록스"],[8317,"스텔마크"],[13135,"타타TV vs 부키TV 다이아캐기 배틀"],[19196,"스텔마크"],[32803,"방종"]]},
     {"id":"Y9oCNjunkb4","ch":"UCOAD3RLV7uC3uc39ok7NLyg","m":"tabi","title":"[2026.11.09] 【자낳대26 : 로블록스】 팀 선정 + 로블록스 연습","pub":1794348014000,"liveStart":null,"liveEnd":null,"dur":33791,"titleDate":"2026-11-09","chapters":[[0,"Loading"],[564,"Just Chatting"],[9197,"【자낳대26 : 로블록스】 팀 선정"],[17762,"로블록스 연습"],[33735,"방종"]]},
     {"id":"BX9lhRBxHjI","ch":"UCOAD3RLV7uC3uc39ok7NLyg","m":"tabi","title":"[2026.11.08] 파이널스 위크(w. 리코, 티뭉, 장마군) + 증강 윷놀이 + 스텔마크 히요리 후배님 첫 만남","pub":1794292507000,"liveStart":null,"liveEnd":null,"dur":35039,"titleDate":"2026-11-08","chapters":[[0,"Loading"],[349,"Just Chatting"],[4841,"스텔마크"],[13142,"파이널스 위크(w. 리코, 티뭉, 장마군)"],[21509,"후열 증강 윷놀이"],[25966,"스텔마크"],[34999,"방종"]]},
     {"id":"ezeqiUrKFaQ","ch":"UCOAD3RLV7uC3uc39ok7NLyg","m":"tabi","title":"[2026.10.31] 할로윈 마크 합방 컨텐츠(w. 유니버스, 린, 리코) + 후열 갈틱폰","pub":1794128404000,"liveStart":null,"liveEnd":null,"dur":36437,"titleDate":"2026-10-31","chapters":[[0,"Loading"],[310,"Just Chatting"],[6747,"포케봉크"],[13424,"문 스위퍼스(w. 강지, 시로)"],[19421,"마인크래프트 마녀를 찾아라!(w. 유니버스, 린, 리코)"],[29805,"후열 갈틱폰"],[33921,"명조 : 워더링 웨이브"],[36322,"방종"]]},

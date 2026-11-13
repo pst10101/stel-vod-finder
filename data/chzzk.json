@@ -1,10 +1,10 @@
 {
- "updatedAt": 1794526736277,
+ "updatedAt": 1794552244585,
  "members": {
   "gangzi": {
    "channelId": "b5ed5db484d04faf4d150aedd362f34b",
    "videos": [
-    {"no":16154654,"title":"( ܸ ⩌⩊⩌ ܸ )","type":"REPLAY","cat":"마인크래프트","pub":1794512245734,"open":null,"dur":40526},
+    {"no":16154654,"title":"( ܸ ⩌⩊⩌ ܸ )","type":"REPLAY","cat":"마인크래프트","pub":1794512245734,"open":null,"dur":40524},
     {"no":16119856,"title":"( ܸ ⩌⩊⩌ ܸ )","type":"REPLAY","cat":"마인크래프트","pub":1794329748659,"open":null,"dur":26192},
     {"no":16090789,"title":"( ܸ ⩌⩊⩌ ܸ )","type":"REPLAY","cat":"마인크래프트","pub":1794159528925,"open":null,"dur":22283},
     {"no":16074123,"title":"( ܸ ⩌⩊⩌ ܸ )","type":"REPLAY","cat":"마인크래프트","pub":1794073661474,"open":null,"dur":24566},
@@ -7330,7 +7330,7 @@
   "toa": {
    "channelId": "2299fad4bebb504b0978e1ec08b2f7d3",
    "videos": [
-    {"no":16154899,"title":"토아랑 PEAK + 2부 스텔마꾸","type":"REPLAY","cat":"마인크래프트","pub":1794514568032,"open":null,"dur":41903},
+    {"no":16154899,"title":"토아랑 PEAK + 2부 스텔마꾸","type":"REPLAY","cat":"마인크래프트","pub":1794514568032,"open":null,"dur":41902},
     {"no":16138049,"title":"오눌도 재밌게 놀쟈요","type":"REPLAY","cat":"마인크래프트","pub":1794430329754,"open":null,"dur":35079},
     {"no":16104733,"title":"건실하게 살자","type":"REPLAY","cat":"마인크래프트","pub":1794243525443,"open":null,"dur":30281},
     {"no":16092287,"title":"스텔 마크 2일차 !!!!!","type":"REPLAY","cat":"마인크래프트","pub":1794169623844,"open":null,"dur":45941},
@@ -7354,6 +7354,7 @@
   "rang": {
    "channelId": "c657aa3592260a2b59669a72ec151936",
    "videos": [
+    {"no":16155962,"title":"건실하게 굴파는 호랑이.","type":"REPLAY","cat":"마인크래프트","pub":1794530251778,"open":null,"dur":56823},
     {"no":16138428,"title":"오느른 가래떡데이!!! 떡하나주면 안잡아먹찌~~~","type":"REPLAY","cat":"마인크래프트","pub":1794425898221,"open":null,"dur":42282},
     {"no":16095665,"title":"랑이와찌","type":"REPLAY","cat":"마인크래프트","pub":1794212897732,"open":null,"dur":5801},
     {"no":16092360,"title":"마크 조아 호랑이","type":"REPLAY","cat":"마인크래프트","pub":1794170390807,"open":null,"dur":26737},
@@ -7382,7 +7383,7 @@
   "hiyori": {
    "channelId": "49d2c3cf8f0b2843d934ec15e82bb54c",
    "videos": [
-    {"no":16155170,"title":"하나요 히요리님의 라이브 시작","type":"REPLAY","cat":"마인크래프트","pub":1794516862722,"open":null,"dur":31737},
+    {"no":16155170,"title":"하나요 히요리님의 라이브 시작","type":"REPLAY","cat":"마인크래프트","pub":1794516862722,"open":null,"dur":31736},
     {"no":16139115,"title":"집이 생겼습니다! 스텔 마크","type":"REPLAY","cat":"마인크래프트","pub":1794430991581,"open":null,"dur":30101},
     {"no":16107545,"title":"'집을 짓자' 홈리스의 스텔 마크","type":"REPLAY","cat":"마인크래프트","pub":1794262810175,"open":null,"dur":34794},
     {"no":16092771,"title":"첫마인크래프트인데요 안녕하세요!!","type":"REPLAY","cat":"마인크래프트","pub":1794175838175,"open":null,"dur":37501},
