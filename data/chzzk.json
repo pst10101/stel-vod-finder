@@ -1,10 +1,10 @@
 {
- "updatedAt": 1794598905446,
+ "updatedAt": 1794637267101,
  "members": {
   "gangzi": {
    "channelId": "b5ed5db484d04faf4d150aedd362f34b",
    "videos": [
-    {"no":16169727,"title":"( ܸ ⩌⩊⩌ ܸ )","type":"REPLAY","cat":"리그 오브 레전드","pub":1794593390145,"open":null,"dur":31287},
+    {"no":16169727,"title":"( ܸ ⩌⩊⩌ ܸ )","type":"REPLAY","cat":"리그 오브 레전드","pub":1794593390145,"open":null,"dur":31285},
     {"no":16154654,"title":"( ܸ ⩌⩊⩌ ܸ )","type":"REPLAY","cat":"마인크래프트","pub":1794512245734,"open":null,"dur":40524},
     {"no":16119856,"title":"( ܸ ⩌⩊⩌ ܸ )","type":"REPLAY","cat":"마인크래프트","pub":1794329748659,"open":null,"dur":26192},
     {"no":16090789,"title":"( ܸ ⩌⩊⩌ ܸ )","type":"REPLAY","cat":"마인크래프트","pub":1794159528925,"open":null,"dur":22283},
@@ -4033,7 +4033,7 @@
   "tabi": {
    "channelId": "a6c4ddb09cdb160478996007bff35296",
    "videos": [
-    {"no":16166531,"title":"[자낳대26:로블록스] 형제팀 우싸말이랑 스크림","type":"REPLAY","cat":"로블록스","pub":1794585288482,"open":null,"dur":35409},
+    {"no":16166531,"title":"[자낳대26:로블록스] 형제팀 우싸말이랑 스크림","type":"REPLAY","cat":"로블록스","pub":1794585288482,"open":null,"dur":35407},
     {"no":16151244,"title":"[자낳대26:로블록스] 죽음을 각오한 정타비","type":"REPLAY","cat":"로블록스","pub":1794499804286,"open":null,"dur":41637},
     {"no":16134596,"title":"자낳대 연습해야제ㅔㅔㅔ🐳","type":"REPLAY","cat":"로블록스","pub":1794412399156,"open":null,"dur":35065},
     {"no":16121365,"title":"헤헤헤.","type":"REPLAY","cat":"talk","pub":1794335201434,"open":null,"dur":31941},
@@ -4786,6 +4786,7 @@
   "shibuki": {
    "channelId": "64d76089fba26b180d9c9e48a32600d9",
    "videos": [
+    {"no":16171261,"title":"아포칼립스 전문 스트리머","type":"REPLAY","cat":"제드 존","pub":1794600327902,"open":null,"dur":37384},
     {"no":16136380,"title":"빼빼빼빼빼빼빼빼빼드로","type":"REPLAY","cat":"마인크래프트","pub":1794416854285,"open":null,"dur":28725},
     {"no":16103977,"title":"4렙가방 행복 배그 w.김블루님, 수피님, DG98님","type":"REPLAY","cat":"PUBG: 배틀그라운드","pub":1794241092147,"open":null,"dur":22273},
     {"no":16089874,"title":"스텔마끼끼","type":"REPLAY","cat":"마인크래프트","pub":1794156399477,"open":null,"dur":27409},
@@ -7338,7 +7339,7 @@
   "toa": {
    "channelId": "2299fad4bebb504b0978e1ec08b2f7d3",
    "videos": [
-    {"no":16168921,"title":"놀쟈","type":"REPLAY","cat":"언더테일","pub":1794595208755,"open":null,"dur":31870},
+    {"no":16168921,"title":"놀쟈","type":"REPLAY","cat":"언더테일","pub":1794595208755,"open":null,"dur":31869},
     {"no":16154899,"title":"토아랑 PEAK + 2부 스텔마꾸","type":"REPLAY","cat":"마인크래프트","pub":1794514568032,"open":null,"dur":41902},
     {"no":16138049,"title":"오눌도 재밌게 놀쟈요","type":"REPLAY","cat":"마인크래프트","pub":1794430329754,"open":null,"dur":35079},
     {"no":16104733,"title":"건실하게 살자","type":"REPLAY","cat":"마인크래프트","pub":1794243525443,"open":null,"dur":30281},
