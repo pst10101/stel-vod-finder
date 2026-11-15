@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794699005692,
+ "updatedAt": 1794724241467,
  "channels": {
   "UC2Ki6__sICXPyHPCyFxIgbw": {
    "videos": [
@@ -1541,6 +1541,7 @@
   },
   "@Yunireplay": {
    "videos": [
+    {"id":"AEEsqSa5ODs","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"죵쬐컵 롤 내전 [2026.11.09]","pub":1794718437000,"liveStart":null,"liveEnd":null,"dur":26434,"titleDate":"2026-11-09","chapters":[]},
     {"id":"uoueFPz_zMA","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"스텔마크 4기생 첫 만남_2 [2026.11.08]","pub":1794530407000,"liveStart":null,"liveEnd":null,"dur":25293,"titleDate":"2026-11-08","chapters":[]},
     {"id":"Va6cg1vr7rM","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"빙하기 끝 + 스텔 마크 4기생 첫 만남 [2026.11.08]","pub":1794530129000,"liveStart":null,"liveEnd":null,"dur":12976,"titleDate":"2026-11-08","chapters":[]},
     {"id":"wBL2T97UCoo","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"빙하기 전 저챗 + 노래방 [2026.10.25]","pub":1794529832000,"liveStart":null,"liveEnd":null,"dur":8466,"titleDate":"2026-10-25","chapters":[]},
@@ -6500,6 +6501,7 @@
   },
   "@rinreplay": {
    "videos": [
+    {"id":"X0S_V_9dckg","ch":"UCmw0eKk5uOv029SScRRRfqw","m":"rin","title":"[ 2026/11/14 | 명조 (W. 부키, 남봉) ] - 린 다시보기","pub":1794724232000,"liveStart":null,"liveEnd":null,"dur":20028,"titleDate":"2026-11-14","chapters":[]},
     {"id":"BUO6Jq07JyM","ch":"UCmw0eKk5uOv029SScRRRfqw","m":"rin","title":"[ 2026/11/11 | 스텔마크 ] - 린 다시보기","pub":1794463236000,"liveStart":null,"liveEnd":null,"dur":18599,"titleDate":"2026-11-11","chapters":[]},
     {"id":"NosT1t2YIP0","ch":"UCmw0eKk5uOv029SScRRRfqw","m":"rin","title":"[ 2026/11/10 | 스텔마크 ] - 린 다시보기","pub":1794456017000,"liveStart":null,"liveEnd":null,"dur":18362,"titleDate":"2026-11-10","chapters":[]},
     {"id":"T1CxB8e2M3I","ch":"UCmw0eKk5uOv029SScRRRfqw","m":"rin","title":"[ 2026/11/09 | 스텔마크 ] - 린 다시보기","pub":1794286808000,"liveStart":null,"liveEnd":null,"dur":17883,"titleDate":"2026-11-09","chapters":[]},
