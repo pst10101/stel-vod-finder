@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795120586258,
+ "updatedAt": 1795158881903,
  "members": {
   "gangzi": {
    "channelId": "b5ed5db484d04faf4d150aedd362f34b",
@@ -3341,7 +3341,7 @@
   "lize": {
    "channelId": "4325b1d5bbc321fad3042306646e2e50",
    "videos": [
-    {"no":16268051,"title":"참고로 난 건축 고수임. 마끼끼","type":"REPLAY","cat":"마인크래프트","pub":1795110598855,"open":null,"dur":19884},
+    {"no":16268051,"title":"참고로 난 건축 고수임. 마끼끼","type":"REPLAY","cat":"마인크래프트","pub":1795110598855,"open":null,"dur":19883},
     {"no":16249309,"title":"재미섯당","type":"REPLAY","cat":"talk","pub":1795019212947,"open":null,"dur":25710},
     {"no":16204621,"title":"돈 없으면 리제 써야지 연락주세요","type":"REPLAY","cat":"talk","pub":1794768595241,"open":null,"dur":24011},
     {"no":16189898,"title":"쵸비 성불기원 롤드컵 따로보기 ( •̀ .̫ •́ )✧ 너라도 우승해라!!1 아니 해ㅔ줘!!!!!!!","type":"REPLAY","cat":"리그 오브 레전드","pub":1794702205890,"open":null,"dur":18226},
@@ -7381,7 +7381,7 @@
   "toa": {
    "channelId": "2299fad4bebb504b0978e1ec08b2f7d3",
    "videos": [
-    {"no":16267741,"title":"수능 문제 풀이 + 트롤리 딜레마 + 돼지 + 롤","type":"REPLAY","cat":"talk","pub":1795109769759,"open":null,"dur":32498},
+    {"no":16267741,"title":"수능 문제 풀이 + 트롤리 딜레마 + 돼지 + 롤","type":"REPLAY","cat":"talk","pub":1795109769759,"open":null,"dur":32497},
     {"no":16246712,"title":"오느른 무얼 할꺼냐면 !!!!","type":"REPLAY","cat":"미사이드","pub":1795019638796,"open":null,"dur":25042},
     {"no":16234843,"title":"집합.","type":"REPLAY","cat":"마인크래프트","pub":1794944836805,"open":null,"dur":39521},
     {"no":16201591,"title":"부끼선배랑 롤 하눈 날 !!!!","type":"REPLAY","cat":"리그 오브 레전드","pub":1794817485333,"open":null,"dur":27996},
@@ -7445,6 +7445,7 @@
   "hiyori": {
    "channelId": "49d2c3cf8f0b2843d934ec15e82bb54c",
    "videos": [
+    {"no":16270536,"title":"점프킹 켠왕.... 돌격!!","type":"REPLAY","cat":"점프 킹","pub":1795132480709,"open":null,"dur":42043},
     {"no":16236602,"title":"안녕하십니까!!!","type":"REPLAY","cat":"마인크래프트","pub":1794950729466,"open":null,"dur":33350},
     {"no":16220617,"title":"안녕하세요리입니다","type":"REPLAY","cat":"마인크래프트","pub":1794864553283,"open":null,"dur":35365},
     {"no":16205754,"title":"일요일 진짜 생방하나요?","type":"REPLAY","cat":"리그 오브 레전드","pub":1794779232885,"open":null,"dur":29279},

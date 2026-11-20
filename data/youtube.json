@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795120593724,
+ "updatedAt": 1795158888705,
  "channels": {
   "UC2Ki6__sICXPyHPCyFxIgbw": {
    "videos": [
@@ -1544,6 +1544,7 @@
   },
   "@Yunireplay": {
    "videos": [
+    {"id":"HjTf8h0YR6A","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"부산갈매기 합방 [2026.11.16]","pub":1795132805000,"liveStart":null,"liveEnd":null,"dur":20626,"titleDate":"2026-11-16","chapters":[]},
     {"id":"kl5xCJ_0eM8","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"바람난 남편 잡기 + 예비군 + 스텔 마크 [2026.11.15]","pub":1794960910000,"liveStart":null,"liveEnd":null,"dur":26369,"titleDate":"2026-11-15","chapters":[]},
     {"id":"umcRQ4hENPQ","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"죵쬐컵 롤 대회 2일차 [2026.11.14]","pub":1794960620000,"liveStart":null,"liveEnd":null,"dur":35639,"titleDate":"2026-11-14","chapters":[]},
     {"id":"VinVPnN5gpQ","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"죵쬐컵 롤 대회 1일차 [2026.11.13]","pub":1794960306000,"liveStart":null,"liveEnd":null,"dur":24759,"titleDate":"2026-11-13","chapters":[]},
@@ -2386,6 +2387,7 @@
   },
   "@hinareplay": {
    "videos": [
+    {"id":"D5JhTi6OGyc","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"보구미 [26. 11.19]","pub":1795142737000,"liveStart":null,"liveEnd":null,"dur":2598,"titleDate":"2026-11-19","chapters":[]},
     {"id":"AfbHJnzWPJc","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"히윤모의 군필여고생 라이프 [26. 11.18]","pub":1795095551000,"liveStart":null,"liveEnd":null,"dur":21761,"titleDate":"2026-11-18","chapters":[]},
     {"id":"bxMJoUSjCqs","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"하이용 [26. 11.17]","pub":1795092493000,"liveStart":null,"liveEnd":null,"dur":19443,"titleDate":"2026-11-17","chapters":[]},
     {"id":"mE0htiqa5jU","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"하이용 [26. 11.17]","pub":1795025713000,"liveStart":null,"liveEnd":null,"dur":19733,"titleDate":"2026-11-17","chapters":[]},
@@ -6523,6 +6525,7 @@
   },
   "@rinreplay": {
    "videos": [
+    {"id":"GZadOUvaTtU","ch":"UCmw0eKk5uOv029SScRRRfqw","m":"rin","title":"[ 2026/11/19 | 카페탐방 + 포테이토 플리즈 ] - 린 다시보기","pub":1795132824000,"liveStart":null,"liveEnd":null,"dur":16560,"titleDate":"2026-11-19","chapters":[]},
     {"id":"r1FxwNIlikw","ch":"UCmw0eKk5uOv029SScRRRfqw","m":"rin","title":"[ 2026/11/16 | 카페탐방 + 스텔마크 ] - 린 다시보기","pub":1794880833000,"liveStart":null,"liveEnd":null,"dur":16618,"titleDate":"2026-11-16","chapters":[]},
     {"id":"Z_3URtKO5wA","ch":"UCmw0eKk5uOv029SScRRRfqw","m":"rin","title":"[ 2026/11/15 | 스텔마크 ] - 린 다시보기","pub":1794819441000,"liveStart":null,"liveEnd":null,"dur":20820,"titleDate":"2026-11-15","chapters":[]},
     {"id":"X0S_V_9dckg","ch":"UCmw0eKk5uOv029SScRRRfqw","m":"rin","title":"[ 2026/11/14 | 명조 (W. 부키, 남봉) ] - 린 다시보기","pub":1794724232000,"liveStart":null,"liveEnd":null,"dur":20028,"titleDate":"2026-11-14","chapters":[]},
