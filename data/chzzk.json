@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795158881903,
+ "updatedAt": 1795205814320,
  "members": {
   "gangzi": {
    "channelId": "b5ed5db484d04faf4d150aedd362f34b",
@@ -762,6 +762,7 @@
   "yuni": {
    "channelId": "45e71a76e949e16a34764deb962f9d9f",
    "videos": [
+    {"no":16284955,"title":"쇼트케이크 만들기","type":"REPLAY","cat":"마인크래프트","pub":1795198937459,"open":null,"dur":28153},
     {"no":16256865,"title":"안녕하세요","type":"REPLAY","cat":"talk","pub":1795075687030,"open":null,"dur":521},
     {"no":16216478,"title":"봉누도에 부산갈매기 합방 드디어","type":"REPLAY","cat":"talk","pub":1794844306020,"open":null,"dur":20623},
     {"no":16203981,"title":"힐링마크","type":"REPLAY","cat":"talk","pub":1794765624146,"open":null,"dur":26363},
@@ -1755,6 +1756,7 @@
   "hina": {
    "channelId": "b044e3a3b9259246bc92e863e7d3f3b8",
    "videos": [
+    {"no":16282351,"title":"스텔라이브 소속 2기생 유니버스 시라유키 히나 님","type":"REPLAY","cat":"talk","pub":1795191683491,"open":null,"dur":22507},
     {"no":16260506,"title":"보구미","type":"REPLAY","cat":"talk","pub":1795092348784,"open":null,"dur":2594},
     {"no":16251477,"title":"히윤모의 군필여고생 라이프","type":"REPLAY","cat":"talk","pub":1795026048507,"open":null,"dur":22090},
     {"no":16233292,"title":"하이용","type":"REPLAY","cat":"talk","pub":1794933282567,"open":null,"dur":19777},
@@ -2559,6 +2561,7 @@
   "mashiro": {
    "channelId": "4515b179f86b67b4981e16190817c580",
    "videos": [
+    {"no":16281309,"title":"뇨래ㄴㅏㅇ","type":"REPLAY","cat":"음악/노래","pub":1795189379885,"open":null,"dur":27888},
     {"no":16266602,"title":"우잉 짱춤내ㅐ","type":"REPLAY","cat":"발로란트","pub":1795106007126,"open":null,"dur":9470},
     {"no":16261970,"title":"우잉 짱춤내ㅐ","type":"REPLAY","cat":"talk","pub":1795096720423,"open":null,"dur":21010},
     {"no":16247479,"title":"안녕~ 맛시로 입니댜 😋이거 제 이모지야","type":"REPLAY","cat":"돈 스타브 투게더","pub":1795015559710,"open":null,"dur":29371},
@@ -3341,6 +3344,7 @@
   "lize": {
    "channelId": "4325b1d5bbc321fad3042306646e2e50",
    "videos": [
+    {"no":16282048,"title":"참고로 난 고수임.","type":"REPLAY","cat":"마인크래프트","pub":1795190983034,"open":null,"dur":19527},
     {"no":16268051,"title":"참고로 난 건축 고수임. 마끼끼","type":"REPLAY","cat":"마인크래프트","pub":1795110598855,"open":null,"dur":19883},
     {"no":16249309,"title":"재미섯당","type":"REPLAY","cat":"talk","pub":1795019212947,"open":null,"dur":25710},
     {"no":16204621,"title":"돈 없으면 리제 써야지 연락주세요","type":"REPLAY","cat":"talk","pub":1794768595241,"open":null,"dur":24011},
@@ -4056,6 +4060,7 @@
   "tabi": {
    "channelId": "a6c4ddb09cdb160478996007bff35296",
    "videos": [
+    {"no":16281739,"title":"명조 : 워더링 웨이브 3.8 레쭈고","type":"REPLAY","cat":"명조:워더링 웨이브","pub":1795190346686,"open":null,"dur":31957},
     {"no":16247301,"title":"오누룬요 스떼루 굶지마이이이이잇 (W.후이야이야, 맛찌로, 찐찌부키, 얌뱃쭈)","type":"REPLAY","cat":"돈 스타브 투게더","pub":1795014995399,"open":null,"dur":31230},
     {"no":16233098,"title":"진짜 건축해야해여","type":"REPLAY","cat":"마인크래프트","pub":1794932796084,"open":null,"dur":35142},
     {"no":16218043,"title":"나 오늘 폼 빨땩","type":"REPLAY","cat":"마인크래프트","pub":1794848648965,"open":null,"dur":31052},
@@ -4813,6 +4818,7 @@
   "shibuki": {
    "channelId": "64d76089fba26b180d9c9e48a32600d9",
    "videos": [
+    {"no":16282203,"title":"티모도파민한판 플레가기.","type":"REPLAY","cat":"리그 오브 레전드","pub":1795191436900,"open":null,"dur":27542},
     {"no":16264170,"title":"예비군 가기","type":"REPLAY","cat":"예비군","pub":1795101085777,"open":null,"dur":19924},
     {"no":16250983,"title":"굶어","type":"REPLAY","cat":"마인크래프트","pub":1795024448477,"open":null,"dur":36913},
     {"no":16219286,"title":"밥밥밥밥우울해서밥사먹었어","type":"REPLAY","cat":"마인크래프트","pub":1794853646794,"open":null,"dur":35140},
@@ -5510,6 +5516,7 @@
   "rin": {
    "channelId": "516937b5f85cbf2249ce31b0ad046b0f",
    "videos": [
+    {"no":16282815,"title":"사장님이랑 드라이브","type":"REPLAY","cat":"노마드 드라이브","pub":1795192772966,"open":null,"dur":18509},
     {"no":16266814,"title":"다들 마쉿는거 먹고 힘내기~","type":"REPLAY","cat":"포테이토 플리즈","pub":1795106652457,"open":null,"dur":16864},
     {"no":16216555,"title":"어쩔 수 없네...오늘은 정말 켜야겠군....","type":"REPLAY","cat":"마인크래프트","pub":1794844475908,"open":null,"dur":17267},
     {"no":16203702,"title":"오늘은 딴 길로 안 새겠지..?","type":"REPLAY","cat":"마인크래프트","pub":1794764345979,"open":null,"dur":20816},
@@ -6727,6 +6734,7 @@
   "riko": {
    "channelId": "8fd39bb8de623317de90654718638b10",
    "videos": [
+    {"no":16281026,"title":"돈벌고 가야지","type":"REPLAY","cat":"talk","pub":1795188789766,"open":null,"dur":28457},
     {"no":16265176,"title":"하핫 아직 성장중","type":"REPLAY","cat":"talk","pub":1795103049187,"open":null,"dur":27132},
     {"no":16249017,"title":"고기만 먹을게","type":"REPLAY","cat":"talk","pub":1795018707022,"open":null,"dur":31218},
     {"no":16217728,"title":"오랜만에 왔다 발로야. (  w. 강지 이춘향 김블루 후추)","type":"REPLAY","cat":"발로란트","pub":1794847597175,"open":null,"dur":17445},
@@ -7445,6 +7453,7 @@
   "hiyori": {
    "channelId": "49d2c3cf8f0b2843d934ec15e82bb54c",
    "videos": [
+    {"no":16286376,"title":"금요일..생방하나요?!","type":"REPLAY","cat":"흉우","pub":1795205473796,"open":null,"dur":19989},
     {"no":16270536,"title":"점프킹 켠왕.... 돌격!!","type":"REPLAY","cat":"점프 킹","pub":1795132480709,"open":null,"dur":42043},
     {"no":16236602,"title":"안녕하십니까!!!","type":"REPLAY","cat":"마인크래프트","pub":1794950729466,"open":null,"dur":33350},
     {"no":16220617,"title":"안녕하세요리입니다","type":"REPLAY","cat":"마인크래프트","pub":1794864553283,"open":null,"dur":35365},
@@ -7485,6 +7494,7 @@
   "mary": {
    "channelId": "792acf9ca28b42918710327e14b06b68",
    "videos": [
+    {"no":16284623,"title":"바보협회에 들어갈 인재인가? [전국 일반상식 체크 + 예비군 + 스텔 마크]","type":"REPLAY","cat":"마인크래프트","pub":1795199301050,"open":null,"dur":35929},
     {"no":16251115,"title":"언더테일 불살루트!!","type":"REPLAY","cat":"talk","pub":1795025668266,"open":null,"dur":33516},
     {"no":16233273,"title":"히히히 [버튜버로 살아가기 + 스텔 마크]","type":"REPLAY","cat":"마인크래프트","pub":1794933403081,"open":null,"dur":30537},
     {"no":16201297,"title":"스텔 마키키!!","type":"REPLAY","cat":"마인크래프트","pub":1794758219597,"open":null,"dur":19660},
