@@ -1,9 +1,11 @@
 {
- "updatedAt": 1795244743857,
+ "updatedAt": 1795288484055,
  "members": {
   "gangzi": {
    "channelId": "b5ed5db484d04faf4d150aedd362f34b",
    "videos": [
+    {"no":16290498,"title":"( ܸ ⩌⩊⩌ ܸ )","type":"REPLAY","cat":"리그 오브 레전드","pub":1795246478370,"open":null,"dur":342},
+    {"no":16290379,"title":"( ܸ ⩌⩊⩌ ܸ )","type":"REPLAY","cat":"리그 오브 레전드","pub":1795245908011,"open":null,"dur":4324},
     {"no":16268935,"title":"( ܸ ⩌⩊⩌ ܸ )","type":"REPLAY","cat":"talk","pub":1795114224958,"open":null,"dur":39},
     {"no":16219081,"title":"( ܸ ⩌⩊⩌ ܸ )","type":"REPLAY","cat":"종합 게임","pub":1795012545021,"open":null,"dur":33044},
     {"no":16169727,"title":"( ܸ ⩌⩊⩌ ܸ )","type":"REPLAY","cat":"리그 오브 레전드","pub":1794593390145,"open":null,"dur":31285},
@@ -762,6 +764,7 @@
   "yuni": {
    "channelId": "45e71a76e949e16a34764deb962f9d9f",
    "videos": [
+    {"no":16296074,"title":"게임 추천 보는날","type":"REPLAY","cat":"talk","pub":1795269694020,"open":null,"dur":19096},
     {"no":16284955,"title":"쇼트케이크 만들기","type":"REPLAY","cat":"마인크래프트","pub":1795198937459,"open":null,"dur":28153},
     {"no":16256865,"title":"안녕하세요","type":"REPLAY","cat":"talk","pub":1795075687030,"open":null,"dur":521},
     {"no":16216478,"title":"봉누도에 부산갈매기 합방 드디어","type":"REPLAY","cat":"talk","pub":1794844306020,"open":null,"dur":20623},
@@ -1439,6 +1442,7 @@
   "huya": {
    "channelId": "36ddb9bb4f17593b60f1b63cec86611d",
    "videos": [
+    {"no":16290821,"title":"아주르 프로밀리아 프리뷰 공방 같이보기!","type":"REPLAY","cat":"talk","pub":1795248107900,"open":null,"dur":6008},
     {"no":16258414,"title":"GTA6 다운로드 하면서 노는 중","type":"REPLAY","cat":"talk","pub":1795083637830,"open":null,"dur":8345},
     {"no":16247661,"title":"나는 섭장이 될 거야~ (소규모만.)","type":"REPLAY","cat":"talk","pub":1795016033079,"open":null,"dur":29888},
     {"no":16184753,"title":"모두의 농작물을 가져가는 나","type":"REPLAY","cat":"talk","pub":1794674164162,"open":null,"dur":29819},
@@ -1756,6 +1760,7 @@
   "hina": {
    "channelId": "b044e3a3b9259246bc92e863e7d3f3b8",
    "videos": [
+    {"no":16299769,"title":"명 천 재 의 4장 5막 스토리 밀기","type":"REPLAY","cat":"talk","pub":1795278993821,"open":null,"dur":28866},
     {"no":16282351,"title":"스텔라이브 소속 2기생 유니버스 시라유키 히나 님","type":"REPLAY","cat":"talk","pub":1795191683491,"open":null,"dur":22507},
     {"no":16260506,"title":"보구미","type":"REPLAY","cat":"talk","pub":1795092348784,"open":null,"dur":2594},
     {"no":16251477,"title":"히윤모의 군필여고생 라이프","type":"REPLAY","cat":"talk","pub":1795026048507,"open":null,"dur":22090},
@@ -2561,6 +2566,7 @@
   "mashiro": {
    "channelId": "4515b179f86b67b4981e16190817c580",
    "videos": [
+    {"no":16297712,"title":"도박장 오픈했다고요","type":"REPLAY","cat":"마인크래프트","pub":1795273969939,"open":null,"dur":27725},
     {"no":16281309,"title":"뇨래ㄴㅏㅇ","type":"REPLAY","cat":"음악/노래","pub":1795189379885,"open":null,"dur":27888},
     {"no":16266602,"title":"우잉 짱춤내ㅐ","type":"REPLAY","cat":"발로란트","pub":1795106007126,"open":null,"dur":9470},
     {"no":16261970,"title":"우잉 짱춤내ㅐ","type":"REPLAY","cat":"talk","pub":1795096720423,"open":null,"dur":21010},
@@ -3344,6 +3350,7 @@
   "lize": {
    "channelId": "4325b1d5bbc321fad3042306646e2e50",
    "videos": [
+    {"no":16300803,"title":"서폿 필요한팀 연락주세요. 돈없으면 리제써야지","type":"REPLAY","cat":"talk","pub":1795281849549,"open":null,"dur":23396},
     {"no":16282048,"title":"참고로 난 고수임.","type":"REPLAY","cat":"마인크래프트","pub":1795190983034,"open":null,"dur":19527},
     {"no":16268051,"title":"참고로 난 건축 고수임. 마끼끼","type":"REPLAY","cat":"마인크래프트","pub":1795110598855,"open":null,"dur":19883},
     {"no":16249309,"title":"재미섯당","type":"REPLAY","cat":"talk","pub":1795019212947,"open":null,"dur":25710},
@@ -4060,6 +4067,8 @@
   "tabi": {
    "channelId": "a6c4ddb09cdb160478996007bff35296",
    "videos": [
+    {"no":16299231,"title":"찌로의 마끼 도박장","type":"REPLAY","cat":"마인크래프트","pub":1795277231141,"open":null,"dur":12072},
+    {"no":16299238,"title":"찌로의 마끼 도박장","type":"REPLAY","cat":"마인크래프트","pub":1795277140294,"open":null,"dur":15},
     {"no":16281739,"title":"명조 : 워더링 웨이브 3.8 레쭈고","type":"REPLAY","cat":"명조:워더링 웨이브","pub":1795190346686,"open":null,"dur":31955},
     {"no":16247301,"title":"오누룬요 스떼루 굶지마이이이이잇 (W.후이야이야, 맛찌로, 찐찌부키, 얌뱃쭈)","type":"REPLAY","cat":"돈 스타브 투게더","pub":1795014995399,"open":null,"dur":31230},
     {"no":16233098,"title":"진짜 건축해야해여","type":"REPLAY","cat":"마인크래프트","pub":1794932796084,"open":null,"dur":35142},
@@ -5516,6 +5525,7 @@
   "rin": {
    "channelId": "516937b5f85cbf2249ce31b0ad046b0f",
    "videos": [
+    {"no":16298680,"title":"업데이트를 해","type":"REPLAY","cat":"마인크래프트","pub":1795275981983,"open":null,"dur":17461},
     {"no":16282815,"title":"사장님이랑 드라이브","type":"REPLAY","cat":"노마드 드라이브","pub":1795192772966,"open":null,"dur":18509},
     {"no":16266814,"title":"다들 마쉿는거 먹고 힘내기~","type":"REPLAY","cat":"포테이토 플리즈","pub":1795106652457,"open":null,"dur":16864},
     {"no":16216555,"title":"어쩔 수 없네...오늘은 정말 켜야겠군....","type":"REPLAY","cat":"마인크래프트","pub":1794844475908,"open":null,"dur":17267},
@@ -7389,6 +7399,7 @@
   "toa": {
    "channelId": "2299fad4bebb504b0978e1ec08b2f7d3",
    "videos": [
+    {"no":16302096,"title":"k pop 걸그룹 월드컵 + 스텔마꾸끄","type":"REPLAY","cat":"마인크래프트","pub":1795287146881,"open":null,"dur":40257},
     {"no":16267741,"title":"수능 문제 풀이 + 트롤리 딜레마 + 돼지 + 롤","type":"REPLAY","cat":"talk","pub":1795109769759,"open":null,"dur":32497},
     {"no":16246712,"title":"오느른 무얼 할꺼냐면 !!!!","type":"REPLAY","cat":"미사이드","pub":1795019638796,"open":null,"dur":25042},
     {"no":16234843,"title":"집합.","type":"REPLAY","cat":"마인크래프트","pub":1794944836805,"open":null,"dur":39521},
@@ -7419,6 +7430,7 @@
   "rang": {
    "channelId": "c657aa3592260a2b59669a72ec151936",
    "videos": [
+    {"no":16302415,"title":"호랑나비 산나비","type":"REPLAY","cat":"산나비","pub":1795288344823,"open":null,"dur":49846},
     {"no":16268372,"title":"네모네모 호랑이^ㅁ^","type":"REPLAY","cat":"마인크래프트","pub":1795113398740,"open":null,"dur":12149},
     {"no":16233615,"title":"건실한 호랭이","type":"REPLAY","cat":"마인크래프트","pub":1794934747545,"open":null,"dur":33101},
     {"no":16209174,"title":"랑이와찌","type":"REPLAY","cat":"talk","pub":1794824216308,"open":null,"dur":6536},
@@ -7494,6 +7506,7 @@
   "mary": {
    "channelId": "792acf9ca28b42918710327e14b06b68",
    "videos": [
+    {"no":16295563,"title":"인 생 은 도 박! 메 리 키 타!","type":"REPLAY","cat":"talk","pub":1795270190337,"open":null,"dur":23568},
     {"no":16284623,"title":"바보협회에 들어갈 인재인가? [전국 일반상식 체크 + 예비군 + 스텔 마크]","type":"REPLAY","cat":"마인크래프트","pub":1795199301050,"open":null,"dur":35928},
     {"no":16251115,"title":"언더테일 불살루트!!","type":"REPLAY","cat":"talk","pub":1795025668266,"open":null,"dur":33516},
     {"no":16233273,"title":"히히히 [버튜버로 살아가기 + 스텔 마크]","type":"REPLAY","cat":"마인크래프트","pub":1794933403081,"open":null,"dur":30537},

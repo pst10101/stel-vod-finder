@@ -1,8 +1,9 @@
 {
- "updatedAt": 1795244751764,
+ "updatedAt": 1795288492021,
  "channels": {
   "UC2Ki6__sICXPyHPCyFxIgbw": {
    "videos": [
+    {"id":"daMstNFQrbM","ch":"UC2Ki6__sICXPyHPCyFxIgbw","m":"gangzi","title":"2026년 11월 10일 | 버팔로가 원래 나나요? ( 스텔서버 )","pub":1795254768000,"liveStart":null,"liveEnd":null,"dur":25705,"titleDate":"2026-11-10","chapters":[]},
     {"id":"jTpEmmo26jg","ch":"UC2Ki6__sICXPyHPCyFxIgbw","m":"gangzi","title":"2026년 11월 8일 | 나만 믿어요 요리씨! ( 스텔마크 )","pub":1795165235000,"liveStart":null,"liveEnd":null,"dur":22306,"titleDate":"2026-11-08","chapters":[]},
     {"id":"KQHk3dLc2v4","ch":"UC2Ki6__sICXPyHPCyFxIgbw","m":"gangzi","title":"2026년 11월 7일 | 인사해 얘들아 ( 스텔마크 )","pub":1794992421000,"liveStart":null,"liveEnd":null,"dur":30339,"titleDate":"2026-11-07","chapters":[]},
     {"id":"_q9Vhij3dgU","ch":"UC2Ki6__sICXPyHPCyFxIgbw","m":"gangzi","title":"2026년 11월 6일 | 노래 하지 않으면 못 나가는 방이에요 ( 스텔마크 )","pub":1794906029000,"liveStart":null,"liveEnd":null,"dur":29122,"titleDate":"2026-11-06","chapters":[]},
@@ -1545,6 +1546,8 @@
   },
   "@Yunireplay": {
    "videos": [
+    {"id":"_Ogir3aVoZg","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"카페탐방 + 스텔 마크 [2026.11.20]","pub":1795254001000,"liveStart":null,"liveEnd":null,"dur":28157,"titleDate":"2026-11-20","chapters":[]},
+    {"id":"HJ6kg24RHuo","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"Tree hate you + 수능 일본어 문제 풀기 + 스텔 마크 [2026.11.19]","pub":1795253729000,"liveStart":null,"liveEnd":null,"dur":33461,"titleDate":"2026-11-19","chapters":[]},
     {"id":"HjTf8h0YR6A","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"부산갈매기 합방 [2026.11.16]","pub":1795132805000,"liveStart":null,"liveEnd":null,"dur":20626,"titleDate":"2026-11-16","chapters":[]},
     {"id":"kl5xCJ_0eM8","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"바람난 남편 잡기 + 예비군 + 스텔 마크 [2026.11.15]","pub":1794960910000,"liveStart":null,"liveEnd":null,"dur":26369,"titleDate":"2026-11-15","chapters":[]},
     {"id":"umcRQ4hENPQ","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"죵쬐컵 롤 대회 2일차 [2026.11.14]","pub":1794960620000,"liveStart":null,"liveEnd":null,"dur":35639,"titleDate":"2026-11-14","chapters":[]},
@@ -6528,6 +6531,7 @@
   },
   "@rinreplay": {
    "videos": [
+    {"id":"i9N_2GX4_C8","ch":"UCmw0eKk5uOv029SScRRRfqw","m":"rin","title":"[ 2026/11/20 | 노매드 드라이브 ] - 린 다시보기","pub":1795268976000,"liveStart":null,"liveEnd":null,"dur":18513,"titleDate":"2026-11-20","chapters":[]},
     {"id":"GZadOUvaTtU","ch":"UCmw0eKk5uOv029SScRRRfqw","m":"rin","title":"[ 2026/11/19 | 카페탐방 + 포테이토 플리즈 ] - 린 다시보기","pub":1795132824000,"liveStart":null,"liveEnd":null,"dur":16560,"titleDate":"2026-11-19","chapters":[]},
     {"id":"r1FxwNIlikw","ch":"UCmw0eKk5uOv029SScRRRfqw","m":"rin","title":"[ 2026/11/16 | 카페탐방 + 스텔마크 ] - 린 다시보기","pub":1794880833000,"liveStart":null,"liveEnd":null,"dur":16618,"titleDate":"2026-11-16","chapters":[]},
     {"id":"Z_3URtKO5wA","ch":"UCmw0eKk5uOv029SScRRRfqw","m":"rin","title":"[ 2026/11/15 | 스텔마크 ] - 린 다시보기","pub":1794819441000,"liveStart":null,"liveEnd":null,"dur":20820,"titleDate":"2026-11-15","chapters":[]},
@@ -7750,6 +7754,8 @@
   },
   "@rikoreplay": {
    "videos": [
+    {"id":"pNUfD_5euIg","ch":"UCVZcw2SMyL6h5CfKSCs42_A","m":"riko","title":"비방의 용사는 다르다 [비방 발로란트 내전 (w. 강지, 이춘향, 크포, 카나데, 협준, 선데이, 자몽뀨, 김돌돌, 마뫄)] [2026.11.19]","pub":1795263994000,"liveStart":null,"liveEnd":null,"dur":5758,"titleDate":"2026-11-19","chapters":[[0,"비방 용사 등장!"],[27,"발로란트 내전 (w. 강지, 이춘향, 크포, 카나데, 협준, 선데이, 자몽뀨, 김돌돌, 마뫄)"],[5716,"녹화 마무리"]]},
+    {"id":"D-2artI2psQ","ch":"UCVZcw2SMyL6h5CfKSCs42_A","m":"riko","title":"오늘부터 정실은 양동이입니다 [더 스탠리 패러블/리그 오브 레전드] [2026.11.19]","pub":1795260639000,"liveStart":null,"liveEnd":null,"dur":26790,"titleDate":"2026-11-19","chapters":[[0,"용사 등장!"],[3790,"더 스탠리 패러블"],[20847,"리그 오브 레전드"],[26523,"토크"]]},
     {"id":"SC4GBDLoISc","ch":"UCVZcw2SMyL6h5CfKSCs42_A","m":"riko","title":"뭐든지 다 먹는 게임 [굶지마 투게더 (w. 후야, 시로, 타비, 부키)][2026.11.18]","pub":1795092713000,"liveStart":null,"liveEnd":null,"dur":30840,"titleDate":"2026-11-18","chapters":[[0,"용사 등장!"],[1727,"Don't Starve Together (w. 후야, 시로, 타비, 부키)"],[27438,"토크"]]},
     {"id":"V-ocZzeaAaM","ch":"UCVZcw2SMyL6h5CfKSCs42_A","m":"riko","title":"오랜만에 엄마 아빠 앞에서 재롱잔치 [발로란트 (w. 강지, 이춘향, 김블루, 후추)] [2026.11.16]","pub":1794957831000,"liveStart":null,"liveEnd":null,"dur":16186,"titleDate":"2026-11-16","chapters":[[0,"용사 등장!"],[1073,"발로란트 (w. 강지, 이춘향, 김블루, 후추)"],[15088,"토크"]]},
     {"id":"ZWDNK859JVM","ch":"UCVZcw2SMyL6h5CfKSCs42_A","m":"riko","title":"사장님 생일이라 감자 깎는 거 맞아요 [Potato Please / 스텔 마크서버] [2026.11.15]","pub":1794872133000,"liveStart":null,"liveEnd":null,"dur":33889,"titleDate":"2026-11-15","chapters":[[0,"용사 등장!"],[3822,"Potato Please"],[21808,"스텔라이브 마인크래프트 서버"],[33250,"토크"]]},
