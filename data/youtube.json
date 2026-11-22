@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795288492021,
+ "updatedAt": 1795305729712,
  "channels": {
   "UC2Ki6__sICXPyHPCyFxIgbw": {
    "videos": [
@@ -2394,8 +2394,7 @@
     {"id":"nap9AGKS3rI","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"스텔라이브 소속 2기생 유니버스 시라유키 히나 님의 포켓몬 레조넌스 [26. 11.20]","pub":1795230917000,"liveStart":null,"liveEnd":null,"dur":22191,"titleDate":"2026-11-20","chapters":[]},
     {"id":"D5JhTi6OGyc","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"보구미 [26. 11.19]","pub":1795142737000,"liveStart":null,"liveEnd":null,"dur":2598,"titleDate":"2026-11-19","chapters":[]},
     {"id":"AfbHJnzWPJc","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"히윤모의 군필여고생 라이프 [26. 11.18]","pub":1795095551000,"liveStart":null,"liveEnd":null,"dur":21761,"titleDate":"2026-11-18","chapters":[]},
-    {"id":"bxMJoUSjCqs","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"하이용 [26. 11.17]","pub":1795092493000,"liveStart":null,"liveEnd":null,"dur":19443,"titleDate":"2026-11-17","chapters":[]},
-    {"id":"mE0htiqa5jU","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"하이용 [26. 11.17]","pub":1795025713000,"liveStart":null,"liveEnd":null,"dur":19733,"titleDate":"2026-11-17","chapters":[]},
+    {"id":"bxMJoUSjCqs","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"하이용 [26. 11.17]","pub":1795092493000,"liveStart":null,"liveEnd":null,"dur":19396,"titleDate":"2026-11-17","chapters":[]},
     {"id":"geoNAc2_n40","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"나는 범인이다. [26 11.12]","pub":1794538070000,"liveStart":null,"liveEnd":null,"dur":30414,"titleDate":null,"chapters":[]},
     {"id":"MMGL4Qh4JPc","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"빼빼로데이에 마크 염탐하기 [26. 11.11]","pub":1794478604000,"liveStart":null,"liveEnd":null,"dur":17909,"titleDate":"2026-11-11","chapters":[]},
     {"id":"PTr8-7gwP2A","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"나여 [26. 11.10]","pub":1794369635000,"liveStart":null,"liveEnd":null,"dur":23279,"titleDate":"2026-11-10","chapters":[]},
@@ -7122,6 +7121,7 @@
   },
   "@nana_replay": {
    "videos": [
+    {"id":"3EpqSEk5Pnw","ch":"UCmmzr9DL0_t5ui1TAZjv-nA","m":"nana","title":"[ 2026/11/21 ] 아니까 마냥 감동할 수가 없네 즈엔자앙 ㄱ- [용과 같이 0 #4 (완)] | 나나 다시보기","pub":1795294819000,"liveStart":null,"liveEnd":null,"dur":30648,"titleDate":"2026-11-21","chapters":[]},
     {"id":"lZSYRU_8T0I","ch":"UCmmzr9DL0_t5ui1TAZjv-nA","m":"nana","title":"[ 2026/11/20 ] 마지마 : 우뿌ㄹㄹㄹ리리릐리ㅣㅣㅣ하~!!! [용과 같이 0 #3] | 나나 다시보기","pub":1795192279000,"liveStart":null,"liveEnd":null,"dur":27121,"titleDate":"2026-11-20","chapters":[]},
     {"id":"4ZpOKQ_WsJg","ch":"UCmmzr9DL0_t5ui1TAZjv-nA","m":"nana","title":"[ 2026/11/17 ] 대체 이 밤티 화장은 뭐란말이냐 버블시대여 [용과 같이 0 #2] | 나나 다시보기","pub":1794963614000,"liveStart":null,"liveEnd":null,"dur":35063,"titleDate":"2026-11-17","chapters":[]},
     {"id":"GXqcGc6vL1A","ch":"UCmmzr9DL0_t5ui1TAZjv-nA","m":"nana","title":"[ 2026/11/16 ] 키류와 마지마의 과거사... [용과 같이 0 #01 ] | 나나 다시보기","pub":1794873606000,"liveStart":null,"liveEnd":null,"dur":28075,"titleDate":"2026-11-16","chapters":[]},
@@ -7759,7 +7759,7 @@
     {"id":"SC4GBDLoISc","ch":"UCVZcw2SMyL6h5CfKSCs42_A","m":"riko","title":"뭐든지 다 먹는 게임 [굶지마 투게더 (w. 후야, 시로, 타비, 부키)][2026.11.18]","pub":1795092713000,"liveStart":null,"liveEnd":null,"dur":30840,"titleDate":"2026-11-18","chapters":[[0,"용사 등장!"],[1727,"Don't Starve Together (w. 후야, 시로, 타비, 부키)"],[27438,"토크"]]},
     {"id":"V-ocZzeaAaM","ch":"UCVZcw2SMyL6h5CfKSCs42_A","m":"riko","title":"오랜만에 엄마 아빠 앞에서 재롱잔치 [발로란트 (w. 강지, 이춘향, 김블루, 후추)] [2026.11.16]","pub":1794957831000,"liveStart":null,"liveEnd":null,"dur":16186,"titleDate":"2026-11-16","chapters":[[0,"용사 등장!"],[1073,"발로란트 (w. 강지, 이춘향, 김블루, 후추)"],[15088,"토크"]]},
     {"id":"ZWDNK859JVM","ch":"UCVZcw2SMyL6h5CfKSCs42_A","m":"riko","title":"사장님 생일이라 감자 깎는 거 맞아요 [Potato Please / 스텔 마크서버] [2026.11.15]","pub":1794872133000,"liveStart":null,"liveEnd":null,"dur":33889,"titleDate":"2026-11-15","chapters":[[0,"용사 등장!"],[3822,"Potato Please"],[21808,"스텔라이브 마인크래프트 서버"],[33250,"토크"]]},
-    {"id":"0794PxFAanU","ch":"UCVZcw2SMyL6h5CfKSCs42_A","m":"riko","title":"저.. 아줌마지만 아이돌 할겁니다 [김밥천국 시뮬레이터] [2026.11.13]","pub":1794640534000,"liveStart":null,"liveEnd":null,"dur":21747,"titleDate":"2026-11-13","chapters":[[0,"용사 등장!"],[3184,"카페 탐방"],[10567,"김밥천국 시뮬레이터"],[20910,"토크"]]},
+    {"id":"0794PxFAanU","ch":"UCVZcw2SMyL6h5CfKSCs42_A","m":"riko","title":"저.. 아줌마지만 아이돌 할겁니다 [김밥천국 시뮬레이터] [2026.11.13]","pub":1794640534000,"liveStart":null,"liveEnd":null,"dur":21584,"titleDate":"2026-11-13","chapters":[[0,"용사 등장!"],[3184,"카페 탐방"],[10567,"김밥천국 시뮬레이터"],[20910,"토크"]]},
     {"id":"H0-gIzngZgI","ch":"UCVZcw2SMyL6h5CfKSCs42_A","m":"riko","title":"용사가 마을에 늑대를 풀었다! [스텔 마크서버] [2026.11.11]","pub":1794490506000,"liveStart":null,"liveEnd":null,"dur":30871,"titleDate":"2026-11-11","chapters":[[0,"용사 등장!"],[2777,"스텔라이브 마인크래프트 서버"],[30234,"토크"]]},
     {"id":"lgMiE6PpTi4","ch":"UCVZcw2SMyL6h5CfKSCs42_A","m":"riko","title":"오 트리가 마싯어요 분위기가 착해요 [스텔 마크 서버] [2026.11.10]","pub":1794398575000,"liveStart":null,"liveEnd":null,"dur":20872,"titleDate":"2026-11-10","chapters":[[0,"용사 등장!"],[1205,"스텔라이브 마인크래프트 서버"],[20598,"토크"]]},
     {"id":"B3tJ36efXu4","ch":"UCVZcw2SMyL6h5CfKSCs42_A","m":"riko","title":"처음 보는 타입의 유령에게 당해버렸어요 [스텔마크 서버 / Finals Week / 증강 윷놀이 (w. 타비, 티뭉, 장마군)]  [2026.11.08]","pub":1794377947000,"liveStart":null,"liveEnd":null,"dur":36169,"titleDate":"2026-11-08","chapters":[[0,"용사 등장!"],[2950,"스텔라이브 마인크래프트 서버 1부"],[6811,"Finals Week (w. 타비, 티뭉, 장마군)"],[15373,"증강 윷놀이 (w. 타비, 티뭉, 장마군)"],[19687,"스텔라이브 마인크래프트 서버 2부"],[35706,"토크"]]},
@@ -8443,8 +8443,8 @@
     {"id":"uDwuCpWKmYY","ch":"UCc1rcuA00rW1S-SMOWgjl8Q","m":"rang","title":"[2026.10.26] 제갈랑의 레이튼과 이상한마을 완 - 랑 다시보기","pub":1795073340000,"liveStart":null,"liveEnd":null,"dur":36025,"titleDate":"2026-10-26","chapters":[]},
     {"id":"7FC_hqcjXiY","ch":"UCc1rcuA00rW1S-SMOWgjl8Q","m":"rang","title":"[2026.10.25] 제갈랑의 레이튼과 이상한마을 1일차 - 랑 다시보기","pub":1795073271000,"liveStart":null,"liveEnd":null,"dur":28802,"titleDate":"2026-10-25","chapters":[]},
     {"id":"lyLQ8KkjW-Y","ch":"UCc1rcuA00rW1S-SMOWgjl8Q","m":"rang","title":"[2026.10.23] 패들패들패들, 후즈유어대디 w.메리 , 맞춤법용사 - 랑 다시보기","pub":1794471725000,"liveStart":null,"liveEnd":null,"dur":34270,"titleDate":"2026-10-23","chapters":[]},
-    {"id":"YPO9ezTDvsU","ch":"UCc1rcuA00rW1S-SMOWgjl8Q","m":"rang","title":"[2026.10.21] 시시포스 2부 - 랑 다시보기","pub":1794386591000,"liveStart":null,"liveEnd":null,"dur":34268,"titleDate":"2026-10-21","chapters":[]},
-    {"id":"_OZJq1RgQiU","ch":"UCc1rcuA00rW1S-SMOWgjl8Q","m":"rang","title":"[2026.10.21] 시시포스 1부 - 랑 다시보기","pub":1794386464000,"liveStart":null,"liveEnd":null,"dur":42132,"titleDate":"2026-10-21","chapters":[]},
+    {"id":"YPO9ezTDvsU","ch":"UCc1rcuA00rW1S-SMOWgjl8Q","m":"rang","title":"[2026.10.21] 시시포스 켠왕 2부 이어서 - 랑 다시보기","pub":1794386591000,"liveStart":null,"liveEnd":null,"dur":34268,"titleDate":"2026-10-21","chapters":[]},
+    {"id":"_OZJq1RgQiU","ch":"UCc1rcuA00rW1S-SMOWgjl8Q","m":"rang","title":"[2026.10.21] 시시포스 켠왕 1부 - 랑 다시보기","pub":1794386464000,"liveStart":null,"liveEnd":null,"dur":42132,"titleDate":"2026-10-21","chapters":[]},
     {"id":"73x2XH5AODE","ch":"UCc1rcuA00rW1S-SMOWgjl8Q","m":"rang","title":"[2026.10.20] 60세컨즈! - 랑 다시보기","pub":1793788692000,"liveStart":null,"liveEnd":null,"dur":25758,"titleDate":"2026-10-20","chapters":[]},
     {"id":"p4b_T_bITJM","ch":"UCc1rcuA00rW1S-SMOWgjl8Q","m":"rang","title":"[2026.10.19] 파피 플레이 타임 1, 2 - 랑 다시보기","pub":1793788379000,"liveStart":null,"liveEnd":null,"dur":21853,"titleDate":"2026-10-19","chapters":[]},
     {"id":"KdMlV6hMLzQ","ch":"UCc1rcuA00rW1S-SMOWgjl8Q","m":"rang","title":"[26.10.17] 스텔라이브 4기생 어비스 코가네 랑 이 왔 지 ! 어흥","pub":1792657414000,"liveStart":null,"liveEnd":null,"dur":3541,"titleDate":"2026-10-17","chapters":[]}
@@ -8463,7 +8463,7 @@
     {"id":"VEQFehv7yqc","ch":"UCLqOqHMtSF4qV30nm2fQdYw","m":"hiyori","title":"심연의 감옥 탈출기🤦‍♀️히요리×토아【어 웨이 아웃(A Way Out)】[2026.10.24.]","pub":1794624940000,"liveStart":null,"liveEnd":null,"dur":28825,"titleDate":"2026-10-24","chapters":[]},
     {"id":"OOhNv2bhKU8","ch":"UCLqOqHMtSF4qV30nm2fQdYw","m":"hiyori","title":"와 샌즈!💀 히요리의 첫 언더테일!【언더테일 Ep.1】[2026.10.23.]","pub":1794569204000,"liveStart":null,"liveEnd":null,"dur":26230,"titleDate":"2026-10-23","chapters":[]},
     {"id":"Hu688CEbpYc","ch":"UCLqOqHMtSF4qV30nm2fQdYw","m":"hiyori","title":"배고픈 예술가 히요리, 그리고 호날두【파스파투+나는 아르바이트생이다!!+Fork Road+프레디의 피자가게】[2026.10.22.]","pub":1794374404000,"liveStart":null,"liveEnd":null,"dur":27219,"titleDate":"2026-10-22","chapters":[]},
-    {"id":"LwxQNTSojZA","ch":"UCLqOqHMtSF4qV30nm2fQdYw","m":"hiyori","title":"어쨌든 눈물을 흘린 날🐶【마이리틀퍼피, 여동생 운전 가르치기+더 라멘 샵(공포게임)】[2026.10.20.]","pub":1794136629000,"liveStart":null,"liveEnd":null,"dur":38736,"titleDate":"2026-10-20","chapters":[]},
+    {"id":"LwxQNTSojZA","ch":"UCLqOqHMtSF4qV30nm2fQdYw","m":"hiyori","title":"어쨌든 눈물을 흘린 날🐶【마이리틀퍼피, 여동생 운전 가르치기+더 라멘 샵(공포게임)】[2026.10.20.]","pub":1794136629000,"liveStart":null,"liveEnd":null,"dur":37627,"titleDate":"2026-10-20","chapters":[]},
     {"id":"AjD8y3csvdo","ch":"UCLqOqHMtSF4qV30nm2fQdYw","m":"hiyori","title":"느려도🐌괜찮아👌덴탈클리닉🦷도그쌀롱🐶또까꾸요🤡【화이트데이+8번출구】[2026.10.19.]","pub":1793971185000,"liveStart":null,"liveEnd":null,"dur":26264,"titleDate":"2026-10-19","chapters":[]},
     {"id":"FFXkRx00lYc","ch":"UCLqOqHMtSF4qV30nm2fQdYw","m":"hiyori","title":"스텔라이브 4기생 어비스 첫 단체 합방! 🏫 [2026.10.18.]","pub":1793694332000,"liveStart":null,"liveEnd":null,"dur":4629,"titleDate":"2026-10-18","chapters":[]},
     {"id":"pgtWDRpR7b4","ch":"UCLqOqHMtSF4qV30nm2fQdYw","m":"hiyori","title":"[2026.10.18.] 스텔라이브 4기 어비스 히요리 데뷔! 제가 보이시나요..?","pub":1792657556000,"liveStart":null,"liveEnd":null,"dur":3553,"titleDate":"2026-10-18","chapters":[]}
