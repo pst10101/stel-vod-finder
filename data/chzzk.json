@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795305661336,
+ "updatedAt": 1795330020979,
  "members": {
   "gangzi": {
    "channelId": "b5ed5db484d04faf4d150aedd362f34b",
@@ -1760,6 +1760,7 @@
   "hina": {
    "channelId": "b044e3a3b9259246bc92e863e7d3f3b8",
    "videos": [
+    {"no":16306285,"title":"나여 정히나","type":"REPLAY","cat":"talk","pub":1795327135961,"open":null,"dur":8029},
     {"no":16299769,"title":"명 천 재 의 4장 5막 스토리 밀기","type":"REPLAY","cat":"talk","pub":1795278993821,"open":null,"dur":28866},
     {"no":16282351,"title":"스텔라이브 소속 2기생 유니버스 시라유키 히나 님","type":"REPLAY","cat":"talk","pub":1795191683491,"open":null,"dur":22507},
     {"no":16260506,"title":"보구미","type":"REPLAY","cat":"talk","pub":1795092348784,"open":null,"dur":2594},
@@ -7399,7 +7400,7 @@
   "toa": {
    "channelId": "2299fad4bebb504b0978e1ec08b2f7d3",
    "videos": [
-    {"no":16302096,"title":"k pop 걸그룹 월드컵 + 스텔마꾸끄","type":"REPLAY","cat":"마인크래프트","pub":1795287146881,"open":null,"dur":40257},
+    {"no":16302096,"title":"k pop 걸그룹 월드컵 + 스텔마꾸끄","type":"REPLAY","cat":"마인크래프트","pub":1795287146881,"open":null,"dur":40255},
     {"no":16267741,"title":"수능 문제 풀이 + 트롤리 딜레마 + 돼지 + 롤","type":"REPLAY","cat":"talk","pub":1795109769759,"open":null,"dur":32497},
     {"no":16246712,"title":"오느른 무얼 할꺼냐면 !!!!","type":"REPLAY","cat":"미사이드","pub":1795019638796,"open":null,"dur":25042},
     {"no":16234843,"title":"집합.","type":"REPLAY","cat":"마인크래프트","pub":1794944836805,"open":null,"dur":39521},
@@ -7430,7 +7431,7 @@
   "rang": {
    "channelId": "c657aa3592260a2b59669a72ec151936",
    "videos": [
-    {"no":16302415,"title":"호랑나비 산나비","type":"REPLAY","cat":"산나비","pub":1795288344823,"open":null,"dur":49846},
+    {"no":16302415,"title":"호랑나비 산나비","type":"REPLAY","cat":"산나비","pub":1795288344823,"open":null,"dur":49844},
     {"no":16268372,"title":"네모네모 호랑이^ㅁ^","type":"REPLAY","cat":"마인크래프트","pub":1795113398740,"open":null,"dur":12149},
     {"no":16233615,"title":"건실한 호랭이","type":"REPLAY","cat":"마인크래프트","pub":1794934747545,"open":null,"dur":33101},
     {"no":16209174,"title":"랑이와찌","type":"REPLAY","cat":"talk","pub":1794824216308,"open":null,"dur":6536},
@@ -7465,6 +7466,7 @@
   "hiyori": {
    "channelId": "49d2c3cf8f0b2843d934ec15e82bb54c",
    "videos": [
+    {"no":16304691,"title":"애니 노래 OST 월드컵 까자!!!!!!","type":"REPLAY","cat":"talk","pub":1795310965866,"open":null,"dur":47684},
     {"no":16286376,"title":"금요일..생방하나요?!","type":"REPLAY","cat":"흉우","pub":1795205473796,"open":null,"dur":19988},
     {"no":16270536,"title":"점프킹 켠왕.... 돌격!!","type":"REPLAY","cat":"점프 킹","pub":1795132480709,"open":null,"dur":42043},
     {"no":16236602,"title":"안녕하십니까!!!","type":"REPLAY","cat":"마인크래프트","pub":1794950729466,"open":null,"dur":33350},
