@@ -1,10 +1,10 @@
 {
- "updatedAt": 1795376317089,
+ "updatedAt": 1795419412313,
  "members": {
   "gangzi": {
    "channelId": "b5ed5db484d04faf4d150aedd362f34b",
    "videos": [
-    {"no":16316823,"title":"( ܸ ⩌⩊⩌ ܸ )","type":"REPLAY","cat":"종합 게임","pub":1795364581805,"open":null,"dur":19636},
+    {"no":16316823,"title":"( ܸ ⩌⩊⩌ ܸ )","type":"REPLAY","cat":"종합 게임","pub":1795364581805,"open":null,"dur":19635},
     {"no":16308410,"title":"2026 치지직컵 같이보자! ( ܸ ⩌⩊⩌ ܸ )","type":"REPLAY","cat":"리그 오브 레전드","pub":1795338459013,"open":null,"dur":6387},
     {"no":16290498,"title":"( ܸ ⩌⩊⩌ ܸ )","type":"REPLAY","cat":"리그 오브 레전드","pub":1795246478370,"open":null,"dur":342},
     {"no":16290379,"title":"( ܸ ⩌⩊⩌ ܸ )","type":"REPLAY","cat":"리그 오브 레전드","pub":1795245908011,"open":null,"dur":4324},
@@ -7406,6 +7406,7 @@
   "toa": {
    "channelId": "2299fad4bebb504b0978e1ec08b2f7d3",
    "videos": [
+    {"no":16319072,"title":"오래 기다려찌","type":"REPLAY","cat":"마인크래프트","pub":1795411510246,"open":null,"dur":22796},
     {"no":16309796,"title":"🩷 1122 토아 생일파티래 부마야 🩷","type":"REPLAY","cat":"talk","pub":1795350200048,"open":null,"dur":6824},
     {"no":16302096,"title":"k pop 걸그룹 월드컵 + 스텔마꾸끄","type":"REPLAY","cat":"마인크래프트","pub":1795287146881,"open":null,"dur":40255},
     {"no":16267741,"title":"수능 문제 풀이 + 트롤리 딜레마 + 돼지 + 롤","type":"REPLAY","cat":"talk","pub":1795109769759,"open":null,"dur":32497},
@@ -7473,6 +7474,7 @@
   "hiyori": {
    "channelId": "49d2c3cf8f0b2843d934ec15e82bb54c",
    "videos": [
+    {"no":16321348,"title":"애니 노래 OST 월드컵 까자!!!!!! 『 완 』","type":"REPLAY","cat":"talk","pub":1795405092685,"open":null,"dur":47924},
     {"no":16304691,"title":"애니 노래 OST 월드컵 까자!!!!!!","type":"REPLAY","cat":"talk","pub":1795310965866,"open":null,"dur":47683},
     {"no":16286376,"title":"금요일..생방하나요?!","type":"REPLAY","cat":"흉우","pub":1795205473796,"open":null,"dur":19988},
     {"no":16270536,"title":"점프킹 켠왕.... 돌격!!","type":"REPLAY","cat":"점프 킹","pub":1795132480709,"open":null,"dur":42043},
