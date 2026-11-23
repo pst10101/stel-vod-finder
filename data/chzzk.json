@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795419412313,
+ "updatedAt": 1795477996779,
  "members": {
   "gangzi": {
    "channelId": "b5ed5db484d04faf4d150aedd362f34b",
@@ -766,6 +766,7 @@
   "yuni": {
    "channelId": "45e71a76e949e16a34764deb962f9d9f",
    "videos": [
+    {"no":16332934,"title":"캥이 증결 뽑아ㅏ아아아아아앙아ㅣㅇ","type":"REPLAY","cat":"talk","pub":1795454663694,"open":null,"dur":37779},
     {"no":16308070,"title":"섬견이 미쳐찌?","type":"REPLAY","cat":"talk","pub":1795337479973,"open":null,"dur":24070},
     {"no":16296074,"title":"게임 추천 보는날","type":"REPLAY","cat":"talk","pub":1795269694020,"open":null,"dur":19096},
     {"no":16284955,"title":"쇼트케이크 만들기","type":"REPLAY","cat":"마인크래프트","pub":1795198937459,"open":null,"dur":28153},
@@ -1445,6 +1446,7 @@
   "huya": {
    "channelId": "36ddb9bb4f17593b60f1b63cec86611d",
    "videos": [
+    {"no":16332113,"title":"슬롯 머신에 바쿠를 매달다.","type":"REPLAY","cat":"talk","pub":1795451901122,"open":null,"dur":25866},
     {"no":16308231,"title":"멍청한 나를 위한 자동사냥 + 가챠 + 자동진행 게임","type":"REPLAY","cat":"슬롯바운드","pub":1795337952799,"open":null,"dur":12365},
     {"no":16290821,"title":"아주르 프로밀리아 프리뷰 공방 같이보기!","type":"REPLAY","cat":"talk","pub":1795248107900,"open":null,"dur":6008},
     {"no":16258414,"title":"GTA6 다운로드 하면서 노는 중","type":"REPLAY","cat":"talk","pub":1795083637830,"open":null,"dur":8345},
@@ -1764,6 +1766,8 @@
   "hina": {
    "channelId": "b044e3a3b9259246bc92e863e7d3f3b8",
    "videos": [
+    {"no":16333730,"title":"역시 부수는 게 맞다니깐","type":"REPLAY","cat":"talk","pub":1795457702165,"open":null,"dur":28762},
+    {"no":16324370,"title":"역시 부수는 게 맞다니깐","type":"REPLAY","cat":"talk","pub":1795428451560,"open":null,"dur":576},
     {"no":16306285,"title":"나여 정히나","type":"REPLAY","cat":"talk","pub":1795327135961,"open":null,"dur":8029},
     {"no":16299769,"title":"명 천 재 의 4장 5막 스토리 밀기","type":"REPLAY","cat":"talk","pub":1795278993821,"open":null,"dur":28866},
     {"no":16282351,"title":"스텔라이브 소속 2기생 유니버스 시라유키 히나 님","type":"REPLAY","cat":"talk","pub":1795191683491,"open":null,"dur":22507},
@@ -2571,6 +2575,7 @@
   "mashiro": {
    "channelId": "4515b179f86b67b4981e16190817c580",
    "videos": [
+    {"no":16327656,"title":"호로로롤ㄹ","type":"REPLAY","cat":"talk","pub":1795441579114,"open":null,"dur":21501},
     {"no":16297712,"title":"도박장 오픈했다고요","type":"REPLAY","cat":"마인크래프트","pub":1795273969939,"open":null,"dur":27725},
     {"no":16281309,"title":"뇨래ㄴㅏㅇ","type":"REPLAY","cat":"음악/노래","pub":1795189379885,"open":null,"dur":27888},
     {"no":16266602,"title":"우잉 짱춤내ㅐ","type":"REPLAY","cat":"발로란트","pub":1795106007126,"open":null,"dur":9470},
@@ -4072,6 +4077,7 @@
   "tabi": {
    "channelId": "a6c4ddb09cdb160478996007bff35296",
    "videos": [
+    {"no":16333677,"title":"와우","type":"REPLAY","cat":"talk","pub":1795457429939,"open":null,"dur":38079},
     {"no":16299231,"title":"찌로의 마끼 도박장","type":"REPLAY","cat":"마인크래프트","pub":1795277231141,"open":null,"dur":12072},
     {"no":16299238,"title":"찌로의 마끼 도박장","type":"REPLAY","cat":"마인크래프트","pub":1795277140294,"open":null,"dur":15},
     {"no":16281739,"title":"명조 : 워더링 웨이브 3.8 레쭈고","type":"REPLAY","cat":"명조:워더링 웨이브","pub":1795190346686,"open":null,"dur":31955},
@@ -6150,6 +6156,7 @@
   "nana": {
    "channelId": "4d812b586ff63f8a2946e64fa860bbf5",
    "videos": [
+    {"no":16330350,"title":"므잉","type":"REPLAY","cat":"마인크래프트","pub":1795447555170,"open":null,"dur":28413},
     {"no":16197763,"title":"으양","type":"REPLAY","cat":"talk","pub":1794749109460,"open":null,"dur":22575},
     {"no":16179831,"title":"리제로할래요","type":"REPLAY","cat":"프라버블리 스톨른 - 사이버펑크 숍키퍼 심","pub":1794661483558,"open":null,"dur":21508},
     {"no":16163006,"title":"감자깎고 비형 유스깎기","type":"REPLAY","cat":"이터널 리턴","pub":1794577561969,"open":null,"dur":23774},
@@ -6751,6 +6758,7 @@
   "riko": {
    "channelId": "8fd39bb8de623317de90654718638b10",
    "videos": [
+    {"no":16333263,"title":"스텔마크 후여얼","type":"REPLAY","cat":"마인크래프트","pub":1795455883139,"open":null,"dur":36159},
     {"no":16281026,"title":"돈벌고 가야지","type":"REPLAY","cat":"talk","pub":1795188789766,"open":null,"dur":28457},
     {"no":16265176,"title":"하핫 아직 성장중","type":"REPLAY","cat":"talk","pub":1795103049187,"open":null,"dur":27132},
     {"no":16249017,"title":"고기만 먹을게","type":"REPLAY","cat":"talk","pub":1795018707022,"open":null,"dur":31218},
@@ -7439,6 +7447,7 @@
   "rang": {
    "channelId": "c657aa3592260a2b59669a72ec151936",
    "videos": [
+    {"no":16333507,"title":"랑이와찌","type":"REPLAY","cat":"마인크래프트","pub":1795457903054,"open":null,"dur":37492},
     {"no":16302415,"title":"호랑나비 산나비","type":"REPLAY","cat":"산나비","pub":1795288344823,"open":null,"dur":49844},
     {"no":16268372,"title":"네모네모 호랑이^ㅁ^","type":"REPLAY","cat":"마인크래프트","pub":1795113398740,"open":null,"dur":12149},
     {"no":16233615,"title":"건실한 호랭이","type":"REPLAY","cat":"마인크래프트","pub":1794934747545,"open":null,"dur":33101},
@@ -7474,7 +7483,7 @@
   "hiyori": {
    "channelId": "49d2c3cf8f0b2843d934ec15e82bb54c",
    "videos": [
-    {"no":16321348,"title":"애니 노래 OST 월드컵 까자!!!!!! 『 완 』","type":"REPLAY","cat":"talk","pub":1795405092685,"open":null,"dur":47924},
+    {"no":16321348,"title":"애니 노래 OST 월드컵 까자!!!!!! 『 완 』","type":"REPLAY","cat":"talk","pub":1795405092685,"open":null,"dur":47923},
     {"no":16304691,"title":"애니 노래 OST 월드컵 까자!!!!!!","type":"REPLAY","cat":"talk","pub":1795310965866,"open":null,"dur":47683},
     {"no":16286376,"title":"금요일..생방하나요?!","type":"REPLAY","cat":"흉우","pub":1795205473796,"open":null,"dur":19988},
     {"no":16270536,"title":"점프킹 켠왕.... 돌격!!","type":"REPLAY","cat":"점프 킹","pub":1795132480709,"open":null,"dur":42043},
