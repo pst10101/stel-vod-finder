@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795478003390,
+ "updatedAt": 1795513985448,
  "channels": {
   "UC2Ki6__sICXPyHPCyFxIgbw": {
    "videos": [
@@ -1547,6 +1547,7 @@
   },
   "@Yunireplay": {
    "videos": [
+    {"id":"PEX99tFGG90","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"게임 추천 받기 + 스텔 마크 [2026.11.21]","pub":1795511120000,"liveStart":null,"liveEnd":null,"dur":19101,"titleDate":"2026-11-21","chapters":[]},
     {"id":"_Ogir3aVoZg","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"카페탐방 + 스텔 마크 [2026.11.20]","pub":1795254001000,"liveStart":null,"liveEnd":null,"dur":28157,"titleDate":"2026-11-20","chapters":[]},
     {"id":"HJ6kg24RHuo","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"Tree hate you + 수능 일본어 문제 풀기 + 스텔 마크 [2026.11.19]","pub":1795253729000,"liveStart":null,"liveEnd":null,"dur":33461,"titleDate":"2026-11-19","chapters":[]},
     {"id":"HjTf8h0YR6A","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"부산갈매기 합방 [2026.11.16]","pub":1795132805000,"liveStart":null,"liveEnd":null,"dur":20626,"titleDate":"2026-11-16","chapters":[]},
@@ -7767,6 +7768,7 @@
   },
   "@rikoreplay": {
    "videos": [
+    {"id":"UD6A5LzsY5I","ch":"UCVZcw2SMyL6h5CfKSCs42_A","m":"riko","title":"다시 꼭 만나자 아탄아 [ForgeTax / 스텔 마크서버] [2026.11.23]","pub":1795510937000,"liveStart":null,"liveEnd":null,"dur":35790,"titleDate":"2026-11-23","chapters":[[0,"용사 등장!"],[3727,"ForgeTax"],[24099,"스텔라이브 마인크래프트 서버"],[35413,"토크"]]},
     {"id":"FQObyx8NDXA","ch":"UCVZcw2SMyL6h5CfKSCs42_A","m":"riko","title":"왠지 모르겠지만 물고기가 여우를 닮았어요 [GONE Fishing (w. 부키, 이춘향, 고수달) /스텔 마크서버] [2026.11.20]","pub":1795396370000,"liveStart":null,"liveEnd":null,"dur":28024,"titleDate":"2026-11-20","chapters":[[0,"용사 등장!"],[4989,"GONE Fishing (w. 부키, 이춘향, 고수달)"],[25141,"스텔라이브 마인크래프트 서버"],[27797,"토크"]]},
     {"id":"pNUfD_5euIg","ch":"UCVZcw2SMyL6h5CfKSCs42_A","m":"riko","title":"비방의 용사는 다르다 [비방 발로란트 내전 (w. 강지, 이춘향, 크포, 카나데, 협준, 선데이, 자몽뀨, 김돌돌, 마뫄)] [2026.11.19]","pub":1795263994000,"liveStart":null,"liveEnd":null,"dur":5758,"titleDate":"2026-11-19","chapters":[[0,"비방 용사 등장!"],[27,"발로란트 내전 (w. 강지, 이춘향, 크포, 카나데, 협준, 선데이, 자몽뀨, 김돌돌, 마뫄)"],[5716,"녹화 마무리"]]},
     {"id":"D-2artI2psQ","ch":"UCVZcw2SMyL6h5CfKSCs42_A","m":"riko","title":"오늘부터 정실은 양동이입니다 [더 스탠리 패러블/리그 오브 레전드] [2026.11.19]","pub":1795260639000,"liveStart":null,"liveEnd":null,"dur":26790,"titleDate":"2026-11-19","chapters":[[0,"용사 등장!"],[3790,"더 스탠리 패러블"],[20847,"리그 오브 레전드"],[26523,"토크"]]},
