@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795513979677,
+ "updatedAt": 1795559166892,
  "members": {
   "gangzi": {
    "channelId": "b5ed5db484d04faf4d150aedd362f34b",
@@ -1446,6 +1446,7 @@
   "huya": {
    "channelId": "36ddb9bb4f17593b60f1b63cec86611d",
    "videos": [
+    {"no":16345639,"title":"26일에 만나요~","type":"REPLAY","cat":"talk","pub":1795533674159,"open":null,"dur":22565},
     {"no":16332113,"title":"슬롯 머신에 바쿠를 매달다.","type":"REPLAY","cat":"talk","pub":1795451901122,"open":null,"dur":25866},
     {"no":16308231,"title":"멍청한 나를 위한 자동사냥 + 가챠 + 자동진행 게임","type":"REPLAY","cat":"슬롯바운드","pub":1795337952799,"open":null,"dur":12365},
     {"no":16290821,"title":"아주르 프로밀리아 프리뷰 공방 같이보기!","type":"REPLAY","cat":"talk","pub":1795248107900,"open":null,"dur":6008},
@@ -1766,6 +1767,7 @@
   "hina": {
    "channelId": "b044e3a3b9259246bc92e863e7d3f3b8",
    "videos": [
+    {"no":16347924,"title":"세카이니 이타미오,,,,,,,,,,","type":"REPLAY","cat":"talk","pub":1795539043800,"open":null,"dur":24798},
     {"no":16333730,"title":"역시 부수는 게 맞다니깐","type":"REPLAY","cat":"talk","pub":1795457702165,"open":null,"dur":28762},
     {"no":16324370,"title":"역시 부수는 게 맞다니깐","type":"REPLAY","cat":"talk","pub":1795428451560,"open":null,"dur":576},
     {"no":16306285,"title":"나여 정히나","type":"REPLAY","cat":"talk","pub":1795327135961,"open":null,"dur":8029},
@@ -3360,6 +3362,7 @@
   "lize": {
    "channelId": "4325b1d5bbc321fad3042306646e2e50",
    "videos": [
+    {"no":16347736,"title":"오랜만에 카페를 봐","type":"REPLAY","cat":"talk","pub":1795538338052,"open":null,"dur":19697},
     {"no":16300803,"title":"서폿 필요한팀 연락주세요. 돈없으면 리제써야지","type":"REPLAY","cat":"talk","pub":1795281849549,"open":null,"dur":23395},
     {"no":16282048,"title":"참고로 난 고수임.","type":"REPLAY","cat":"마인크래프트","pub":1795190983034,"open":null,"dur":19527},
     {"no":16268051,"title":"참고로 난 건축 고수임. 마끼끼","type":"REPLAY","cat":"마인크래프트","pub":1795110598855,"open":null,"dur":19883},
@@ -4077,6 +4080,7 @@
   "tabi": {
    "channelId": "a6c4ddb09cdb160478996007bff35296",
    "videos": [
+    {"no":16346940,"title":"299강 이기어검을 본 적이 있으신가요?","type":"REPLAY","cat":"마인크래프트","pub":1795536383397,"open":null,"dur":29188},
     {"no":16333677,"title":"와우","type":"REPLAY","cat":"talk","pub":1795457429939,"open":null,"dur":38079},
     {"no":16299231,"title":"찌로의 마끼 도박장","type":"REPLAY","cat":"마인크래프트","pub":1795277231141,"open":null,"dur":12072},
     {"no":16299238,"title":"찌로의 마끼 도박장","type":"REPLAY","cat":"마인크래프트","pub":1795277140294,"open":null,"dur":15},
@@ -4838,6 +4842,7 @@
   "shibuki": {
    "channelId": "64d76089fba26b180d9c9e48a32600d9",
    "videos": [
+    {"no":16347387,"title":"스텔마크 가구 치장템 업데이트했대","type":"REPLAY","cat":"마인크래프트","pub":1795537571570,"open":null,"dur":28040},
     {"no":16317965,"title":"마크 깔짝","type":"REPLAY","cat":"마인크래프트","pub":1795368185977,"open":null,"dur":19192},
     {"no":16282203,"title":"티모도파민한판 플레가기.","type":"REPLAY","cat":"리그 오브 레전드","pub":1795191436900,"open":null,"dur":27542},
     {"no":16264170,"title":"예비군 가기","type":"REPLAY","cat":"예비군","pub":1795101085777,"open":null,"dur":19924},
@@ -6156,6 +6161,7 @@
   "nana": {
    "channelId": "4d812b586ff63f8a2946e64fa860bbf5",
    "videos": [
+    {"no":16346980,"title":"웅 재밌었다예요","type":"REPLAY","cat":"마법소녀의 마녀재판","pub":1795536692376,"open":null,"dur":30581},
     {"no":16330350,"title":"므잉","type":"REPLAY","cat":"마인크래프트","pub":1795447555170,"open":null,"dur":28413},
     {"no":16197763,"title":"으양","type":"REPLAY","cat":"talk","pub":1794749109460,"open":null,"dur":22575},
     {"no":16179831,"title":"리제로할래요","type":"REPLAY","cat":"프라버블리 스톨른 - 사이버펑크 숍키퍼 심","pub":1794661483558,"open":null,"dur":21508},
@@ -6758,6 +6764,7 @@
   "riko": {
    "channelId": "8fd39bb8de623317de90654718638b10",
    "videos": [
+    {"no":16345480,"title":"성장 +1 | INT +1","type":"REPLAY","cat":"리그 오브 레전드","pub":1795533276243,"open":null,"dur":20215},
     {"no":16333263,"title":"스텔마크 후여얼","type":"REPLAY","cat":"마인크래프트","pub":1795455883139,"open":null,"dur":36159},
     {"no":16281026,"title":"돈벌고 가야지","type":"REPLAY","cat":"talk","pub":1795188789766,"open":null,"dur":28457},
     {"no":16265176,"title":"하핫 아직 성장중","type":"REPLAY","cat":"talk","pub":1795103049187,"open":null,"dur":27132},
@@ -7447,6 +7454,7 @@
   "rang": {
    "channelId": "c657aa3592260a2b59669a72ec151936",
    "videos": [
+    {"no":16339672,"title":"호랑이","type":"REPLAY","cat":"마인크래프트","pub":1795515055964,"open":null,"dur":9089},
     {"no":16333507,"title":"랑이와찌","type":"REPLAY","cat":"마인크래프트","pub":1795457903054,"open":null,"dur":37491},
     {"no":16302415,"title":"호랑나비 산나비","type":"REPLAY","cat":"산나비","pub":1795288344823,"open":null,"dur":49844},
     {"no":16268372,"title":"네모네모 호랑이^ㅁ^","type":"REPLAY","cat":"마인크래프트","pub":1795113398740,"open":null,"dur":12149},
@@ -7526,6 +7534,7 @@
   "mary": {
    "channelId": "792acf9ca28b42918710327e14b06b68",
    "videos": [
+    {"no":16348816,"title":"원래 제 꿈은 성우였어요","type":"REPLAY","cat":"마인크래프트","pub":1795541991919,"open":null,"dur":23832},
     {"no":16308059,"title":"와 진짜 점심이다!! 안뇨오옹!!","type":"REPLAY","cat":"마인크래프트","pub":1795337674492,"open":null,"dur":13673},
     {"no":16295563,"title":"인 생 은 도 박! 메 리 키 타!","type":"REPLAY","cat":"talk","pub":1795270190337,"open":null,"dur":23568},
     {"no":16284623,"title":"바보협회에 들어갈 인재인가? [전국 일반상식 체크 + 예비군 + 스텔 마크]","type":"REPLAY","cat":"마인크래프트","pub":1795199301050,"open":null,"dur":35928},

@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795513985448,
+ "updatedAt": 1795559173908,
  "channels": {
   "UC2Ki6__sICXPyHPCyFxIgbw": {
    "videos": [
@@ -2395,6 +2395,8 @@
   },
   "@hinareplay": {
    "videos": [
+    {"id":"y048rh5rZys","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"카페탐방! [26. 11.22]","pub":1795538758000,"liveStart":null,"liveEnd":null,"dur":8033,"titleDate":"2026-11-22","chapters":[]},
+    {"id":"fk9jR7Bapk4","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"역시 부수는 게 맞다니깐 [26. 11.23]","pub":1795538746000,"liveStart":null,"liveEnd":null,"dur":28765,"titleDate":"2026-11-23","chapters":[]},
     {"id":"mfd4r8vMfgU","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"명 천 재 의 4장 5막 스토리 밀기 [26. 11.22]","pub":1795312819000,"liveStart":null,"liveEnd":null,"dur":28780,"titleDate":"2026-11-22","chapters":[]},
     {"id":"nap9AGKS3rI","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"스텔라이브 소속 2기생 유니버스 시라유키 히나 님의 포켓몬 레조넌스 [26. 11.20]","pub":1795230917000,"liveStart":null,"liveEnd":null,"dur":22191,"titleDate":"2026-11-20","chapters":[]},
     {"id":"D5JhTi6OGyc","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"보구미 [26. 11.19]","pub":1795142737000,"liveStart":null,"liveEnd":null,"dur":2598,"titleDate":"2026-11-19","chapters":[]},
@@ -5838,6 +5840,7 @@
   },
   "@shibukireplay": {
    "videos": [
+    {"id":"sTV3kGy4Ico","ch":"UCfoPMrULJvdKN8GlBZJwqHg","m":"shibuki","title":"탑토아의 변태력을 제대로 알아버린 날 [더브 나이트 라이브+스텔마크#17][2026.11.22]","pub":1795518713000,"liveStart":null,"liveEnd":null,"dur":12732,"titleDate":"2026-11-22","chapters":[[0,"저스트 채팅"],[5671,"스텔마크"]]},
     {"id":"_NxYdtTtMMk","ch":"UCfoPMrULJvdKN8GlBZJwqHg","m":"shibuki","title":"그냥 낚시만 하면 되는 줄 알았어요 [곤 피싱w.이춘향,고수달,리코+롤][2026.11.20]","pub":1795404411000,"liveStart":null,"liveEnd":null,"dur":27304,"titleDate":"2026-11-20","chapters":[[0,"저스트 채팅"],[1464,"곤피싱"],[20796,"롤"]]},
     {"id":"qS3L9Y5xvYU","ch":"UCfoPMrULJvdKN8GlBZJwqHg","m":"shibuki","title":"예비군 훈련장에 떨어진 여우신 [수능풀이+부키탐구영역+예비군][2026.11.19]","pub":1795346163000,"liveStart":null,"liveEnd":null,"dur":19658,"titleDate":"2026-11-19","chapters":[[0,"저스트 채팅"],[2077,"수능 풀이"],[4611,"부키 탐구 영역"],[8505,"예비군"]]},
     {"id":"mhITKLIrOjc","ch":"UCfoPMrULJvdKN8GlBZJwqHg","m":"shibuki","title":"우당탕탕 5인 스텔 굶지마 서버 [돈스타브 투게더w.후야,시로,타비,리코+스텔마크#16][2026.11.18]","pub":1795097752000,"liveStart":null,"liveEnd":null,"dur":36701,"titleDate":"2026-11-18","chapters":[[0,"저스트 채팅"],[1826,"돈스타브 투게더"],[27819,"스텔마크"]]},
