@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795595502086,
+ "updatedAt": 1795642859893,
  "members": {
   "gangzi": {
    "channelId": "b5ed5db484d04faf4d150aedd362f34b",
@@ -766,6 +766,7 @@
   "yuni": {
    "channelId": "45e71a76e949e16a34764deb962f9d9f",
    "videos": [
+    {"no":16362504,"title":"힐링마키","type":"REPLAY","cat":"마인크래프트","pub":1795621698489,"open":null,"dur":25187},
     {"no":16332934,"title":"캥이 증결 뽑아ㅏ아아아아아앙아ㅣㅇ","type":"REPLAY","cat":"talk","pub":1795454663694,"open":null,"dur":37779},
     {"no":16308070,"title":"섬견이 미쳐찌?","type":"REPLAY","cat":"talk","pub":1795337479973,"open":null,"dur":24070},
     {"no":16296074,"title":"게임 추천 보는날","type":"REPLAY","cat":"talk","pub":1795269694020,"open":null,"dur":19096},
@@ -1767,6 +1768,7 @@
   "hina": {
    "channelId": "b044e3a3b9259246bc92e863e7d3f3b8",
    "videos": [
+    {"no":16359237,"title":"나여","type":"REPLAY","cat":"talk","pub":1795615342501,"open":null,"dur":18200},
     {"no":16347924,"title":"세카이니 이타미오,,,,,,,,,,","type":"REPLAY","cat":"talk","pub":1795539043800,"open":null,"dur":24798},
     {"no":16333730,"title":"역시 부수는 게 맞다니깐","type":"REPLAY","cat":"talk","pub":1795457702165,"open":null,"dur":28762},
     {"no":16324370,"title":"역시 부수는 게 맞다니깐","type":"REPLAY","cat":"talk","pub":1795428451560,"open":null,"dur":576},
@@ -3362,6 +3364,7 @@
   "lize": {
    "channelId": "4325b1d5bbc321fad3042306646e2e50",
    "videos": [
+    {"no":16365798,"title":"🍥🍜이랏쌰이마세~!! 일본 라멘가게 시뮬겜🍜🍥","type":"REPLAY","cat":"talk","pub":1795632125406,"open":null,"dur":28829},
     {"no":16347736,"title":"오랜만에 카페를 봐","type":"REPLAY","cat":"talk","pub":1795538338052,"open":null,"dur":19697},
     {"no":16300803,"title":"서폿 필요한팀 연락주세요. 돈없으면 리제써야지","type":"REPLAY","cat":"talk","pub":1795281849549,"open":null,"dur":23395},
     {"no":16282048,"title":"참고로 난 고수임.","type":"REPLAY","cat":"마인크래프트","pub":1795190983034,"open":null,"dur":19527},
@@ -4842,6 +4845,7 @@
   "shibuki": {
    "channelId": "64d76089fba26b180d9c9e48a32600d9",
    "videos": [
+    {"no":16364546,"title":"티모깔짞","type":"REPLAY","cat":"리그 오브 레전드","pub":1795626922984,"open":null,"dur":27384},
     {"no":16347387,"title":"스텔마크 가구 치장템 업데이트했대","type":"REPLAY","cat":"마인크래프트","pub":1795537571570,"open":null,"dur":28040},
     {"no":16317965,"title":"마크 깔짝","type":"REPLAY","cat":"마인크래프트","pub":1795368185977,"open":null,"dur":19192},
     {"no":16282203,"title":"티모도파민한판 플레가기.","type":"REPLAY","cat":"리그 오브 레전드","pub":1795191436900,"open":null,"dur":27542},
@@ -5542,6 +5546,7 @@
   "rin": {
    "channelId": "516937b5f85cbf2249ce31b0ad046b0f",
    "videos": [
+    {"no":16362253,"title":"저는 각도기인간입니다","type":"REPLAY","cat":"마인크래프트","pub":1795620979435,"open":null,"dur":16252},
     {"no":16318379,"title":"린의 농사에는 감동이 있다","type":"REPLAY","cat":"마인크래프트","pub":1795369942154,"open":null,"dur":17231},
     {"no":16298680,"title":"업데이트를 해","type":"REPLAY","cat":"마인크래프트","pub":1795275981983,"open":null,"dur":17461},
     {"no":16282815,"title":"사장님이랑 드라이브","type":"REPLAY","cat":"노마드 드라이브","pub":1795192772966,"open":null,"dur":18509},
@@ -6161,6 +6166,7 @@
   "nana": {
    "channelId": "4d812b586ff63f8a2946e64fa860bbf5",
    "videos": [
+    {"no":16360706,"title":"기특 봄바나나 (w. 유니, 토아)","type":"REPLAY","cat":"talk","pub":1795618237871,"open":null,"dur":20620},
     {"no":16346980,"title":"웅 재밌었다예요","type":"REPLAY","cat":"마법소녀의 마녀재판","pub":1795536692376,"open":null,"dur":30581},
     {"no":16330350,"title":"므잉","type":"REPLAY","cat":"마인크래프트","pub":1795447555170,"open":null,"dur":28413},
     {"no":16197763,"title":"으양","type":"REPLAY","cat":"talk","pub":1794749109460,"open":null,"dur":22575},
@@ -6764,6 +6770,7 @@
   "riko": {
    "channelId": "8fd39bb8de623317de90654718638b10",
    "videos": [
+    {"no":16365570,"title":"메리랑 같이 독수리리리ㅣㅣ리 잡기 !! 초록 양배추야 고마워!","type":"REPLAY","cat":"마인크래프트","pub":1795630953084,"open":null,"dur":29522},
     {"no":16345480,"title":"성장 +1 | INT +1","type":"REPLAY","cat":"리그 오브 레전드","pub":1795533276243,"open":null,"dur":20215},
     {"no":16333263,"title":"스텔마크 후여얼","type":"REPLAY","cat":"마인크래프트","pub":1795455883139,"open":null,"dur":36159},
     {"no":16281026,"title":"돈벌고 가야지","type":"REPLAY","cat":"talk","pub":1795188789766,"open":null,"dur":28457},
@@ -7421,6 +7428,7 @@
   "toa": {
    "channelId": "2299fad4bebb504b0978e1ec08b2f7d3",
    "videos": [
+    {"no":16365125,"title":"예비군 + 봄바나나 합방 w. 유니선배, 나나선배, + 스텔마꾸","type":"REPLAY","cat":"봄바나나!","pub":1795632606263,"open":null,"dur":42584},
     {"no":16319072,"title":"오래 기다려찌","type":"REPLAY","cat":"마인크래프트","pub":1795411510246,"open":null,"dur":22796},
     {"no":16309796,"title":"🩷 1122 토아 생일파티래 부마야 🩷","type":"REPLAY","cat":"talk","pub":1795350200048,"open":null,"dur":6824},
     {"no":16302096,"title":"k pop 걸그룹 월드컵 + 스텔마꾸끄","type":"REPLAY","cat":"마인크래프트","pub":1795287146881,"open":null,"dur":40255},
@@ -7534,6 +7542,7 @@
   "mary": {
    "channelId": "792acf9ca28b42918710327e14b06b68",
    "videos": [
+    {"no":16363067,"title":"좋은 저녁이당!! (과자 티어표 + 마추기 아이오 + 스텔 마크)","type":"REPLAY","cat":"마인크래프트","pub":1795625623282,"open":null,"dur":25832},
     {"no":16348816,"title":"원래 제 꿈은 성우였어요","type":"REPLAY","cat":"마인크래프트","pub":1795541991919,"open":null,"dur":23832},
     {"no":16308059,"title":"와 진짜 점심이다!! 안뇨오옹!!","type":"REPLAY","cat":"마인크래프트","pub":1795337674492,"open":null,"dur":13673},
     {"no":16295563,"title":"인 생 은 도 박! 메 리 키 타!","type":"REPLAY","cat":"talk","pub":1795270190337,"open":null,"dur":23568},
