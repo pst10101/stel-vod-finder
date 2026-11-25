@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795559173908,
+ "updatedAt": 1795595507912,
  "channels": {
   "UC2Ki6__sICXPyHPCyFxIgbw": {
    "videos": [
@@ -4040,6 +4040,7 @@
   },
   "@lizereplay": {
    "videos": [
+    {"id":"RbhGGOPpEh4","ch":"UC5qsIJIixQI5k2FfkW1j1NQ","m":"lize","title":"여 정도현이~! 오랜만이네!!🪖 [예비군 + 리그 오브 레전드 | 2026.11.21]","pub":1795574702000,"liveStart":null,"liveEnd":null,"dur":23399,"titleDate":"2026-11-21","chapters":[[0,"인트로"],[272,"본녀 강림"],[3878,"예비군"],[9590,"중간 저챗"],[10451,"리그 오브 레전드"],[20566,"후열 저챗"]]},
     {"id":"gBFgVkxWnUA","ch":"UC5qsIJIixQI5k2FfkW1j1NQ","m":"lize","title":"어때 맘에 들어??✨ [마인크래프트 스텔서버 | 2026.11.20]","pub":1795366073000,"liveStart":null,"liveEnd":null,"dur":19531,"titleDate":"2026-11-20","chapters":[[0,"인트로"],[315,"본녀 강림"],[7027,"마인크래프트 스텔서버"],[19086,"후열 저챗"]]},
     {"id":"ccUAFeVik2U","ch":"UC5qsIJIixQI5k2FfkW1j1NQ","m":"lize","title":"이젠 정말 대화 잘 나누는 멋진 선배🩸 [마인크래프트 스텔 서버 | 2026.11.19]","pub":1795309219000,"liveStart":null,"liveEnd":null,"dur":19886,"titleDate":"2026-11-19","chapters":[[0,"인트로"],[335,"본녀 강림"],[1344,"마인크래프트 스텔서버"],[19402,"후열 저챗"]]},
     {"id":"eY-1a5CV9rI","ch":"UC5qsIJIixQI5k2FfkW1j1NQ","m":"lize","title":"잠깐잠깐 더 있어 기다려봐📝 [붕괴: 스타레일 4.7 광고방송 | 2026.11.18]","pub":1795168448000,"liveStart":null,"liveEnd":null,"dur":25715,"titleDate":"2026-11-18","chapters":[[0,"인트로"],[295,"본녀 강림"],[1871,"광고 시작 전 게임 접속"],[3226,"붕괴: 스타레일 광고 시작"],[4202,"아하 픽업 뽑기"],[5535,"붕괴 스타레일 4.7 [지금, 뭇별을 웃음으로] 스토리 진행"],[23815,"후열 저챗"]]},
@@ -4852,6 +4853,8 @@
   },
   "@tabireplay": {
    "videos": [
+    {"id":"f39zUJyDC2Y","ch":"UCOAD3RLV7uC3uc39ok7NLyg","m":"tabi","title":"[2026.11.23] 더 데스 게임 리포트 + 스텔마크","pub":1795575987000,"liveStart":null,"liveEnd":null,"dur":31551,"titleDate":"2026-11-23","chapters":[[0,"Loading"],[246,"Just Chatting"],[10690,"더 데스 게임 리포트"],[22302,"스텔마크"],[31418,"방종"]]},
+    {"id":"AMlUftjz-3M","ch":"UCOAD3RLV7uC3uc39ok7NLyg","m":"tabi","title":"[2026.11.21] 주주총회 + 스텔마크 건축","pub":1795575971000,"liveStart":null,"liveEnd":null,"dur":12077,"titleDate":"2026-11-21","chapters":[[0,"Loading"],[253,"Just Chatting"],[5611,"스텔마크"]]},
     {"id":"bvGdoj_zmJs","ch":"UCOAD3RLV7uC3uc39ok7NLyg","m":"tabi","title":"[2026.11.20] 역대급 또대급 고점 | 명조 3.8 4장 5막 릴리 스토리 + 가챠","pub":1795343125000,"liveStart":null,"liveEnd":null,"dur":31960,"titleDate":"2026-11-20","chapters":[[0,"Loading"],[220,"Just Chatting"],[7016,"명조 : 워더링 웨이브"],[9495,"「내일에 부치는 꽃다발」"],[30019,"가챠"],[31887,"방종"]]},
     {"id":"HgX8NFmeAOM","ch":"UCOAD3RLV7uC3uc39ok7NLyg","m":"tabi","title":"[2026.11.18] 돈 스타브 투게더(w. 후야, 시로, 부키, 리코)","pub":1795343097000,"liveStart":null,"liveEnd":null,"dur":31235,"titleDate":"2026-11-18","chapters":[[0,"Loading"],[554,"Just Chatting"],[5460,"돈 스타브 투게더(w. 후야, 시로, 부키, 리코)"],[31138,"방종"]]},
     {"id":"jtum5MLdK4o","ch":"UCOAD3RLV7uC3uc39ok7NLyg","m":"tabi","title":"[2026.11.17] 포테이토 플리즈 + 스텔마크","pub":1795060806000,"liveStart":null,"liveEnd":null,"dur":35145,"titleDate":"2026-11-17","chapters":[[0,"Loading"],[427,"Just Chatting"],[2239,"스텔라이브 고양이과 강아지과 알아보기"],[6254,"포테이토 플리즈"],[21346,"스텔마크"]]},
