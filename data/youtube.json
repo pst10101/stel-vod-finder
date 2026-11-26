@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795642866832,
+ "updatedAt": 1795680923855,
  "channels": {
   "UC2Ki6__sICXPyHPCyFxIgbw": {
    "videos": [
@@ -1547,6 +1547,7 @@
   },
   "@Yunireplay": {
    "videos": [
+    {"id":"_IUGDRVTTq4","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"Drawaoke + 스텔 마크 [2026.11.23]","pub":1795651204000,"liveStart":null,"liveEnd":null,"dur":37784,"titleDate":"2026-11-23","chapters":[]},
     {"id":"PEX99tFGG90","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"게임 추천 받기 + 스텔 마크 [2026.11.21]","pub":1795511120000,"liveStart":null,"liveEnd":null,"dur":19101,"titleDate":"2026-11-21","chapters":[]},
     {"id":"_Ogir3aVoZg","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"카페탐방 + 스텔 마크 [2026.11.20]","pub":1795254001000,"liveStart":null,"liveEnd":null,"dur":28157,"titleDate":"2026-11-20","chapters":[]},
     {"id":"HJ6kg24RHuo","ch":"UCUj4JItmvebxPBfmGcJHsNQ","m":"yuni","title":"Tree hate you + 수능 일본어 문제 풀기 + 스텔 마크 [2026.11.19]","pub":1795253729000,"liveStart":null,"liveEnd":null,"dur":33461,"titleDate":"2026-11-19","chapters":[]},
@@ -6547,6 +6548,7 @@
   },
   "@rinreplay": {
    "videos": [
+    {"id":"VWGuVkrsfn4","ch":"UCmw0eKk5uOv029SScRRRfqw","m":"rin","title":"[ 2026/11/25 | 예비군 + 스텔마크 ] - 린 다시보기","pub":1795662022000,"liveStart":null,"liveEnd":null,"dur":16256,"titleDate":"2026-11-25","chapters":[]},
     {"id":"rC1Ij3xO0pQ","ch":"UCmw0eKk5uOv029SScRRRfqw","m":"rin","title":"[ 2026/11/22 | 스텔마크 ] - 린 다시보기","pub":1795442414000,"liveStart":null,"liveEnd":null,"dur":17235,"titleDate":"2026-11-22","chapters":[]},
     {"id":"XkAgf-f1Nzg","ch":"UCmw0eKk5uOv029SScRRRfqw","m":"rin","title":"[ 2026/11/21 | 스텔라이브 유형분석 + 친모아 ] - 린 다시보기","pub":1795371311000,"liveStart":null,"liveEnd":null,"dur":17380,"titleDate":"2026-11-21","chapters":[]},
     {"id":"i9N_2GX4_C8","ch":"UCmw0eKk5uOv029SScRRRfqw","m":"rin","title":"[ 2026/11/20 | 노매드 드라이브 ] - 린 다시보기","pub":1795268976000,"liveStart":null,"liveEnd":null,"dur":18513,"titleDate":"2026-11-20","chapters":[]},
