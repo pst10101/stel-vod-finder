@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795680923855,
+ "updatedAt": 1795728633082,
  "channels": {
   "UC2Ki6__sICXPyHPCyFxIgbw": {
    "videos": [
@@ -2108,6 +2108,8 @@
   },
   "@Sakihanereplay": {
    "videos": [
+    {"id":"j4MAi5VRzZQ","ch":"UCJz5aRHEMTL10zLfMj5hVmg","m":"huya","title":"슬롯 바운드 261123","pub":1795696358000,"liveStart":null,"liveEnd":null,"dur":25870,"titleDate":"2026-11-23","chapters":[[0,"시작"],[177,"등장"],[7670,"슬롯 바운드 플레이"]]},
+    {"id":"D4fOOCa3uzU","ch":"UCJz5aRHEMTL10zLfMj5hVmg","m":"huya","title":"슬롯 바운드 261122","pub":1795696152000,"liveStart":null,"liveEnd":null,"dur":12369,"titleDate":"2026-11-22","chapters":[[0,"시작"],[143,"등장"],[2260,"슬롯 바운드 플레이"]]},
     {"id":"lFCMwsfdgSA","ch":"UCJz5aRHEMTL10zLfMj5hVmg","m":"huya","title":"저챗, 아주르 프로밀리아 공방 같이보기 261121","pub":1795432761000,"liveStart":null,"liveEnd":null,"dur":6009,"titleDate":"2026-11-21","chapters":[[0,"시작"],[344,"등장"],[1599,"아주르 프로밀리아 공방 같이보기"]]},
     {"id":"oajYDHt0_7E","ch":"UCJz5aRHEMTL10zLfMj5hVmg","m":"huya","title":"GTA6플레이 전 저챗 261119","pub":1795346626000,"liveStart":null,"liveEnd":null,"dur":8083,"titleDate":"2026-11-19","chapters":[[0,"시작"],[57,"등장"]]},
     {"id":"NmF9OtDPTDs","ch":"UCJz5aRHEMTL10zLfMj5hVmg","m":"huya","title":"굶지마 투게더(w. 마시로,리코,시부키,타비) 261118","pub":1795094399000,"liveStart":null,"liveEnd":null,"dur":29892,"titleDate":"2026-11-18","chapters":[[0,"시작"],[141,"등장"],[3600,"굶지마 투게더 플레이"]]},
@@ -2396,6 +2398,7 @@
   },
   "@hinareplay": {
    "videos": [
+    {"id":"W8y6etx_oA0","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"세카이니 이타미오,,, [26. 11.24]","pub":1795709561000,"liveStart":null,"liveEnd":null,"dur":24675,"titleDate":"2026-11-24","chapters":[]},
     {"id":"y048rh5rZys","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"카페탐방! [26. 11.22]","pub":1795538758000,"liveStart":null,"liveEnd":null,"dur":8033,"titleDate":"2026-11-22","chapters":[]},
     {"id":"fk9jR7Bapk4","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"역시 부수는 게 맞다니깐 [26. 11.23]","pub":1795538746000,"liveStart":null,"liveEnd":null,"dur":28765,"titleDate":"2026-11-23","chapters":[]},
     {"id":"mfd4r8vMfgU","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"명 천 재 의 4장 5막 스토리 밀기 [26. 11.22]","pub":1795312819000,"liveStart":null,"liveEnd":null,"dur":28780,"titleDate":"2026-11-22","chapters":[]},
@@ -4041,6 +4044,7 @@
   },
   "@lizereplay": {
    "videos": [
+    {"id":"5AAFGboYMjQ","ch":"UC5qsIJIixQI5k2FfkW1j1NQ","m":"lize","title":"천마의 숨겨진 말못할 욕망🩸 [카페 탐방 | 2026.11.24]","pub":1795685358000,"liveStart":null,"liveEnd":null,"dur":14175,"titleDate":"2026-11-24","chapters":[[0,"인트로"],[375,"본녀 강림"],[4409,"더브 나이트 라이브 플레이 후"],[4674,"카페 탐방"],[10097,"후열 저챗"]]},
     {"id":"RbhGGOPpEh4","ch":"UC5qsIJIixQI5k2FfkW1j1NQ","m":"lize","title":"여 정도현이~! 오랜만이네!!🪖 [예비군 + 리그 오브 레전드 | 2026.11.21]","pub":1795574702000,"liveStart":null,"liveEnd":null,"dur":23399,"titleDate":"2026-11-21","chapters":[[0,"인트로"],[272,"본녀 강림"],[3878,"예비군"],[9590,"중간 저챗"],[10451,"리그 오브 레전드"],[20566,"후열 저챗"]]},
     {"id":"gBFgVkxWnUA","ch":"UC5qsIJIixQI5k2FfkW1j1NQ","m":"lize","title":"어때 맘에 들어??✨ [마인크래프트 스텔서버 | 2026.11.20]","pub":1795366073000,"liveStart":null,"liveEnd":null,"dur":19531,"titleDate":"2026-11-20","chapters":[[0,"인트로"],[315,"본녀 강림"],[7027,"마인크래프트 스텔서버"],[19086,"후열 저챗"]]},
     {"id":"ccUAFeVik2U","ch":"UC5qsIJIixQI5k2FfkW1j1NQ","m":"lize","title":"이젠 정말 대화 잘 나누는 멋진 선배🩸 [마인크래프트 스텔 서버 | 2026.11.19]","pub":1795309219000,"liveStart":null,"liveEnd":null,"dur":19886,"titleDate":"2026-11-19","chapters":[[0,"인트로"],[335,"본녀 강림"],[1344,"마인크래프트 스텔서버"],[19402,"후열 저챗"]]},
@@ -4854,6 +4858,8 @@
   },
   "@tabireplay": {
    "videos": [
+    {"id":"82ipsK3EI68","ch":"UCOAD3RLV7uC3uc39ok7NLyg","m":"tabi","title":"[2026.11.24] 포지택스 + 스텔마크","pub":1795682372000,"liveStart":null,"liveEnd":null,"dur":29193,"titleDate":"2026-11-24","chapters":[[0,"Loading"],[310,"Just Chatting"],[5808,"포지택스"],[18859,"스텔마크"],[29144,"방종"]]},
+    {"id":"l3aaxETN534","ch":"UCOAD3RLV7uC3uc39ok7NLyg","m":"tabi","title":"[2026.11.11] 빼빼로데이 진실 혹은 거짓 + 미소녀 연구동아리(w. 나나) + 로블록스 연습","pub":1795682361000,"liveStart":null,"liveEnd":null,"dur":32803,"titleDate":"2026-11-11","chapters":[[0,"Loading"],[446,"Just Chatting"],[6067,"빼빼로데이 진실 혹은 거짓"],[11103,"미소녀 연구동아리(w. 나나)"],[16182,"로블록스 연습"],[32720,"방종"]]},
     {"id":"f39zUJyDC2Y","ch":"UCOAD3RLV7uC3uc39ok7NLyg","m":"tabi","title":"[2026.11.23] 더 데스 게임 리포트 + 스텔마크","pub":1795575987000,"liveStart":null,"liveEnd":null,"dur":31551,"titleDate":"2026-11-23","chapters":[[0,"Loading"],[246,"Just Chatting"],[10690,"더 데스 게임 리포트"],[22302,"스텔마크"],[31418,"방종"]]},
     {"id":"AMlUftjz-3M","ch":"UCOAD3RLV7uC3uc39ok7NLyg","m":"tabi","title":"[2026.11.21] 주주총회 + 스텔마크 건축","pub":1795575971000,"liveStart":null,"liveEnd":null,"dur":12077,"titleDate":"2026-11-21","chapters":[[0,"Loading"],[253,"Just Chatting"],[5611,"스텔마크"]]},
     {"id":"bvGdoj_zmJs","ch":"UCOAD3RLV7uC3uc39ok7NLyg","m":"tabi","title":"[2026.11.20] 역대급 또대급 고점 | 명조 3.8 4장 5막 릴리 스토리 + 가챠","pub":1795343125000,"liveStart":null,"liveEnd":null,"dur":31960,"titleDate":"2026-11-20","chapters":[[0,"Loading"],[220,"Just Chatting"],[7016,"명조 : 워더링 웨이브"],[9495,"「내일에 부치는 꽃다발」"],[30019,"가챠"],[31887,"방종"]]},
@@ -5844,6 +5850,7 @@
   },
   "@shibukireplay": {
    "videos": [
+    {"id":"QoptKZSsvnc","ch":"UCfoPMrULJvdKN8GlBZJwqHg","m":"shibuki","title":"다시는 나무를 만만하게 보지 않겠습니다 [Trees hate you+스텔마크#18][2026.11.24]","pub":1795702288000,"liveStart":null,"liveEnd":null,"dur":27784,"titleDate":"2026-11-24","chapters":[[0,"저스트 채팅"],[3879,"트리스 헤이트 유"],[12340,"스텔마크"]]},
     {"id":"sTV3kGy4Ico","ch":"UCfoPMrULJvdKN8GlBZJwqHg","m":"shibuki","title":"탑토아의 변태력을 제대로 알아버린 날 [더브 나이트 라이브+스텔마크#17][2026.11.22]","pub":1795518713000,"liveStart":null,"liveEnd":null,"dur":12732,"titleDate":"2026-11-22","chapters":[[0,"저스트 채팅"],[5671,"스텔마크"]]},
     {"id":"_NxYdtTtMMk","ch":"UCfoPMrULJvdKN8GlBZJwqHg","m":"shibuki","title":"그냥 낚시만 하면 되는 줄 알았어요 [곤 피싱w.이춘향,고수달,리코+롤][2026.11.20]","pub":1795404411000,"liveStart":null,"liveEnd":null,"dur":27304,"titleDate":"2026-11-20","chapters":[[0,"저스트 채팅"],[1464,"곤피싱"],[20796,"롤"]]},
     {"id":"qS3L9Y5xvYU","ch":"UCfoPMrULJvdKN8GlBZJwqHg","m":"shibuki","title":"예비군 훈련장에 떨어진 여우신 [수능풀이+부키탐구영역+예비군][2026.11.19]","pub":1795346163000,"liveStart":null,"liveEnd":null,"dur":19658,"titleDate":"2026-11-19","chapters":[[0,"저스트 채팅"],[2077,"수능 풀이"],[4611,"부키 탐구 영역"],[8505,"예비군"]]},
@@ -7776,6 +7783,7 @@
   },
   "@rikoreplay": {
    "videos": [
+    {"id":"fn8UbLT4BMM","ch":"UCVZcw2SMyL6h5CfKSCs42_A","m":"riko","title":"둘이 같이 살면 거덜나요 [명일방주 : 엔드필드] [2026.11.25]","pub":1795685948000,"liveStart":null,"liveEnd":null,"dur":7312,"titleDate":"2026-11-25","chapters":[[0,"용사 등장!"],[199,"명일방주 : 엔드필드 [광고]"]]},
     {"id":"38f-B11U2AA","ch":"UCVZcw2SMyL6h5CfKSCs42_A","m":"riko","title":"본업행동 한 번 해볼까? [ForgeTax / 리그 오브 레전드] [2026.11.24]","pub":1795598632000,"liveStart":null,"liveEnd":null,"dur":19973,"titleDate":"2026-11-24","chapters":[[0,"용사 등장!"],[1434,"ForgeTax"],[11606,"리그 오브 레전드"],[19783,"토크"]]},
     {"id":"UD6A5LzsY5I","ch":"UCVZcw2SMyL6h5CfKSCs42_A","m":"riko","title":"다시 꼭 만나자 아탄아 [ForgeTax / 스텔 마크서버] [2026.11.23]","pub":1795510937000,"liveStart":null,"liveEnd":null,"dur":35790,"titleDate":"2026-11-23","chapters":[[0,"용사 등장!"],[3727,"ForgeTax"],[24099,"스텔라이브 마인크래프트 서버"],[35413,"토크"]]},
     {"id":"FQObyx8NDXA","ch":"UCVZcw2SMyL6h5CfKSCs42_A","m":"riko","title":"왠지 모르겠지만 물고기가 여우를 닮았어요 [GONE Fishing (w. 부키, 이춘향, 고수달) /스텔 마크서버] [2026.11.20]","pub":1795396370000,"liveStart":null,"liveEnd":null,"dur":28024,"titleDate":"2026-11-20","chapters":[[0,"용사 등장!"],[4989,"GONE Fishing (w. 부키, 이춘향, 고수달)"],[25141,"스텔라이브 마인크래프트 서버"],[27797,"토크"]]},
@@ -8485,6 +8493,7 @@
   },
   "@hiyorireplay": {
    "videos": [
+    {"id":"Zyc9b9VXe3E","ch":"UCLqOqHMtSF4qV30nm2fQdYw","m":"hiyori","title":"유령의 폴터가이스트 소리..👻【ASMR】[2026.10.30.]","pub":1795700603000,"liveStart":null,"liveEnd":null,"dur":7501,"titleDate":"2026-10-30","chapters":[]},
     {"id":"pWSUVi0ZhlM","ch":"UCLqOqHMtSF4qV30nm2fQdYw","m":"hiyori","title":"히요리의 기특한 덕삼포차🍜【신칸센 0호+포장마차:한국 길거리 음식 경영시뮬레이터】[2026.10.29.]","pub":1795602162000,"liveStart":null,"liveEnd":null,"dur":18677,"titleDate":"2026-10-29","chapters":[]},
     {"id":"6oCyTXX2wPQ","ch":"UCLqOqHMtSF4qV30nm2fQdYw","m":"hiyori","title":"히요리의 기특동물원🐘【미사이드+MyVoiceZoo】[2026.10.28.]","pub":1795181699000,"liveStart":null,"liveEnd":null,"dur":31013,"titleDate":"2026-10-28","chapters":[]},
     {"id":"K63S0aOYqF4","ch":"UCLqOqHMtSF4qV30nm2fQdYw","m":"hiyori","title":"동의~하나요~~?【이용약관에 동의하고 싶어 Ep.1】[2026.10.26.]","pub":1795000579000,"liveStart":null,"liveEnd":null,"dur":30767,"titleDate":"2026-10-26","chapters":[]},
@@ -8505,6 +8514,8 @@
   },
   "@maryreplay": {
    "videos": [
+    {"id":"XUwKLdgpaFg","ch":"UCsfl49B6oPk_l2sQ29NTCrg","m":"mary","title":"바보협회에 들어갈 인재인가? [전국 일반상식 체크 + 예비군 + 스텔 마크]【26.11.20】","pub":1795703957000,"liveStart":null,"liveEnd":null,"dur":35933,"titleDate":"2026-11-20","chapters":[]},
+    {"id":"PFqQNkqtgSI","ch":"UCsfl49B6oPk_l2sQ29NTCrg","m":"mary","title":"언더테일 불살루트인데 이해를 못 했따 [undertale]【26.11.18】","pub":1795703955000,"liveStart":null,"liveEnd":null,"dur":33521,"titleDate":"2026-11-18","chapters":[]},
     {"id":"Ofpy432t94c","ch":"UCsfl49B6oPk_l2sQ29NTCrg","m":"mary","title":"린 선배와 함께 엔더 월드 탐방!! [스텔 마크]【26.11.15】","pub":1795344702000,"liveStart":null,"liveEnd":null,"dur":19665,"titleDate":"2026-11-15","chapters":[]},
     {"id":"eN0fegfL4sQ","ch":"UCsfl49B6oPk_l2sQ29NTCrg","m":"mary","title":"기특한 귀환석 난발 [에이징커브 테스트 + 스텔 마크]【26.11.14】","pub":1795344701000,"liveStart":null,"liveEnd":null,"dur":33444,"titleDate":"2026-11-14","chapters":[]},
     {"id":"8o1TGbgFNZA","ch":"UCsfl49B6oPk_l2sQ29NTCrg","m":"mary","title":"아앍!!!! siuuuu!!! 개객꺄!!!! [my voice zoo + 스텔 마크]【26.11.13】","pub":1795100974000,"liveStart":null,"liveEnd":null,"dur":21929,"titleDate":"2026-11-13","chapters":[]},

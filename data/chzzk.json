@@ -1,9 +1,10 @@
 {
- "updatedAt": 1795680917754,
+ "updatedAt": 1795728625130,
  "members": {
   "gangzi": {
    "channelId": "b5ed5db484d04faf4d150aedd362f34b",
    "videos": [
+    {"no":16375010,"title":"( ܸ ⩌⩊⩌ ܸ )","type":"REPLAY","cat":"","pub":1795711478016,"open":null,"dur":24780},
     {"no":16316823,"title":"( ܸ ⩌⩊⩌ ܸ )","type":"REPLAY","cat":"종합 게임","pub":1795364581805,"open":null,"dur":19635},
     {"no":16308410,"title":"2026 치지직컵 같이보자! ( ܸ ⩌⩊⩌ ܸ )","type":"REPLAY","cat":"리그 오브 레전드","pub":1795338459013,"open":null,"dur":6387},
     {"no":16290498,"title":"( ܸ ⩌⩊⩌ ܸ )","type":"REPLAY","cat":"리그 오브 레전드","pub":1795246478370,"open":null,"dur":342},
@@ -766,6 +767,7 @@
   "yuni": {
    "channelId": "45e71a76e949e16a34764deb962f9d9f",
    "videos": [
+    {"no":16378297,"title":"더빙게임 합방 w  유니 타요 견자희님 비니님","type":"REPLAY","cat":"talk","pub":1795707075458,"open":null,"dur":29322},
     {"no":16362504,"title":"힐링마키","type":"REPLAY","cat":"마인크래프트","pub":1795621698489,"open":null,"dur":25187},
     {"no":16332934,"title":"캥이 증결 뽑아ㅏ아아아아아앙아ㅣㅇ","type":"REPLAY","cat":"talk","pub":1795454663694,"open":null,"dur":37779},
     {"no":16308070,"title":"섬견이 미쳐찌?","type":"REPLAY","cat":"talk","pub":1795337479973,"open":null,"dur":24070},
@@ -1447,6 +1449,7 @@
   "huya": {
    "channelId": "36ddb9bb4f17593b60f1b63cec86611d",
    "videos": [
+    {"no":16372539,"title":"[광고]드 디 어 나 왔 다 아주르 프로밀리아!!!!!!!!!!!!!!","type":"REPLAY","cat":"talk","pub":1795691502939,"open":null,"dur":23947},
     {"no":16345639,"title":"26일에 만나요~","type":"REPLAY","cat":"talk","pub":1795533674159,"open":null,"dur":22565},
     {"no":16332113,"title":"슬롯 머신에 바쿠를 매달다.","type":"REPLAY","cat":"talk","pub":1795451901122,"open":null,"dur":25866},
     {"no":16308231,"title":"멍청한 나를 위한 자동사냥 + 가챠 + 자동진행 게임","type":"REPLAY","cat":"슬롯바운드","pub":1795337952799,"open":null,"dur":12365},
@@ -3364,6 +3367,7 @@
   "lize": {
    "channelId": "4325b1d5bbc321fad3042306646e2e50",
    "videos": [
+    {"no":16381686,"title":"이거 공겜이에요?","type":"REPLAY","cat":"talk","pub":1795716097322,"open":null,"dur":20737},
     {"no":16365798,"title":"🍥🍜이랏쌰이마세~!! 일본 라멘가게 시뮬겜🍜🍥","type":"REPLAY","cat":"talk","pub":1795632125406,"open":null,"dur":28828},
     {"no":16347736,"title":"오랜만에 카페를 봐","type":"REPLAY","cat":"talk","pub":1795538338052,"open":null,"dur":19697},
     {"no":16300803,"title":"서폿 필요한팀 연락주세요. 돈없으면 리제써야지","type":"REPLAY","cat":"talk","pub":1795281849549,"open":null,"dur":23395},
@@ -4083,6 +4087,7 @@
   "tabi": {
    "channelId": "a6c4ddb09cdb160478996007bff35296",
    "videos": [
+    {"no":16371223,"title":"므아아앙","type":"REPLAY","cat":"talk","pub":1795684516644,"open":null,"dur":19002},
     {"no":16346940,"title":"299강 이기어검을 본 적이 있으신가요?","type":"REPLAY","cat":"마인크래프트","pub":1795536383397,"open":null,"dur":29188},
     {"no":16333677,"title":"와우","type":"REPLAY","cat":"talk","pub":1795457429939,"open":null,"dur":38079},
     {"no":16299231,"title":"찌로의 마끼 도박장","type":"REPLAY","cat":"마인크래프트","pub":1795277231141,"open":null,"dur":12072},
@@ -4845,6 +4850,7 @@
   "shibuki": {
    "channelId": "64d76089fba26b180d9c9e48a32600d9",
    "videos": [
+    {"no":16380603,"title":"오느른 BK건설 조경사업","type":"REPLAY","cat":"마인크래프트","pub":1795712778849,"open":null,"dur":28531},
     {"no":16364546,"title":"티모깔짞","type":"REPLAY","cat":"리그 오브 레전드","pub":1795626922984,"open":null,"dur":27383},
     {"no":16347387,"title":"스텔마크 가구 치장템 업데이트했대","type":"REPLAY","cat":"마인크래프트","pub":1795537571570,"open":null,"dur":28040},
     {"no":16317965,"title":"마크 깔짝","type":"REPLAY","cat":"마인크래프트","pub":1795368185977,"open":null,"dur":19192},
@@ -5546,6 +5552,7 @@
   "rin": {
    "channelId": "516937b5f85cbf2249ce31b0ad046b0f",
    "videos": [
+    {"no":16380113,"title":"chill한 방송","type":"REPLAY","cat":"마인크래프트","pub":1795710921648,"open":null,"dur":13321},
     {"no":16362253,"title":"저는 각도기인간입니다","type":"REPLAY","cat":"마인크래프트","pub":1795620979435,"open":null,"dur":16252},
     {"no":16318379,"title":"린의 농사에는 감동이 있다","type":"REPLAY","cat":"마인크래프트","pub":1795369942154,"open":null,"dur":17231},
     {"no":16298680,"title":"업데이트를 해","type":"REPLAY","cat":"마인크래프트","pub":1795275981983,"open":null,"dur":17461},
@@ -7462,6 +7469,7 @@
   "rang": {
    "channelId": "c657aa3592260a2b59669a72ec151936",
    "videos": [
+    {"no":16380980,"title":"운뚱땡이 호랑이","type":"REPLAY","cat":"마인크래프트","pub":1795714360001,"open":null,"dur":35271},
     {"no":16339672,"title":"호랑이","type":"REPLAY","cat":"마인크래프트","pub":1795515055964,"open":null,"dur":9089},
     {"no":16333507,"title":"랑이와찌","type":"REPLAY","cat":"마인크래프트","pub":1795457903054,"open":null,"dur":37491},
     {"no":16302415,"title":"호랑나비 산나비","type":"REPLAY","cat":"산나비","pub":1795288344823,"open":null,"dur":49844},
@@ -7499,6 +7507,7 @@
   "hiyori": {
    "channelId": "49d2c3cf8f0b2843d934ec15e82bb54c",
    "videos": [
+    {"no":16381832,"title":"히요리입니다. 안녕하세요.","type":"REPLAY","cat":"마인크래프트","pub":1795716928623,"open":null,"dur":21806},
     {"no":16321348,"title":"애니 노래 OST 월드컵 까자!!!!!! 『 완 』","type":"REPLAY","cat":"talk","pub":1795405092685,"open":null,"dur":47923},
     {"no":16304691,"title":"애니 노래 OST 월드컵 까자!!!!!!","type":"REPLAY","cat":"talk","pub":1795310965866,"open":null,"dur":47683},
     {"no":16286376,"title":"금요일..생방하나요?!","type":"REPLAY","cat":"흉우","pub":1795205473796,"open":null,"dur":19988},
