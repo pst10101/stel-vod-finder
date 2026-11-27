@@ -1,8 +1,9 @@
 {
- "updatedAt": 1795768205298,
+ "updatedAt": 1795814181630,
  "channels": {
   "UC2Ki6__sICXPyHPCyFxIgbw": {
    "videos": [
+    {"id":"kwrYs8Fl4Wk","ch":"UC2Ki6__sICXPyHPCyFxIgbw","m":"gangzi","title":"2026년 11월 13일 | 기특한 감자 ( 발로란트, 롤 )","pub":1795770039000,"liveStart":null,"liveEnd":null,"dur":31294,"titleDate":"2026-11-13","chapters":[[0,"시작"],[2083,"발로란트"],[12163,"롤"]]},
     {"id":"DYc3bSNt980","ch":"UC2Ki6__sICXPyHPCyFxIgbw","m":"gangzi","title":"2026년 11월 12일 | 왜 이러는 걸까요... ( 스텔서버 )","pub":1795424711000,"liveStart":null,"liveEnd":null,"dur":40533,"titleDate":"2026-11-12","chapters":[]},
     {"id":"daMstNFQrbM","ch":"UC2Ki6__sICXPyHPCyFxIgbw","m":"gangzi","title":"2026년 11월 10일 | 버팔로가 원래 나나요? ( 스텔서버 )","pub":1795254768000,"liveStart":null,"liveEnd":null,"dur":25705,"titleDate":"2026-11-10","chapters":[]},
     {"id":"jTpEmmo26jg","ch":"UC2Ki6__sICXPyHPCyFxIgbw","m":"gangzi","title":"2026년 11월 8일 | 나만 믿어요 요리씨! ( 스텔마크 )","pub":1795165235000,"liveStart":null,"liveEnd":null,"dur":22306,"titleDate":"2026-11-08","chapters":[]},
@@ -2400,6 +2401,7 @@
   },
   "@hinareplay": {
    "videos": [
+    {"id":"ZfCnHTlDZ0w","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"나여 [26. 11.25]","pub":1795768491000,"liveStart":null,"liveEnd":null,"dur":18044,"titleDate":"2026-11-25","chapters":[]},
     {"id":"W8y6etx_oA0","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"세카이니 이타미오,,, [26. 11.24]","pub":1795709561000,"liveStart":null,"liveEnd":null,"dur":24675,"titleDate":"2026-11-24","chapters":[]},
     {"id":"y048rh5rZys","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"카페탐방! [26. 11.22]","pub":1795538758000,"liveStart":null,"liveEnd":null,"dur":8033,"titleDate":"2026-11-22","chapters":[]},
     {"id":"fk9jR7Bapk4","ch":"UCnnR7k28ItzN1GAYx2rQ1rw","m":"hina","title":"역시 부수는 게 맞다니깐 [26. 11.23]","pub":1795538746000,"liveStart":null,"liveEnd":null,"dur":28765,"titleDate":"2026-11-23","chapters":[]},
@@ -4046,6 +4048,7 @@
   },
   "@lizereplay": {
    "videos": [
+    {"id":"58UL4t9IcLY","ch":"UC5qsIJIixQI5k2FfkW1j1NQ","m":"lize","title":"왕 재밌는 라멘 가게 시뮬레이터!! 갑니다 가요~!!💦 [Japanese Ramen Simulator | 2026.11.25]","pub":1795789259000,"liveStart":null,"liveEnd":null,"dur":28832,"titleDate":"2026-11-25","chapters":[[0,"인트로"],[370,"본녀 강림"],[4026,"라멘 가게 시뮬레이터"],[28194,"후열 저챗"]]},
     {"id":"5AAFGboYMjQ","ch":"UC5qsIJIixQI5k2FfkW1j1NQ","m":"lize","title":"천마의 숨겨진 말못할 욕망🩸 [카페 탐방 | 2026.11.24]","pub":1795685358000,"liveStart":null,"liveEnd":null,"dur":14175,"titleDate":"2026-11-24","chapters":[[0,"인트로"],[375,"본녀 강림"],[4409,"더브 나이트 라이브 플레이 후"],[4674,"카페 탐방"],[10097,"후열 저챗"]]},
     {"id":"RbhGGOPpEh4","ch":"UC5qsIJIixQI5k2FfkW1j1NQ","m":"lize","title":"여 정도현이~! 오랜만이네!!🪖 [예비군 + 리그 오브 레전드 | 2026.11.21]","pub":1795574702000,"liveStart":null,"liveEnd":null,"dur":23399,"titleDate":"2026-11-21","chapters":[[0,"인트로"],[272,"본녀 강림"],[3878,"예비군"],[9590,"중간 저챗"],[10451,"리그 오브 레전드"],[20566,"후열 저챗"]]},
     {"id":"gBFgVkxWnUA","ch":"UC5qsIJIixQI5k2FfkW1j1NQ","m":"lize","title":"어때 맘에 들어??✨ [마인크래프트 스텔서버 | 2026.11.20]","pub":1795366073000,"liveStart":null,"liveEnd":null,"dur":19531,"titleDate":"2026-11-20","chapters":[[0,"인트로"],[315,"본녀 강림"],[7027,"마인크래프트 스텔서버"],[19086,"후열 저챗"]]},
