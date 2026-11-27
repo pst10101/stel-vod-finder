@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795728625130,
+ "updatedAt": 1795768198355,
  "members": {
   "gangzi": {
    "channelId": "b5ed5db484d04faf4d150aedd362f34b",
@@ -7435,6 +7435,7 @@
   "toa": {
    "channelId": "2299fad4bebb504b0978e1ec08b2f7d3",
    "videos": [
+    {"no":16382227,"title":"벅샷 룰렛 + 스텔마꾸끄 엔더시티를 가부쟈","type":"REPLAY","cat":"마인크래프트","pub":1795765514506,"open":null,"dur":39994},
     {"no":16365125,"title":"예비군 + 봄바나나 합방 w. 유니선배, 나나선배, + 스텔마꾸","type":"REPLAY","cat":"봄바나나!","pub":1795632606263,"open":null,"dur":42583},
     {"no":16319072,"title":"오래 기다려찌","type":"REPLAY","cat":"마인크래프트","pub":1795411510246,"open":null,"dur":22796},
     {"no":16309796,"title":"🩷 1122 토아 생일파티래 부마야 🩷","type":"REPLAY","cat":"talk","pub":1795350200048,"open":null,"dur":6824},
@@ -7469,7 +7470,7 @@
   "rang": {
    "channelId": "c657aa3592260a2b59669a72ec151936",
    "videos": [
-    {"no":16380980,"title":"운뚱땡이 호랑이","type":"REPLAY","cat":"마인크래프트","pub":1795714360001,"open":null,"dur":35271},
+    {"no":16380980,"title":"운뚱땡이 호랑이","type":"REPLAY","cat":"마인크래프트","pub":1795714360001,"open":null,"dur":35270},
     {"no":16339672,"title":"호랑이","type":"REPLAY","cat":"마인크래프트","pub":1795515055964,"open":null,"dur":9089},
     {"no":16333507,"title":"랑이와찌","type":"REPLAY","cat":"마인크래프트","pub":1795457903054,"open":null,"dur":37491},
     {"no":16302415,"title":"호랑나비 산나비","type":"REPLAY","cat":"산나비","pub":1795288344823,"open":null,"dur":49844},
@@ -7507,7 +7508,7 @@
   "hiyori": {
    "channelId": "49d2c3cf8f0b2843d934ec15e82bb54c",
    "videos": [
-    {"no":16381832,"title":"히요리입니다. 안녕하세요.","type":"REPLAY","cat":"마인크래프트","pub":1795716928623,"open":null,"dur":21806},
+    {"no":16381832,"title":"히요리입니다. 안녕하세요.","type":"REPLAY","cat":"마인크래프트","pub":1795716928623,"open":null,"dur":21805},
     {"no":16321348,"title":"애니 노래 OST 월드컵 까자!!!!!! 『 완 』","type":"REPLAY","cat":"talk","pub":1795405092685,"open":null,"dur":47923},
     {"no":16304691,"title":"애니 노래 OST 월드컵 까자!!!!!!","type":"REPLAY","cat":"talk","pub":1795310965866,"open":null,"dur":47683},
     {"no":16286376,"title":"금요일..생방하나요?!","type":"REPLAY","cat":"흉우","pub":1795205473796,"open":null,"dur":19988},

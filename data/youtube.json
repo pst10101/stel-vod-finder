@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795728633082,
+ "updatedAt": 1795768205298,
  "channels": {
   "UC2Ki6__sICXPyHPCyFxIgbw": {
    "videos": [
@@ -2108,6 +2108,8 @@
   },
   "@Sakihanereplay": {
    "videos": [
+    {"id":"T1tCespNspc","ch":"UCJz5aRHEMTL10zLfMj5hVmg","m":"huya","title":"아주르 프로밀리아 261126","pub":1795759698000,"liveStart":null,"liveEnd":null,"dur":23950,"titleDate":"2026-11-26","chapters":[[0,"시작"],[341,"등장"],[2080,"아주르 프로밀리아 플레이"]]},
+    {"id":"Vg1YRqP24y4","ch":"UCJz5aRHEMTL10zLfMj5hVmg","m":"huya","title":"제드 존 261124","pub":1795741227000,"liveStart":null,"liveEnd":null,"dur":22326,"titleDate":"2026-11-24","chapters":[[0,"시작"],[81,"등장"],[3700,"제드 존 플레이"]]},
     {"id":"j4MAi5VRzZQ","ch":"UCJz5aRHEMTL10zLfMj5hVmg","m":"huya","title":"슬롯 바운드 261123","pub":1795696358000,"liveStart":null,"liveEnd":null,"dur":25870,"titleDate":"2026-11-23","chapters":[[0,"시작"],[177,"등장"],[7670,"슬롯 바운드 플레이"]]},
     {"id":"D4fOOCa3uzU","ch":"UCJz5aRHEMTL10zLfMj5hVmg","m":"huya","title":"슬롯 바운드 261122","pub":1795696152000,"liveStart":null,"liveEnd":null,"dur":12369,"titleDate":"2026-11-22","chapters":[[0,"시작"],[143,"등장"],[2260,"슬롯 바운드 플레이"]]},
     {"id":"lFCMwsfdgSA","ch":"UCJz5aRHEMTL10zLfMj5hVmg","m":"huya","title":"저챗, 아주르 프로밀리아 공방 같이보기 261121","pub":1795432761000,"liveStart":null,"liveEnd":null,"dur":6009,"titleDate":"2026-11-21","chapters":[[0,"시작"],[344,"등장"],[1599,"아주르 프로밀리아 공방 같이보기"]]},
@@ -4858,6 +4860,7 @@
   },
   "@tabireplay": {
    "videos": [
+    {"id":"Qh4HQMuo8v0","ch":"UCOAD3RLV7uC3uc39ok7NLyg","m":"tabi","title":"[2026.11.26] 신작 게임 아주르 프로밀리아 광고!","pub":1795730785000,"liveStart":null,"liveEnd":null,"dur":19007,"titleDate":"2026-11-26","chapters":[[0,"Loading"],[268,"Just Chatting"],[3635,"아주르 프로밀리아"],[18870,"방종"]]},
     {"id":"82ipsK3EI68","ch":"UCOAD3RLV7uC3uc39ok7NLyg","m":"tabi","title":"[2026.11.24] 포지택스 + 스텔마크","pub":1795682372000,"liveStart":null,"liveEnd":null,"dur":29193,"titleDate":"2026-11-24","chapters":[[0,"Loading"],[310,"Just Chatting"],[5808,"포지택스"],[18859,"스텔마크"],[29144,"방종"]]},
     {"id":"l3aaxETN534","ch":"UCOAD3RLV7uC3uc39ok7NLyg","m":"tabi","title":"[2026.11.11] 빼빼로데이 진실 혹은 거짓 + 미소녀 연구동아리(w. 나나) + 로블록스 연습","pub":1795682361000,"liveStart":null,"liveEnd":null,"dur":32803,"titleDate":"2026-11-11","chapters":[[0,"Loading"],[446,"Just Chatting"],[6067,"빼빼로데이 진실 혹은 거짓"],[11103,"미소녀 연구동아리(w. 나나)"],[16182,"로블록스 연습"],[32720,"방종"]]},
     {"id":"f39zUJyDC2Y","ch":"UCOAD3RLV7uC3uc39ok7NLyg","m":"tabi","title":"[2026.11.23] 더 데스 게임 리포트 + 스텔마크","pub":1795575987000,"liveStart":null,"liveEnd":null,"dur":31551,"titleDate":"2026-11-23","chapters":[[0,"Loading"],[246,"Just Chatting"],[10690,"더 데스 게임 리포트"],[22302,"스텔마크"],[31418,"방종"]]},
@@ -7783,6 +7786,7 @@
   },
   "@rikoreplay": {
    "videos": [
+    {"id":"WMk6YI_Eb0Y","ch":"UCVZcw2SMyL6h5CfKSCs42_A","m":"riko","title":"신청만 하면 OK! 지금 바로 가입신청! [스텔라이브 마인크래프트 서버] [2026.11.25]","pub":1795734989000,"liveStart":null,"liveEnd":null,"dur":17798,"titleDate":"2026-11-25","chapters":[[0,"용사 등장!"],[224,"스텔라이브 마인크래프트 서버"],[17599,"토크"]]},
     {"id":"fn8UbLT4BMM","ch":"UCVZcw2SMyL6h5CfKSCs42_A","m":"riko","title":"둘이 같이 살면 거덜나요 [명일방주 : 엔드필드] [2026.11.25]","pub":1795685948000,"liveStart":null,"liveEnd":null,"dur":7312,"titleDate":"2026-11-25","chapters":[[0,"용사 등장!"],[199,"명일방주 : 엔드필드 [광고]"]]},
     {"id":"38f-B11U2AA","ch":"UCVZcw2SMyL6h5CfKSCs42_A","m":"riko","title":"본업행동 한 번 해볼까? [ForgeTax / 리그 오브 레전드] [2026.11.24]","pub":1795598632000,"liveStart":null,"liveEnd":null,"dur":19973,"titleDate":"2026-11-24","chapters":[[0,"용사 등장!"],[1434,"ForgeTax"],[11606,"리그 오브 레전드"],[19783,"토크"]]},
     {"id":"UD6A5LzsY5I","ch":"UCVZcw2SMyL6h5CfKSCs42_A","m":"riko","title":"다시 꼭 만나자 아탄아 [ForgeTax / 스텔 마크서버] [2026.11.23]","pub":1795510937000,"liveStart":null,"liveEnd":null,"dur":35790,"titleDate":"2026-11-23","chapters":[[0,"용사 등장!"],[3727,"ForgeTax"],[24099,"스텔라이브 마인크래프트 서버"],[35413,"토크"]]},
@@ -8456,6 +8460,8 @@
   },
   "@toareplay": {
    "videos": [
+    {"id":"lqU3RW6O5kM","ch":"UCVtHg1HdM0QWInWH5QxUL3A","m":"toa","title":"[26.10.29] 8번 출구 + 수박게임","pub":1795763544000,"liveStart":null,"liveEnd":null,"dur":21525,"titleDate":"2026-10-29","chapters":[]},
+    {"id":"5VpqBNXJee4","ch":"UCVtHg1HdM0QWInWH5QxUL3A","m":"toa","title":"[26.10.28] 레이튼 + 첫 증바람","pub":1795763435000,"liveStart":null,"liveEnd":null,"dur":39577,"titleDate":"2026-10-28","chapters":[]},
     {"id":"vmKlokyQ8Dg","ch":"UCVtHg1HdM0QWInWH5QxUL3A","m":"toa","title":"[26.10.26] 항아리 게임 2","pub":1794041841000,"liveStart":null,"liveEnd":null,"dur":31785,"titleDate":"2026-10-26","chapters":[]},
     {"id":"1BMC4e8lAtg","ch":"UCVtHg1HdM0QWInWH5QxUL3A","m":"toa","title":"[26.10.25] 항아리 게임 1","pub":1794041809000,"liveStart":null,"liveEnd":null,"dur":41398,"titleDate":"2026-10-25","chapters":[]},
     {"id":"hheb2Tz7mAI","ch":"UCVtHg1HdM0QWInWH5QxUL3A","m":"toa","title":"[26.10.24] 토요리 A WAY OUT","pub":1793896195000,"liveStart":null,"liveEnd":null,"dur":25738,"titleDate":"2026-10-24","chapters":[]},
@@ -8514,6 +8520,9 @@
   },
   "@maryreplay": {
    "videos": [
+    {"id":"WeSoXi3qTc0","ch":"UCsfl49B6oPk_l2sQ29NTCrg","m":"mary","title":"아니 진짜 아는 노래인데 뭐였더라 [과자 티어표 + 마추기 아이오 + 스텔마크]【26.11.25】","pub":1795767806000,"liveStart":null,"liveEnd":null,"dur":25837,"titleDate":"2026-11-25","chapters":[]},
+    {"id":"3ZUCJgauqC0","ch":"UCsfl49B6oPk_l2sQ29NTCrg","m":"mary","title":"제가 쥐때끼라니요...? [트롤리 딜레마 + 스텔마크]【26.11.22】","pub":1795767789000,"liveStart":null,"liveEnd":null,"dur":13679,"titleDate":"2026-11-22","chapters":[]},
+    {"id":"DldPBxhFc1w","ch":"UCsfl49B6oPk_l2sQ29NTCrg","m":"mary","title":"돈 갚는다구요ㅠㅠ [클로버핏]【26.11.21】","pub":1795767786000,"liveStart":null,"liveEnd":null,"dur":23573,"titleDate":"2026-11-21","chapters":[]},
     {"id":"XUwKLdgpaFg","ch":"UCsfl49B6oPk_l2sQ29NTCrg","m":"mary","title":"바보협회에 들어갈 인재인가? [전국 일반상식 체크 + 예비군 + 스텔 마크]【26.11.20】","pub":1795703957000,"liveStart":null,"liveEnd":null,"dur":35933,"titleDate":"2026-11-20","chapters":[]},
     {"id":"PFqQNkqtgSI","ch":"UCsfl49B6oPk_l2sQ29NTCrg","m":"mary","title":"언더테일 불살루트인데 이해를 못 했따 [undertale]【26.11.18】","pub":1795703955000,"liveStart":null,"liveEnd":null,"dur":33521,"titleDate":"2026-11-18","chapters":[]},
     {"id":"Ofpy432t94c","ch":"UCsfl49B6oPk_l2sQ29NTCrg","m":"mary","title":"린 선배와 함께 엔더 월드 탐방!! [스텔 마크]【26.11.15】","pub":1795344702000,"liveStart":null,"liveEnd":null,"dur":19665,"titleDate":"2026-11-15","chapters":[]},
